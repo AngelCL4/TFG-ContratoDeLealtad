@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano12V1",
+      "portrait": "Aldeano12V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por ayudarnos, no sabía cuanto más podríamos aguantar."
+    },
+    {
+      "character": "Aldeano12V1",
+      "portrait": "Aldeano12V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Usad este tónico de poder para liberar al resto de la aldea..."
+    }
+  ]
+}

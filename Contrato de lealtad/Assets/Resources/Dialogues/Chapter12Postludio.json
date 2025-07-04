@@ -1,0 +1,55 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest6",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah...",
+      "music": "Grief2"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sin comandante, el resto de aldeanos se rinden."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tanta muerte que podría haberse evitado."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero no tenemos tiempo para enfadarnos o sentir pena. Esos malditos se alejan cada segundo que estamos aquí, sigamos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Demain..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vamos."
+    }
+  ]
+}

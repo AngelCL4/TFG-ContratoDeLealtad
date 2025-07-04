@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Helxes",
+      "portrait": "HelxesEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estás llena de odio."
+    },
+    {
+      "character": "Finuin",
+      "portrait": "Finuin",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Después de ver las atrocidades que cometéis, ¿cómo no estarlo?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Atrocidades... ¿no es lo mismo que hicistéis vosotros?"
+    },
+    {
+      "character": "Finuin",
+      "portrait": "Finuin",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Dejemos de hablar, toca pelear."
+    }
+  ]
+}

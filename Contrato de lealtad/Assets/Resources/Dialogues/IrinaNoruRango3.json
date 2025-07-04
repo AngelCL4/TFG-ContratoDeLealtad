@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayHouseExterior",
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Buenos días, Irina.",
+      "music": "EndlessWoods"
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Buenos días. Mmm... te siento mucho más maduro esta mañana."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No hace falta que digas eso, ya no estoy tan obsesionado."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh... Qué rápido crecen.."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muy graciosa. He oído que estás planeando dejar el título de Dama Dorada."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, es cierto."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué?"
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "He dejado de buscar la gloria y convertirme en una leyenda, así que veía necesario dejar ese nombre."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero..."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Siempre había querido morir por todo lo alto, dejando un gran legado. Pero me he dado cuenta de que prefiero vivir mi vida hasta el final, acompañada de la gente que me quiere."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vaya... y yo que pensaba que no te podía admirar más."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaAlivioB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, muchas gracias."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que ambos hemos madurado."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso es cierto, se nota que da igual lo mayor que seas, puedes seguir evolucionando."
+    }
+  ]
+}

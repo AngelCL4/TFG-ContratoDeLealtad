@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest1",
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Estás bien, Lisella?",
+      "music": "LaidBack3"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Selden, ¿qué haces aquí?"
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "He oído que tú y Demain estábais... en un momento complicado."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estoy bien ahora, pero gracias por preocuparte."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me alegro de oírlo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Je, me alegro de que estés aprendiendo a confiar más en la gente."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hago lo mejor que puedo, sois mis amigos, así que tengo que hacer un esfuerzo, ¿verdad?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro, ¿tienes algo que hacer ahora?"
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, justo ahora no, ¿quieres algo?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pues pasa, he hecho demasiado té y estaba pensando en llamar a alguien para compartir una taza."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Té? Eh... Vale, ponme una taza."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "En ello estoy..."
+    }
+  ]
+}

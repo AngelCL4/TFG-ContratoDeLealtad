@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "SnowHouseExterior",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿No quedan más bandidos?",
+      "music": "SoftDay"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que no."
+    },
+    {
+      "character": "Aldeano1V2",
+      "portrait": "Aldeano1V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nos habéis salvado, muchas gracias."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No es nada, para esos estamos. Si sabemos luchar es justo que luchemos por aquellos que no pueden."
+    },
+    {
+      "character": "Aldeano1V2",
+      "portrait": "Aldeano1V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que palabras más sabias. ¿Qué tal si pasáis la noche en la posada?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro, estamos muy cansados tras defenderos de esos bandidos..."
+    },
+    {
+      "character": "Aldeano1V2",
+      "portrait": "Aldeano1V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, intentaré dejaros que esta noche no os cueste dinero, como agradecimiento."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Os lo agradecemos mucho."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Un poco manipuladora, ¿no crees?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Para nada, es lo mínimo que pueden hacer por nosotros, hemos puesto en juego nuestra vida."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No seas aguafiestas, vamos, nuestras camas nos esperan."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... ¿qué voy a hacer contigo?"
+    }
+  ]
+}

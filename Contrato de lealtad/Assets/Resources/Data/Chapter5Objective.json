@@ -1,0 +1,6 @@
+{
+  "victoryCondition": "Sobrevivir",
+  "victoryDetails": "Sobrevive por un número determinado de turnos",
+  "defeatDetails": "Todas las unidades son derrotadas",
+  "turnos": 15
+}

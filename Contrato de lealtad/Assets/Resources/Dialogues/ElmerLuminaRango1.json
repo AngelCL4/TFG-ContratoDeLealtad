@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightCampsite2",
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hmm.",
+      "music": "GlowingMoon"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Tengo algo en la cara? No paras de mirarme."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Has... perdido a alguien importante?"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué clase de pregunta...?"
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es solo una suposición..."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y en que te basas para decir eso?"
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Me recuerdas... a alguien que conozco."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No creo que a esa persona y a mi se nos pueda aplicar lo mismo."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Quizás."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si eso es todo... me voy a marchar ya."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Como quieras."
+    }
+  ]
+}

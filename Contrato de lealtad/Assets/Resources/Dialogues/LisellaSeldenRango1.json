@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayHouseExterior",
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Woah. Au...",
+      "music": "Harvest6"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Selden, ¿estás bien?"
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estoy bien... Hola Lisella."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué haces con tantas cosas?"
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh... se supone que iba a comprar un poco de comida para el futuro, pero se ve que los tenderos tenían ganas de acabar con su mercancía y me han dado algunas cosas gratis."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo... dame unas pocas cosas, te ayudaré."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? No, este es mi problema, tú has lo que fueras a hacer."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No iba a hacer nada, estaba dando una vuelta. Venga."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "He dicho que no. Vete a dar tu vuelta y déjame a mí."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero..."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Ah... Tengo que seguir."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento..."
+    }
+  ]
+}

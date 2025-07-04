@@ -1,0 +1,4686 @@
+{
+    "mapWidth": 23,
+    "mapHeight": 24,
+    "cells": [
+        {
+            "x": 0,
+            "y": 23,
+            "terrain": "Fort1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 23,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 23,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 23,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 23,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 23,
+            "terrain": "Road15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 23,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 23,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 23,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 23,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 23,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 23,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 22,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 22,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 22,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 22,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 22,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 22,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 22,
+            "terrain": "Road5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 22,
+            "terrain": "Bridge1",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 22,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 22,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 22,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 22,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 21,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 21,
+            "terrain": "River3",
+            "rotation": 270.0,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 21,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 21,
+            "terrain": "Bridge1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 21,
+            "terrain": "River3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 21,
+            "terrain": "Village7",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 21,
+            "terrain": "Village10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 21,
+            "terrain": "Village9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 21,
+            "terrain": "River3",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 21,
+            "terrain": "River3",
+            "rotation": 0.0,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 21,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 21,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 21,
+            "terrain": "River3",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 21,
+            "terrain": "River2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 20,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 20,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 20,
+            "terrain": "Village4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 20,
+            "terrain": "Village5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 20,
+            "terrain": "Village6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 20,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 20,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 20,
+            "terrain": "Fort1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 20,
+            "terrain": "River3",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 20,
+            "terrain": "River2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 20,
+            "terrain": "Bridge1",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 20,
+            "terrain": "River4",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 20,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 20,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 19,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 19,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 19,
+            "terrain": "Village1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 19,
+            "terrain": "Village2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 19,
+            "terrain": "Village3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 19,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 19,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 19,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 19,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 19,
+            "terrain": "River2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 19,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 19,
+            "terrain": "River2",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 19,
+            "terrain": "Fort1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 18,
+            "terrain": "Bridge1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 18,
+            "terrain": "River4",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 18,
+            "terrain": "River3",
+            "rotation": 270.0,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 18,
+            "terrain": "River3",
+            "rotation": 0.0,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 18,
+            "terrain": "River4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 18,
+            "terrain": "River3",
+            "rotation": 0.0,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 18,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 18,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 18,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 18,
+            "terrain": "River2",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 18,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 17,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 17,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 17,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 17,
+            "terrain": "Bridge1",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 17,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "terrain": "Road3",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 16,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 16,
+            "terrain": "Road9",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 16,
+            "terrain": "Road9",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 16,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 16,
+            "terrain": "River2",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 16,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "terrain": "Road2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 15,
+            "terrain": "Road9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 15,
+            "terrain": "Road9",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 15,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 15,
+            "terrain": "River3",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 15,
+            "terrain": "River2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 14,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 14,
+            "terrain": "Lake7",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 14,
+            "terrain": "Lake2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 14,
+            "terrain": "Lake6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 14,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "terrain": "Lake7",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "terrain": "Lake6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 13,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 13,
+            "terrain": "Fort1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 13,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 13,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 13,
+            "terrain": "Lake8",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 13,
+            "terrain": "Lake3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 13,
+            "terrain": "Lake9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 13,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 13,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "terrain": "Lake8",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "terrain": "Lake9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 12,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 12,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 12,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 12,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 12,
+            "terrain": "Road14",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 12,
+            "terrain": "Road16",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 12,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 12,
+            "terrain": "Road14",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 12,
+            "terrain": "Road14",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "terrain": "Cliff7",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "terrain": "Cliff8",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 11,
+            "terrain": "Cliff5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 11,
+            "terrain": "Cliff9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 11,
+            "terrain": "Cliff6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 11,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 11,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 11,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 11,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 11,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 11,
+            "terrain": "Road16",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 11,
+            "terrain": "Road16",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 11,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "terrain": "Cliff2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 10,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 10,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 10,
+            "terrain": "Cliff2",
+            "rotation": 180.0,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 10,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 10,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "terrain": "Mountain77",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 10,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 10,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 10,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 10,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 10,
+            "terrain": "Cliff3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 10,
+            "terrain": "Cliff4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 10,
+            "terrain": "Cliff6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 10,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 10,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 10,
+            "terrain": "Road15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 10,
+            "terrain": "Cliff3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 10,
+            "terrain": "Cliff4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "terrain": "Road14",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "terrain": "Cliff1",
+            "rotation": 180.0,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "terrain": "Mountain1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "terrain": "Mountain2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 9,
+            "terrain": "Mountain3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 9,
+            "terrain": "Mountain4",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 9,
+            "terrain": "Thicket1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 9,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 9,
+            "terrain": "Cliff2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 9,
+            "terrain": "Cliff2",
+            "rotation": 180.0,
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 9,
+            "terrain": "Road15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 9,
+            "terrain": "Cliff2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 9,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "terrain": "Road15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "terrain": "Mountain1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 8,
+            "terrain": "Mountain50",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 8,
+            "terrain": "Mountain44",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 8,
+            "terrain": "Mountain4",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 8,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 8,
+            "terrain": "Road15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 8,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "terrain": "Road15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "terrain": "Mountain2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 7,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 7,
+            "terrain": "Mountain49",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 7,
+            "terrain": "Mountain51",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 7,
+            "terrain": "Mountain44",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 7,
+            "terrain": "Mountain5",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 7,
+            "terrain": "Mountain77",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 7,
+            "terrain": "Road5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 7,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "terrain": "Road5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "terrain": "Mountain2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 6,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 6,
+            "terrain": "Mountain50",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 6,
+            "terrain": "Mountain56",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 6,
+            "terrain": "Mountain45",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 6,
+            "terrain": "Mountain5",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 6,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 6,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 6,
+            "terrain": "Village7",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 6,
+            "terrain": "Village10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 6,
+            "terrain": "Village9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 6,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "terrain": "Village7",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "terrain": "Village10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "terrain": "Village9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "terrain": "Mountain2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 5,
+            "terrain": "Mountain51",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 5,
+            "terrain": "Mountain55",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 5,
+            "terrain": "Mountain47",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 5,
+            "terrain": "Mountain5",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 5,
+            "terrain": "Mountain77",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 5,
+            "terrain": "Forest2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 5,
+            "terrain": "Fort1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 5,
+            "terrain": "Forest1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 5,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 5,
+            "terrain": "Village4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 5,
+            "terrain": "Village5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 5,
+            "terrain": "Village6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 5,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "terrain": "Village4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "terrain": "Village5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "terrain": "Village6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "terrain": "Grass1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "terrain": "Fort1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "terrain": "Mountain77",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "terrain": "Mountain2",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 4,
+            "terrain": "Mountain51",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 4,
+            "terrain": "Mountain56",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 4,
+            "terrain": "Mountain44",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 4,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 4,
+            "terrain": "Mountain5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 4,
+            "terrain": "Mountain5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 4,
+            "terrain": "Mountain5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 4,
+            "terrain": "Mountain4",
+            "rotation": 90.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 4,
+            "terrain": "Mountain77",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 4,
+            "terrain": "Village1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 4,
+            "terrain": "Village2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 4,
+            "terrain": "Village3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 4,
+            "terrain": "Rock1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "terrain": "Hill1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "terrain": "Village1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "terrain": "Village2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "terrain": "Village3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "terrain": "Mountain77",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "terrain": "Mountain1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "terrain": "Mountain2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "terrain": "Mountain2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "terrain": "Mountain49",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 3,
+            "terrain": "Mountain58",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 3,
+            "terrain": "Mountain47",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 3,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 3,
+            "terrain": "Mountain42",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 3,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 3,
+            "terrain": "Mountain45",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 3,
+            "terrain": "Mountain42",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 3,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 3,
+            "terrain": "Mountain5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 3,
+            "terrain": "Mountain5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 3,
+            "terrain": "Mountain5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 3,
+            "terrain": "Mountain5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 3,
+            "terrain": "Mountain5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "terrain": "Mountain1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "terrain": "Mountain2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "terrain": "Mountain2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "terrain": "Mountain2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "terrain": "Mountain2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "terrain": "Mountain49",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "terrain": "Mountain58",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "terrain": "Mountain47",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "terrain": "Mountain56",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 2,
+            "terrain": "Mountain47",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 2,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 2,
+            "terrain": "Mountain45",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 2,
+            "terrain": "Mountain55",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 2,
+            "terrain": "Mountain44",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 2,
+            "terrain": "Mountain42",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 2,
+            "terrain": "Mountain42",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 2,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 2,
+            "terrain": "Mountain43",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 2,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 2,
+            "terrain": "Mountain42",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "terrain": "Mountain48",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "terrain": "Mountain49",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "terrain": "Mountain50",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "terrain": "Mountain50",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "terrain": "Mountain51",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "terrain": "Mountain51",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "terrain": "Mountain58",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "terrain": "Mountain47",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "terrain": "Mountain43",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "terrain": "Mountain55",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "terrain": "Mountain45",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 1,
+            "terrain": "Mountain43",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 1,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 1,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 1,
+            "terrain": "Mountain42",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 1,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 1,
+            "terrain": "Mountain43",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 1,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "terrain": "Mountain50",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "terrain": "Mountain49",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "terrain": "Mountain50",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "terrain": "Mountain50",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "terrain": "Mountain50",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "terrain": "Mountain51",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "terrain": "Mountain51",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "terrain": "Mountain58",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "terrain": "Mountain44",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "terrain": "Mountain55",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "terrain": "Mountain47",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "terrain": "Mountain55",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "terrain": "Mountain47",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "terrain": "Mountain43",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "terrain": "Mountain56",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "terrain": "Mountain44",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "terrain": "Mountain43",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "terrain": "Mountain42",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 21,
+            "y": 0,
+            "terrain": "Mountain41",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 22,
+            "y": 0,
+            "terrain": "Mountain43",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        }
+    ],
+    "playerSpawnPositions": [
+        {
+            "x": 0.0,
+            "y": 17.0
+        },
+        {
+            "x": 0.0,
+            "y": 16.0
+        },
+        {
+            "x": 0.0,
+            "y": 18.0
+        },
+        {
+            "x": 0.0,
+            "y": 15.0
+        },
+        {
+            "x": 0.0,
+            "y": 14.0
+        },
+        {
+            "x": 0.0,
+            "y": 13.0
+        },
+        {
+            "x": 1.0,
+            "y": 13.0
+        },
+        {
+            "x": 1.0,
+            "y": 14.0
+        },
+        {
+            "x": 1.0,
+            "y": 15.0
+        },
+        {
+            "x": 1.0,
+            "y": 16.0
+        },
+        {
+            "x": 1.0,
+            "y": 17.0
+        },
+        {
+            "x": 1.0,
+            "y": 18.0
+        },
+        {
+            "x": 2.0,
+            "y": 14.0
+        },
+        {
+            "x": 2.0,
+            "y": 15.0
+        },
+        {
+            "x": 2.0,
+            "y": 16.0
+        },
+        {
+            "x": 2.0,
+            "y": 17.0
+        },
+        {
+            "x": 3.0,
+            "y": 15.0
+        },
+        {
+            "x": 3.0,
+            "y": 16.0
+        },
+        {
+            "x": 3.0,
+            "y": 17.0
+        },
+        {
+            "x": 3.0,
+            "y": 18.0
+        },
+        {
+            "x": 4.0,
+            "y": 16.0
+        }
+    ],
+    "enemySpawnPositions": [
+        {
+            "x": 0.0,
+            "y": 7.0
+        },
+        {
+            "x": 0.0,
+            "y": 23.0
+        },
+        {
+            "x": 1.0,
+            "y": 19.0
+        },
+        {
+            "x": 3.0,
+            "y": 8.0
+        },
+        {
+            "x": 3.0,
+            "y": 10.0
+        },
+        {
+            "x": 3.0,
+            "y": 22.0
+        },
+        {
+            "x": 4.0,
+            "y": 6.0
+        },
+        {
+            "x": 4.0,
+            "y": 13.0
+        },
+        {
+            "x": 4.0,
+            "y": 20.0
+        },
+        {
+            "x": 5.0,
+            "y": 10.0
+        },
+        {
+            "x": 5.0,
+            "y": 23.0
+        },
+        {
+            "x": 6.0,
+            "y": 4.0
+        },
+        {
+            "x": 6.0,
+            "y": 13.0
+        },
+        {
+            "x": 7.0,
+            "y": 7.0
+        },
+        {
+            "x": 7.0,
+            "y": 15.0
+        },
+        {
+            "x": 7.0,
+            "y": 16.0
+        },
+        {
+            "x": 7.0,
+            "y": 19.0
+        },
+        {
+            "x": 9.0,
+            "y": 9.0
+        },
+        {
+            "x": 9.0,
+            "y": 17.0
+        },
+        {
+            "x": 9.0,
+            "y": 22.0
+        },
+        {
+            "x": 10.0,
+            "y": 13.0
+        },
+        {
+            "x": 11.0,
+            "y": 15.0
+        },
+        {
+            "x": 12.0,
+            "y": 9.0
+        },
+        {
+            "x": 12.0,
+            "y": 17.0
+        },
+        {
+            "x": 13.0,
+            "y": 23.0
+        },
+        {
+            "x": 14.0,
+            "y": 8.0
+        },
+        {
+            "x": 15.0,
+            "y": 12.0
+        },
+        {
+            "x": 15.0,
+            "y": 16.0
+        },
+        {
+            "x": 16.0,
+            "y": 5.0
+        },
+        {
+            "x": 16.0,
+            "y": 9.0
+        },
+        {
+            "x": 16.0,
+            "y": 20.0
+        },
+        {
+            "x": 16.0,
+            "y": 22.0
+        },
+        {
+            "x": 18.0,
+            "y": 7.0
+        },
+        {
+            "x": 18.0,
+            "y": 13.0
+        },
+        {
+            "x": 18.0,
+            "y": 17.0
+        },
+        {
+            "x": 19.0,
+            "y": 11.0
+        },
+        {
+            "x": 19.0,
+            "y": 15.0
+        },
+        {
+            "x": 19.0,
+            "y": 19.0
+        },
+        {
+            "x": 19.0,
+            "y": 23.0
+        },
+        {
+            "x": 21.0,
+            "y": 7.0
+        },
+        {
+            "x": 21.0,
+            "y": 21.0
+        },
+        {
+            "x": 22.0,
+            "y": 9.0
+        },
+        {
+            "x": 22.0,
+            "y": 13.0
+        },
+        {
+            "x": 22.0,
+            "y": 19.0
+        }
+    ]
+}

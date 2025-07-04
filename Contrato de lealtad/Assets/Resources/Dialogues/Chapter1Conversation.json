@@ -1,0 +1,105 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeTavern1",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "Alleyway"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te pasa algo? No has hablado desde que recogimos la fortuna de la familia."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es solo que no me esperaba que hubiese tantas cosas, con esto no tendremos problemas en mucho tiempo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Quizás deberíamos ir pensando en... eso."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Puede ser, aunque estamos bastante lejos de Hislan. Podríamos viajar al sur un poco primero."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No sé... creo que cuanto antes reclutamos a algún mercenario, mejor será. Así pelearemos mejor a su lado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso si es verdad, quizás deberíamos..."
+    },
+    {
+      "character": "Aldeano5V2",
+      "portrait": "Aldeano5V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ayuda, por favor, unos bandidos se han colado en la aldea!",
+      "music": "Valiant"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué, han acabado con los guardias?"
+    },
+    {
+      "character": "Aldeano5V2",
+      "portrait": "Aldeano5V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No queda nadie para defendernos..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No os dejaré morir. Lisella, vamos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nosotros dos no podremos con una banda de bandidos coordinada."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Reclutemos a algún mercenario de los que hay por aquí, toma el dinero, yo me adelantaré."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Espera! Ah... Habrá que darse prisa, veamos."
+    }
+  ]
+}

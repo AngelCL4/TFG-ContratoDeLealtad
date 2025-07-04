@@ -1,0 +1,132 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "EveningFortView",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Siel, ¿qué haces aquí?",
+      "music": "ScealRealta2"
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mirando el atardecer, me ayuda a pensar."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm, la verdad es que es muy bonito."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quería preguntarte algo, ¿te importa?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No, ¿qué pasa?"
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Cuáles son tus planes a futuro?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿A futuro, te refieres a después de restaurar el reino?"
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Exacto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...No lo tengo muy claro, creo que... prefiero restaurar el reino antes de pensar en lo que vendrá después."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Porque no crees que seas capaz de hacerlo?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sinceramente... no lo sé, pero lo intentaré."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entiendo, eso era todo lo que quería saber."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y puedo preguntar lo que querías saber?"
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No, lo siento."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale... Se está haciendo de noche, deberíamos volver."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ahora iré, ve adelantándote."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "No tardes."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielFeliz",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "¿Puedo dejar a una persona así a cargo del reino? No, definitivamente no..."
+    }
+  ]
+}

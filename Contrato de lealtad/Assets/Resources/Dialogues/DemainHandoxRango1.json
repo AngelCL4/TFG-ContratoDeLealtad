@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeHills2",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Handox, aquí estás.",
+      "music": "KittensCaprice"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Me buscabas?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, he oído unas cosas raras en el anterior pueblo que hemos visitado."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sobre mí, supongo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Exacto, decían que haces una especie de... trabajos nocturnos."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso hago, pero no te preocupes, son de una sola noche así que no interferirán con mi compromiso contigo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿De verdad estás vendiendo tu cuerpo?"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, ¿qué pasa, estás interesado?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidadB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No, solo me preguntaba si te estaba pagando demasiado poco."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No hago esos trabajos por el dinero, aunque es un añadido que no rechazo. La gente quiere acostarse con alguien atractivo y yo quiero desconectar de mi trabajo como mercenario, es positivo para ambos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo..."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Seguro que lo entiendes?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo... que no del todo, pero es tu vida y no tengo derecho a decirte como vivirla."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esas son unas sabias palabras. Si alguna vez estás interesado házmelo saber, no te cobraré nada, considéralo un agradecimiento por darme trabajo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfadoB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... lo tendré en cuenta..."
+    }
+  ]
+}

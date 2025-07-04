@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tenía esto preparado para cuando el príncipe volviese, tomadlo."
+    },
+    {
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es viento embotellado, se supone que quien lo use se moverá más rápido."
+    }
+  ]
+}

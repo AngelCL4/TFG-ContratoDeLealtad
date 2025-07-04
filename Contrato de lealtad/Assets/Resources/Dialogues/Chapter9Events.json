@@ -1,0 +1,77 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Antes de que se me olvide, cada uno, tomad esto."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Pero esto... es mucho dinero."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Cuando alguien visite una aldea, dadles este dinero. Al eliminar a estos mercenarios les estamos dejando sin protección y esto les ayudará a defenderse."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Por lo menos así estarán seguros hasta que se restaure el reino."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaTriste",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Demain..."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "¿Qué?"
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaFeliz",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Nada, vamos allá."
+        }
+      ]
+    },
+    {
+      "turno": 3,
+      "dialogue": [
+        {
+          "character": "Finuin",
+          "portrait": "Finuin",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "¿Este grupo tan pequeño ha podido con...? No, no debería subestimarlos."
+        },
+        {
+          "character": "Finuin",
+          "portrait": "Finuin",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "¡No pasarán de aquí! Atacad sin piedad."
+        }
+      ]
+    }
+  ]
+}

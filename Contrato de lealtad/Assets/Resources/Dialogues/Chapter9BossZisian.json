@@ -1,0 +1,40 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Finuin",
+      "portrait": "Finuin",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué lucháis por un tirano que quiere someternos después de toda la miseria que sufrimos a manos de su padre?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si tanto sufristéis ante un gobernador, ¿por qué instauráis a otro?"
+    },
+    {
+      "character": "Finuin",
+      "portrait": "Finuin",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Nuestro líder sabe lo que es mejor para Hilsan, no como ese tirano."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Seguro que mucha otra gente pensaba eso del rey de Hislan, ¿y que vais a hacer con ellos, matarlos a todos?"
+    },
+    {
+      "character": "Finuin",
+      "portrait": "Finuin",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Creo que empezaré contigo."
+    }
+  ]
+}

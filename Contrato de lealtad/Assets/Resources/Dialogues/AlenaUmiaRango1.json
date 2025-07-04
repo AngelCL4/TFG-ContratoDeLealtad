@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp1Alt",
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eres Umia, ¿verdad?",
+      "music": "Night"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, ¿tú eres...?"
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Alena. He oído que... desertarse del ejército de Mildea."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es cierto, ¿por?"
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Simplemente tenía curiosidad por lo que te llevó a tomar esa decisión."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm, ¿eres de Mildea?"
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Sí."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces debes conocer como funciona el ejército de allí, no veo la necesidad de explicarlo."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Solo conozco lo básico."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Resumiendo, conflictos de intereses, no me sentía cómoda así que me fui, así de simple."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo..."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y por qué tenías tanta curiosidad por mí?"
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Solo... quería saber que llevaría a alguien a tomar esa decisión."
+    }
+  ]
+}

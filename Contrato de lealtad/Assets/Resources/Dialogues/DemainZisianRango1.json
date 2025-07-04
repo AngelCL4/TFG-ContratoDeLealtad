@@ -1,0 +1,118 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent3",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Zisian, estás aquí?",
+      "music": "Alleyway"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Demain? Sí, que pasa."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya está la comida, venía a avisarte."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, gracias."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué haces con ese libro?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Mi libro? ¿Qué pasa con él?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Siempre te veo con el encima, parece que sois una misma entidad."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es una posesión preciada."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Alguien importante te lo dio?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No, es preciado porque es la primera cosa que me compré con mi propio dinero, así que le tengo especial cariño."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, tiene sentido. ¿Y de que va el libro...?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿No deberíamos de ir a comer ya?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es verdad, vamos."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uf... menos mal."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Has dicho algo?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No... Habrá sido el viento."
+    }
+  ]
+}

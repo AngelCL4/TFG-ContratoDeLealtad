@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bienvenidos al puerto de Colena... ojalá las circunstancias fueran mejores..."
+    },
+    {
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si os sirve de utilidad tengo este tónico que seguro que aumenta vuestra suerte, para vosotros."
+    }
+  ]
+}

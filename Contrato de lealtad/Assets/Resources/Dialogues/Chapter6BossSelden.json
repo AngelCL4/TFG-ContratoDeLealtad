@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Synnel",
+      "portrait": "Synnel",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tú no eres mi objetivo, fuera de mi camino."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Perdona? ¿Estás diciendo que no soy importante? Te voy a enseñar lo peligroso que puedo ser."
+    },
+    {
+      "character": "Synnel",
+      "portrait": "Synnel",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Lo que sea."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest1",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm...",
+      "music": "LegacyRuins"
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿En que piensas, jefe?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estaba planeando nuestra ruta de viaje para cuando lleguemos a Hislan."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh, eso suena complicado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Un poco, teniendo en cuenta que no se donde estarán asentados nuestros enemigos, pero nos apañaremos. Sé que restauraremos el reino."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y después te convertirás en rey..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ese es el plan."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tanta gente va a depender de tí en el futuro... Yo no podría hacer algo como eso."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que para alguien normal sería complicado, pero yo he sido entrenado para esto."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Alguien normal... ¿Y no estás para nada asustado, o nervioso?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "La verdad es que sí, mucho, pero no puedo dejar mi reino en manos de los desalmados que lo destruyeron, tengo que hacer esto."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así que tú también..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Has dicho algo?"
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Que te ayudaré a cumplir tus objetivos, tú misión ahora es la nuestra."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias, cuento con todos vosotros."
+    }
+  ]
+}

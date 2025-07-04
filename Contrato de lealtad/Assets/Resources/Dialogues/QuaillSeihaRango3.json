@@ -1,0 +1,146 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest5",
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hola Seiha, ¿qué haces aquí?",
+      "music": "Enjoyable"
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Me estoy tomando un descanso... Me estaba mareando y antes de ir a peor he decidido sentarme un rato."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me alegro de eso."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento por preocuparte."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No hace falta que lo hagas."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y... ¿tú has decidido que vas a hacer en el futuro?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Algo así... No pienso volver a mi aldea, creo que... necesito encontrarme a mí mismo, encontrar lo que de verdad quiero hacer en la vida."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y cómo se lo ha tomado tu madre?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Todavía no se lo he dicho, cuando acabe este trabajo iré en persona... a despedirme."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces... buena suerte."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y que planes tienes tú a futuro? ¿Piensas seguir dándole dinero a tu aldea toda tu vida?"
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... también he estado pensando en que hacer."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y has llegado a alguna conclusión?"
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, no quiero que mi aldea dependa de ingresos externos nunca más, quiero que sean autosuficientes, así que quiero encontrar algo que les ayude a serlo."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm... Esa es una misión bastante difícil."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo sé, pero estoy segura de que lo conseguiré. Quiero que mi gente tenga una mejor vida."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces, buena suerte para ti también."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que ambos tenemos unos planes complicados."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, pero tenemos que seguir hacia delante."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro, no pienso rendirme."
+    }
+  ]
+}

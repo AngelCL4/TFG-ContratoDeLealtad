@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp3",
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esa espada tiene los días contados.",
+      "music": "Whisper3"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué, esta espada?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, se está oxidando, mira esta parte."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... ¿en serio? No veo nada."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Espera, déjame rascarla... Ahí está."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Definitivamente, que buen ojo tienes Ozane."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La conservacion de armas es una de las cosas que más estudié hace tiempo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ese conocimiento es bastante útil."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, ah..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te ocurre algo?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No es nada, solo estoy un poco... nostálgica."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Echando algo de menos, ¿eh?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Podrías decirlo así..."
+    }
+  ]
+}

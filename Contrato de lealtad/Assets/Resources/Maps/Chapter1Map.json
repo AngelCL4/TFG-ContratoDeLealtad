@@ -1,0 +1,1134 @@
+{
+    "mapWidth": 9,
+    "mapHeight": 15,
+    "cells": [
+        {
+            "x": 0,
+            "y": 14,
+            "terrain": "River15",
+            "rotation": 270.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 14,
+            "terrain": "Thicket4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "terrain": "Forest6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 14,
+            "terrain": "Forest5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "terrain": "Nieve1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "terrain": "Road30",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "terrain": "Nieve1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "terrain": "Forest5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "terrain": "Thicket4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "terrain": "River14",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "terrain": "River15",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "terrain": "River15",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "terrain": "River15",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 13,
+            "terrain": "River15",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "terrain": "Bridge3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "terrain": "River15",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "terrain": "River15",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "terrain": "River15",
+            "rotation": 180.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "terrain": "River15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "terrain": "River15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "terrain": "River15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "terrain": "River15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 12,
+            "terrain": "River15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 12,
+            "terrain": "Bridge3",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "terrain": "River15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "terrain": "River15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "terrain": "River15",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "terrain": "Rock2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "terrain": "Thicket4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "terrain": "Forest6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "terrain": "Forest6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 11,
+            "terrain": "Rock2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 11,
+            "terrain": "Road30",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 11,
+            "terrain": "Nieve1",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "terrain": "Thicket4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "terrain": "Forest5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "terrain": "Wall9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 10,
+            "terrain": "Wall11",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 10,
+            "terrain": "Path17",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 10,
+            "terrain": "Wall9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 10,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "terrain": "Wall11",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "terrain": "Path23",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "terrain": "Path18",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "terrain": "Path23",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "terrain": "Path18",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "terrain": "Path23",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "terrain": "Path18",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "terrain": "Path23",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "terrain": "House88",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "terrain": "House89",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "terrain": "House90",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "terrain": "Path20",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "terrain": "House94",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "terrain": "House95",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "terrain": "House96",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "terrain": "House85",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "terrain": "House86",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "terrain": "House87",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "terrain": "Path20",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "terrain": "House91",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "terrain": "House92",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "terrain": "House93",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "terrain": "Wall14",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "terrain": "Path18",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "terrain": "Path21",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "terrain": "Path21",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "terrain": "Path21",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "terrain": "Path17",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "terrain": "Path21",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "terrain": "Path21",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "terrain": "Path19",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "terrain": "Path18",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "terrain": "Wall12",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "terrain": "Path23",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "terrain": "Path17",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "terrain": "Path23",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "terrain": "Path18",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "terrain": "Path17",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "terrain": "Path22",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "terrain": "House88",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "terrain": "House89",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "terrain": "House94",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "terrain": "House95",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "terrain": "House96",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "terrain": "Path24",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "terrain": "Path18",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "terrain": "Path22",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "terrain": "House85",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "terrain": "House86",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "terrain": "House91",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "terrain": "House92",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "terrain": "House93",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "terrain": "Path24",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "terrain": "Path17",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "terrain": "Path18",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "terrain": "Wall9",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "terrain": "Wall14",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "terrain": "Wall11",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "terrain": "Forest5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "terrain": "Inn28",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "terrain": "Inn29",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "terrain": "Inn30",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "terrain": "Forest6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "terrain": "Forest5",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "terrain": "Thicket4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "terrain": "Thicket4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "terrain": "Inn25",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "terrain": "Inn26",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "terrain": "Inn27",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "terrain": "Wall13",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "terrain": "Rock2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "terrain": "Rock2",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "terrain": "Forest6",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "terrain": "Wall14",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "terrain": "Wall10",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "terrain": "Wall14",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "terrain": "Thicket4",
+            "rotation": 0.0,
+            "flipX": false,
+            "flipY": false
+        }
+    ],
+    "playerSpawnPositions": [
+        {
+            "x": 5.0,
+            "y": 4.0
+        },
+        {
+            "x": 4.0,
+            "y": 3.0
+        },
+        {
+            "x": 6.0,
+            "y": 3.0
+        }
+    ],
+    "enemySpawnPositions": [
+        {
+            "x": 0.0,
+            "y": 6.0
+        },
+        {
+            "x": 0.0,
+            "y": 13.0
+        },
+        {
+            "x": 3.0,
+            "y": 9.0
+        },
+        {
+            "x": 3.0,
+            "y": 12.0
+        },
+        {
+            "x": 4.0,
+            "y": 14.0
+        },
+        {
+            "x": 5.0,
+            "y": 14.0
+        },
+        {
+            "x": 6.0,
+            "y": 11.0
+        },
+        {
+            "x": 7.0,
+            "y": 14.0
+        }
+    ]
+}

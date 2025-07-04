@@ -1,0 +1,75 @@
+{
+  "eventConversations": [
+    {
+      "turno": 2,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "No sé si estrellarnos contra la fuerza principal será la mejor idea."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Entonces que sugieres?"
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Podríamos usar los caminos al norte y al sur, aunque son bastante estrechos. Hmm... ¿qué hacer...?"
+        }
+      ]
+    },
+    {
+      "turno": 3,
+      "dialogue": [
+        {
+          "character": "Iribella",
+          "portrait": "Iribella",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Pah, si piensan que van a poder con nosotros lo tienen crudo."
+        },
+        {
+          "character": "Iribella",
+          "portrait": "Iribella",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "La próxima vez que vea a Aldeon, le daré las noticias de su muerte."
+        }
+      ]
+    },
+    {
+      "turno": 10,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainTriste",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "¿Tan enfadados estaban los aldeanos con el antiguo reino, que se unen a unos mercenarios tiránicos?"
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaTriste",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Eso... es lo que parece."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Cuando ascienda al trono, les haré cambiar de parecer."
+        }
+      ]
+    }
+  ]
+}

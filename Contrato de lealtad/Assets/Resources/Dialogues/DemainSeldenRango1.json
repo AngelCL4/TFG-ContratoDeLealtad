@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest6",
+      "character": "Selden",
+      "portrait": "SeldenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uf, uf, ah...",
+      "music": "ScealRealta"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Selden, que haces con esos troncos?"
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Los traigo del bosque, necesitamos algo para hacer una hoguera esta noche."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y has ido solo? Déjame ayudarte."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? No, puedo hacerlo yo solo, no necesito ayuda."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero... estabas jadeando, se nota que estás cansado, no deberían de haberte hecho hacer esto solo."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "He sido yo el que ha querido ir solo, y no pasa nada si estoy cansado, puedo hacer esto solo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No hace falta ponerse tan a la defensiva, solo quiero ayudar."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Y yo te he dicho que no quiero tu ayuda!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Por favor, déjame hacerlo solo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Vale... Adiós Selden."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué...?"
+    }
+  ]
+}

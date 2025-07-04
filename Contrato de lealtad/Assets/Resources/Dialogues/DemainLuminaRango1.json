@@ -1,0 +1,139 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightForest6",
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "...",
+      "music": "Nostalgic2"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿No te vas a dormir, Lumina?"
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Iré más tarde."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué haces?"
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estaba rezando."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Rezando? No me parecías una persona religiosa."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No suelo rezar mucho, solo por... aquellos que se han ido."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo, ¿para ayudarte a llevar su pérdida?"
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Algo así, también para... protegerlos donde quiera que estén."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces, quizás debería rezar yo también."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pierdes nada por hacerlo"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Crees que Elveon oirá nuestras plegarias?"
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Espero que sí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Creo que va siendo hora de irse a dormir."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Adelántate tú, iré en nada."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale, buenas noches."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "...¿Qué debería hacer?"
+    }
+  ]
+}

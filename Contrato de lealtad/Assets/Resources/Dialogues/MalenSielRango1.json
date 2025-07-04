@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "MountainPass3",
+      "character": "Siel",
+      "portrait": "SielEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm... Eres bueno.",
+      "music": "Labyrinth"
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tú tampoco eres malo, se nota que tienes experiencia combatiendo."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es por eso mismo que te he pedido entrenar, de los que estamos en el grupo me pareces el más cercano a mi nivel."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, no subestimes tanto al resto, estoy seguro de que algunos te sorprenderían."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No lo descarto, pero tú tienes... una disciplina que ellos no. ¿Dónde aprendiste a combatir?"
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso no es algo que pueda decir."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y eso por qué?"
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Podría... comprometer la misión, y a la gente del grupo."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Así que lo haces para protegernos...?"
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Exacto."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No sé si me lo creo del todo, pero tampoco puedo obligarte a confesar. Guarda tu secreto por ahora."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso mismo haré."
+    }
+  ]
+}

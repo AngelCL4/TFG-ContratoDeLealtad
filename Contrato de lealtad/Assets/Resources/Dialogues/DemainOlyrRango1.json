@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightHouseExterior",
+      "character": "Olyr",
+      "portrait": "OlyrFeliz",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Bueno~, hora de irse.",
+      "music": "Wonder"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Olyr, ¿a dónde vas?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Guau, Demain, que susto me has dado, poca gente puede acecharme con éxito."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No estaba acechandote... Pero, ¿puedes responder a mi pregunta?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Antes de dormir me gusta dar paseos para despejarme."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿En serio? A mi también, ¿te importa si te acompaño?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh... un poco... Me gusta pensar en mis cosas mientras paseo, y si alguien me acompaña no puedo concentrarme... Perdón."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo... Entonces solo te diré que tengas cuidad, he oído que han robado varias veces aquí por la noche."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...No tienes que preocuparte por mí, soy el sigilo hecho persona."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Incluso aunque no me has visto ni oído llegar?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bah, eso solo ha sido un lapsus momentáneo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si tú lo dices."
+    }
+  ]
+}

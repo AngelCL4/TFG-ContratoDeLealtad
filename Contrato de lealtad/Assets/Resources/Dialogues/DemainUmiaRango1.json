@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent4",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Poniendo a punto tu equipamiento?",
+      "music": "CeruleanRelics"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, es un hábito que arrastro desde mis días en el ejército de Mildea."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He oído que abandonaste el ejército, ¿es verdad?"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Puedo preguntarte por qué?"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Simplemente... no estaba contenta, así que pensé que lo mejor era irme."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y no te causó problemas?"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí... pero tiendo a ignorarlos, no tiene sentido enfocarme en lo malo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ojalá yo pudiera hacer lo mismo."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No es tan difícil, al menos cuando los puntos positivos son mayor que los negativos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí... ese puede ser el problema."
+    }
+  ]
+}

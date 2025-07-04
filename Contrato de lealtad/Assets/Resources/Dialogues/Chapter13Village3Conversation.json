@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage6",
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Tomad esta cosa, cuando lo compre me dijeron que era viento embotellado..."
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero no estoy seguro de que sea de verdad, bueno, ahora es vuestro."
+    }
+  ]
+}

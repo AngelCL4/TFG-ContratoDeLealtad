@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest1",
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Hmm~",
+      "music": "DeepWoods2"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Hey, Letan! Ven aquí."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hyugan, ¿quieres algo?"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, quiero practicar contigo."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Practicar, en plan... entrenamiento?"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, claro, ¿de que otra forma si no?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No, claro, que iba a ser si no."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces... ¿aceptas?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale, pero... ¿por qué yo? Seguro que hay otra gente que sea más fuerte."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Puede ser, pero tú peleas bastante diferente al resto del grupo."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo... ¿Entonces quiere que pelee sin contenerme?"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Normalmente lo haces?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Un poco, siempre intento reservar algo de energía por si algo sale mal."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno, pues yo quiero que vengas con todo, necesito volverme más fuerte."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muy bien, pero luego no me vengas llorando."
+    }
+  ]
+}

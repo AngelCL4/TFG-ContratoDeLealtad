@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Midar",
+      "portrait": "Midar",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué lucháis por un hombre así, que ataca una aldea indefensa?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No veo ninguna aldea indefensa, solo una ocupada por el enemigo, ahora si sois tan amables de retiraros..."
+    },
+    {
+      "character": "Midar",
+      "portrait": "Midar",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso no va a pasar."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces solo uno de los dos saldrá de aquí con vida."
+    }
+  ]
+}

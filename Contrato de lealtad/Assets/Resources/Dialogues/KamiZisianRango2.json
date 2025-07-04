@@ -1,0 +1,132 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent7",
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Mmm, y ahora como sigo...",
+      "music": "Bazaar"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Estás escribiendo?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Kami, que susto."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, perdona."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No pasa nada, y sí, estoy escribiendo."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Como va la cosa?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bien... Ah, se me hace muy raro hablar con otra gente de lo que escribo."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué eras tan secretivo? Solo es un hobbie."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Para mí no es solo eso, es mi sueño. Es por eso que tenía reparos de compartirlo, quiero que se tome en serio."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, claro, lo siento mucho."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Cómo... te sientes con respecto a escribir?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...No entiendo."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quiero decir... es tu sueño, supongo que te causará ciertas emociones, como felicidad y tal..."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pues claro, es mi razón de ser, cuando escribo, siento que estoy creando algo que perdurará en el tiempo, soy feliz, y me siento completo."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Ya veo. Ah, tengo que irme."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, hasta luego, entonces."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Adiós y... perdona de nuevo por lo que te he dicho antes."
+    }
+  ]
+}

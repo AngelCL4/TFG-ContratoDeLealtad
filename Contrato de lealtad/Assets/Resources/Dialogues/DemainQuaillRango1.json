@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent6",
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "...",
+      "music": "Starry"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Estás escribiendo una carta?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Demain, que susto..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Perdón..."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pasa nada, y sí, estoy escribiendo una carta."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Uh, a mi me encanta escribir cartas, ¿quién es el afortunado?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mi madre, le estoy diciendo que tengo un nuevo trabajo y enviando parte de mi dinero."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Hay problemas económicos en tu hogar?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hace unos años mi aldea fue atacada por bandidos, y hubo grandes pérdidas, tanto edificios... como personas. Decidí convertirme en mercenario para ayudar económicamente."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo... Es una pena que Biedro se haya convertido en un lugar tan inhóspito."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero tú estás luchando para cambiarlo, ¿verdad?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces cuenta conmigo para ayudarte."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias, Quaill."
+    }
+  ]
+}

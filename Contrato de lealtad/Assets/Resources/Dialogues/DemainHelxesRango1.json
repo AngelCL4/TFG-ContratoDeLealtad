@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "BuildingInterior3",
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Buenos días Demain, ¿cómo te encuentras hoy?",
+      "music": "Pastorale2"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Buenos días... "
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No eres una persona madrugadora, ¿eh?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No mucho, pero solo tardaré unos minutos en estar a tope."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así me gusta."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Estás muy animado por la mañana."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Por la mañana y por el resto del día, siempre hay que tener una sonrisa en la cara."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Con lo mal que está Biedro, es un soplo de aire fresco tener a alguien como tú cerca."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias por esas palabras, oír eso hace que todo merezca la pena."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿El qué merece la pena?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, eh... Lo habré expresado mal, me refería a que me encanta hacer a la gente feliz. No es bueno estar todo el rato con el ceño fruncido."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ahí llevas razón."
+    }
+  ]
+}

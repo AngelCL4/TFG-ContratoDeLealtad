@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Habéis venido a ayudarnos verdad?"
+    },
+    {
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pues tengo esto para vosotros, una pluma de halcón."
+    }
+  ]
+}

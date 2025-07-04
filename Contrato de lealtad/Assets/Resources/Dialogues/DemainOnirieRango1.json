@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayLakeside2",
+      "character": "Onirie",
+      "portrait": "OnirieEnfado",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Hya, ha...",
+      "music": "Wish4"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola, Onirie, ¿entrenando tan temprano?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hola Demain, sí, me gusta entrenar todos los días."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Todos los días? Me parece un poco excesivo, sobre todo para alguien de tu talento."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Talento..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, he oído que eras una de las mejores estudiantes de la academia de Nunsed."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo era, sí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Siempre he tenido curiosidad sobre como era la vida dentro de ella."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Era... rutinaria, ir a clase, estudiar, lo típico."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No parece que la recuerdes con mucha felicidad..."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí que era feliz, es solo que... Bah, no importa. Tengo que seguir entrenando."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Te dejo con ello entonces."
+    }
+  ]
+}

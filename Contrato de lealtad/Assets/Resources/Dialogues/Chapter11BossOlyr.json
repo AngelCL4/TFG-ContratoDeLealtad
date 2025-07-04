@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Cenarn",
+      "portrait": "Cenarn",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Menuda sonrisa bobalicona que tienes... Me va a encantar borrártela de la cara cuando te destroze."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vaya, parece que tenemos unos pocos problemas de ira."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Conozco la cura para eso, aunque... va a ser una solución permanente."
+    }
+  ]
+}

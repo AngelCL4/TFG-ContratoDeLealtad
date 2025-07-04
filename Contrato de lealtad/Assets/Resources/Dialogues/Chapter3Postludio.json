@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest1",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... Parece que hemos acabado con todos.",
+      "music": "Shizima4"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ojalá hubieran pensado en retirarse, prefiero no matar a nadie."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Por desgracia no es una decisión que podemos tomar nosotros, si su objetivo es matarnos yo les devolveré lo mismo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí... Habíamos parado para descansar y ahora estamos incluso más agotados."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y desgraciadamente tenemos que continuar el viaje, no creo que sea seguro pasar la noche en esta zona."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Definitivamente, iré a comentárselo al resto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale, gracias."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Toda esta gente... llena de odio, rabia y miedo... seguro que también existen en Hislan."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "¿Realmente podré restaurar el reino, es eso capaz?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Todos están preparados, ¿vamos?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, continuemos. ¡Seguidme!"
+    }
+  ]
+}

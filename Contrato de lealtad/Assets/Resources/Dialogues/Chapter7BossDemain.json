@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Midar",
+      "portrait": "Midar",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hubiera preferido evitar todo este conflicto sin sentido."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces no tendráis que haber conquistado la aldea en primer lugar."
+    },
+    {
+      "character": "Midar",
+      "portrait": "Midar",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Conquistado? Si es así como lo ves... es una pena."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si no piensas rendirte entonces no me queda otra que acabar contigo."
+    }
+  ]
+}

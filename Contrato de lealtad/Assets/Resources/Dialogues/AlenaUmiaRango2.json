@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest7",
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "...",
+      "music": "NocturnalBloom"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que eres una superviviente de esa matanza."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, Umia..."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por eso me preguntaste por mis razones? ¿Porque tu también habías abandonado el ejército?"
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Algo así... Aunque no creo que nuestras circunstancias sean similares."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Definitivamente. Sabes... lo que le pasó a tu escuadrón fue la gota que colmo el vaso para mí."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estaba harta de ser un conejillo de indias para cada comandante que le tocase estar a cargo de nuestro escuadrón, y oír lo que le había pasado al tuyo por la incompetencia de vuestro superior..."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No sé si culparlo a él es realmente lo correcto..."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sus acciones os llevaron a una emboscada, no hay nadie más a quien culpar."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    }
+  ]
+}

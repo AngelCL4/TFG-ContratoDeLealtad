@@ -1,0 +1,12 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse",
+      "character": "Aldeano10V2",
+      "portrait": "Aldeano10V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por defenderme. Tomad esta poción, seguro que estáis heridos"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaEnfado",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Entonces el plan es correr..."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Sí, que nadie se quede atrás."
+        }
+      ]
+    },
+    {
+      "turno": 3,
+      "dialogue": [
+        {
+          "character": "Tailni",
+          "portrait": "Tailni",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Solo tenían que rendirse, ¿qué he hecho mal?"
+        },
+        {
+          "character": "Tailni",
+          "portrait": "Tailni",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Bah, no tienen sentido pensar en eso, cuando el resto lleguen estarán acabados."
+        }
+      ]
+    },
+    {
+      "turno": 5,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¡Ah!"
+        },
+	      {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "¡Lisella! ¿Estás bien?"
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Acabo de recordarlo, estos bandidos son parte de la banda del Colmillo Púrpura, son una gran banda de bandidos de esta zona de Mildea."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Una gran banda... más razón para huir."
+        }
+      ]
+    },
+    {
+      "turno": 10,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaEnfado",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Oh no, me parece que los refuerzos han llegado."
+        },
+	      {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Definitivamente son demasiados. ¡Todo el mundo, vamos, hay que irse!"
+        }
+      ]
+    }
+  ]
+}

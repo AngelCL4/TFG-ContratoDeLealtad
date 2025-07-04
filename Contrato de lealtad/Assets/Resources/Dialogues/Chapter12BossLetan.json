@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Letan",
+      "portrait": "LetanEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Normalmente estoy a favor de tácticas deshonrosas, pero usar a otra gente para hacer tu trabajo sucio es inexcusable..."
+    },
+    {
+      "character": "Ettoh",
+      "portrait": "Ettoh",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Piensa lo que quieras, no es de mi incumbencia."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que entonces tampoco te importará que acabe contigo aquí y ahora."
+    },
+    {
+      "character": "Ettoh",
+      "portrait": "Ettoh",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Inténtalo."
+    }
+  ]
+}

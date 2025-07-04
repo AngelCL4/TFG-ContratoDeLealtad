@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeTavern1",
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muchas gracias por defender la ciudad baja después de que esos... desgraciados nos hayan abandonado."
+    },
+    {
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este contrato por las molestias, seguro que le sacáis provecho."
+    }
+  ]
+}

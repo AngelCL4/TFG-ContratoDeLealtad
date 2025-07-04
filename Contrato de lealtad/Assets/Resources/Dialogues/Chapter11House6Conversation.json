@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, nuestros salvadores, tengo esto para vosotros."
+    },
+    {
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es un tónico de habilidad, usadlo sabiamente."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayHouseExterior",
+      "character": "Noru",
+      "portrait": "NoruEnfado",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Ugh...",
+      "music": "SoftDay"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Noru, que haces tan apartado?"
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... nada..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Siempre sueles comer solo, ven con nosotros."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh... es que prefiero comer solo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo... ¿y eso del suelo, son verduras?"
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No te gustan, ¿verdad?"
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Normalmente me las como, pero ya llevo tres días seguidos con verduras."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Aún así hay que comer lo que te pongan, necesitas fuerzas para el día, y además es un desperdicio de comida que podría ir para gente necesitada."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Agh..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "A partir de ahora comerás con nosotros."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡No necesito supervisión, no soy un niño!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No lo digo de esa manera, pero ver a otra gente comer lo mismo que tú te puede ayudar a comprender que no es tan malo. Lo digo por tu bien."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... suenas igual que mis padres..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tenemos un trato?"
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale..."
+    }
+  ]
+}

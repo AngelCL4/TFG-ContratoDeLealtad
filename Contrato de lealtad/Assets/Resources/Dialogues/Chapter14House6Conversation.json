@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Uf, esa gente me quería quitar este tónico de habilidad, pero he conseguido conservarlo."
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomadlo y usadlo para expulsar a esos desalmados."
+    }
+  ]
+}

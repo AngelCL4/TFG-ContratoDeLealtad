@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Tavern2",
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Esta gente se cree que esto es su casa... Que impotencia..."
+    },
+    {
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Usad este cinturón para expulsarlos de aquí, si podéis."
+    }
+  ]
+}

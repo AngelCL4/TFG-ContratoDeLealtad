@@ -1,0 +1,360 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "EveningFortView",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... por fin la ciudad está limpia de mercenarios...",
+      "music": "Valiant"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ahora queda adentrarse en el castillo..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, y no podemos parar, ¡vamos!"
+    },
+    {
+      "backgroundChange": "EveningCastleInterior1",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esto es raro... No hay nadie, ni se oye nada..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm, ¿qué está pasando?"
+    },
+    {
+      "backgroundChange": "BuildingInterior13",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hemos hecho una barrida completa en la ciudad y el castillo, no hay rastro de los mercenarios.",
+      "music": "RealmDaytime"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero este era su cuartel general... ¿se han largado?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mejor para nosotros, hemos ganado..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hmm, no."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lisella, reúne a nuestro grupo en la sala de audiencias, necesito hablar de lo que vamos a hacer ahora."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale..."
+    },
+    {
+      "backgroundChange": "MeetingRoom",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que hemos conseguido expulsar a Los Liberadores de la capital, aunque... más bien ellos se han marchado.",
+      "music": "Strategy4"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que muchos pensais que la misión se ha terminado, ya que podría restaurar el reino ahora mismo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Sin embargo, os quiero pedir vuestra ayuda solo un poco más de tiempo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Esta gente, Los Liberadores, son un peligro no solo para Hislan si no para todo Biedro, no puedo dejar que se escapen y vuelvan a atacar a otro reino debilitado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que, por favor, prestadme vuestra fuerza para acabar con ellos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pues claro que te ayudaremos, hemos llegado hasta aquí juntos, así que no vamos a rendirnos ahora."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿En serio? ¿Todos pensais lo mismo? Gracias..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nuestro plan sería empezar la persecución de inmediato, he recibido información de que se ha visto un grupo de gente huyendo de la ciudad hacia el este."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No sé hasta donde planean huir, pero no podemos perderles la pista bajo ningún concepto."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Perseguirlos de inmediato? No creo que sea buena idea después de lo cansados que estamos, estos últimos días han sido agotadores..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "En eso tienes razón, pero..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Que tal si nos vamos a primera hora de la mañana? Los Liberadores también tendrán que descansar en algún momento, no creo que se nos adelanten mucho."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Muy bien."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces mañana, a primera hora, nos vemos en la entrada este de la ciudad, hasta entonces sois libres de hacer lo que queráis."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Muy bien, Elene está aquí, como me has pedido, me iré con el resto y os dejaré solos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias, ahora nos vemos."
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Demain, bienvenido a casa, como me alegro de que tú y Lisella estéis bien, después de oír que habíais desaparecido... estabamos preocupados.",
+      "music": "PianoMelancholy"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y yo también me alegro de verte, pero tengo unos asuntos importantes que tratar."
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me lo figuraba. Hmm..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Sí?"
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estaba pensando en que pareces más maduro, aunque después de todo lo que ha pasado... no es raro."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah..."
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento por desviarme del tema, ¿qué quieres? ¿Ayuda para restaurar el reino?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso vendrá después, ahora mismo quiero que te quedes con esto."
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Una bolsa con dinero... ¿Gracias?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Quiero restaurar el reino, pero no puedo hacerlo mientras esos mercenarios que lo destruyeron en primer lugar siguen campando por nuestra tierra."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Voy a perseguirlos, pero quiero asegurarme de que la capital está a salvo hasta mi regreso."
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así que quieres confiarme el destino de la capital, que la mantenga a salvo con este dinero hasta que vuelvas."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Puedo confiar en tí?"
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya sabes la respuesta a eso, déjamelo a mí, y tú ve a por esos monstruos sin corazón."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias..."
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno, tengo que irme, parece que mañana voy a tener mucho trabajo, pero antes toma esto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Esto... es el broche de mi padre..."
+    },
+    {
+      "character": "Elene",
+      "portrait": "Elene",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo pude recuperar de esa gente, ahora es tuyo. Buenas noches, Demain."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Adios..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Padre..."
+    }    
+  ],
+  "reward": {
+        "nombre": "Broche heredado",
+        "tipo": "Artefacto",
+        "uso": 1,
+        "cantidad": 0,
+        "descripcion": "Reduce 1 de movimiento a los enemigos a un máximo de 5 casillas.",
+        "valor": -1,
+        "statAfectada": "Movimiento",
+        "rango": 5,
+        "afectaAliados": false,
+        "spritePath": "Objects/PlaceholderArtefacto"
+  }
+}

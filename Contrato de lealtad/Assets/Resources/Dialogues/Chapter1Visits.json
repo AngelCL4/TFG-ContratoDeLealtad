@@ -1,0 +1,47 @@
+{
+  "visits": [
+    {
+      "x": 5.5,
+      "y": 12.5,
+      "conversation": "Chapter1InnConversation",
+      "reward": {
+        "nombre": "Pocion",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 10PV a la unidad poseedora.",
+        "valor": 10,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Pocion"
+      },
+      "visited": false
+    },
+    {
+      "x": 8.5,
+      "y": 9.5,
+      "conversation": "Chapter1House1Conversation",
+      "reward": {
+        "nombre": "Contrato"
+      },
+      "visited": false
+    },
+    {
+      "x": 2.5,
+      "y": 6.5,
+      "conversation": "Chapter1House2Conversation",
+      "reward": {
+        "nombre": "Pocion",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 10PV a la unidad poseedora.",
+        "valor": 10,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Pocion"
+      },
+      "visited": false
+    }
+  ]
+}

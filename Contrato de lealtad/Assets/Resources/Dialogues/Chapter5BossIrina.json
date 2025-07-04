@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Milau",
+      "portrait": "Milau",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vaya, la Dama Dorada, esto si que no me lo esperaba."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "El líder del Colmillo Púrpura, esto si que es una sorpresa."
+    },
+    {
+      "character": "Milau",
+      "portrait": "Milau",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, veamos quién de los dos es el mejor guerrero. Aunque será una pena acabar con tu leyenda."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya... Va a ser toda una pena dejar a una banda desamparada sin líder."
+    }
+  ]
+}

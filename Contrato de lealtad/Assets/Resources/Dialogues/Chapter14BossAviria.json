@@ -1,0 +1,47 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tú... eres Aviria."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Eh, me conoces?"
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Solía ver tus bailes en el pasado... Me animaban cuando todo a mi alrededor se desmoronaba..."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Me... alegro."
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Una pena que solo una de las dos vaya a salir viva de aquí."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...No te lo voy a poner fácil."
+    }
+  ]
+}

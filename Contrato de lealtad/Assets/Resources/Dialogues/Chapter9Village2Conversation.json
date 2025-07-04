@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage3",
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Este dinero... es mucho..."
+    },
+    {
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muchísimas gracias, tomad este tónico de defensa."
+    }
+  ]
+}

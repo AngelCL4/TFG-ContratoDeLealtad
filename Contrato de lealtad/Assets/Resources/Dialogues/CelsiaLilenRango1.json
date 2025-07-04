@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DaySettlement2",
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "¿Qué es esto que hay en el suelo? ¿Un peine?",
+      "music": "Alleyway"
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Será de alguien del grupo?"
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Celsia, lo has encontrado!"
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Lilen, es esto tuyo?"
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, lo perdí cuando estaba trasladando mi mercancía y llevo una hora buscándolo, muchas gracias."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No he hecho nada, solo lo he encontrado en el suelo."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Aún así, gracias. Ah, ya se, como agradecimiento, ¿qué tal si te lo regalo? Es un peine muy bueno."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, ¿si es tan bueno como es que no se ha vendido todavía?"
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eh... es que... tengo muchos por eso mismo, tienen mucha demanda."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo... Me lo quedaré entonces."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿En serio? Gracias, no te arrepentirás."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Eso espero."
+    }
+  ]
+}

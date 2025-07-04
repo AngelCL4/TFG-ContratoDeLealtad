@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "EveningArmyCamp2",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Avarel, ¿tienes algo de tiempo? Necesito hablar contigo.",
+      "music": "Enjoyable2"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, algo de tiempo tengo, ¿qué pasa?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mientras combatíamos me he dado cuenta de que sueles ir por tu cuenta, y quería saber el motivo."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿El motivo? Que no me gusta depender de otra gente, es así de simple."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo... ¿Puedes reconsiderarlo? El trabajo en equipo..."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Se que hay ventajas en trabajar en equipo, pero aún así prefiero no hacerlo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué eres tan tozudo?"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Tozudo yo? Diría que tú eres aún más tozudo, intentando cambiar mi forma de ser para amoldarme a lo que piensas que debería ser."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso no es..."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento Demain, pero tengo otras cosas que hacer, nos vemos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué? Espera."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... No lo entiendo..."
+    }
+  ]
+}

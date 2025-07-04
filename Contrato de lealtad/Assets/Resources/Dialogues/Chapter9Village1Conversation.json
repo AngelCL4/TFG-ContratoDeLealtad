@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage3",
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Ese dinero es para nosotros? ¡Gracias!"
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este brebaje como agradecimiento."
+    }
+  ]
+}

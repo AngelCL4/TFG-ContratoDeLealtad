@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... por favor, no le hagáis daño a mi familia..."
+    },
+    {
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya sé, tomad esta placa... os ayudará a defenderos..."
+    }
+  ]
+}

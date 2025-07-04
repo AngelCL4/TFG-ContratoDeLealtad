@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightArmyCamp2",
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Mmm, supongo que no me vendrá mal entrenar un poco más...",
+      "music": "GuitarMelancholy2"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola, ¿eres tú Aki?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, sí, y tú eres Loreas, ¿verdad?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Exacto. Quería preguntarte algo, ¿tienes tiempo?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Un poco, ¿qué quieres saber?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tú... formabas parte de una tribu que fue destruida por el reino de Gheana, ¿no es así?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Definitivamente."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Han destruido tantas vidas."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "En eso tienes razón. Espera, no me digas que tú también has sufrido por ellos."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Más o menos lo mismo que tú, si tienes tiempo puedo contarte toda la historia."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Vale, pero no puedo tenerte hablando todo el tiempo, tú también te mereces saber que le pasó a mi gente."
+    }
+  ]
+}

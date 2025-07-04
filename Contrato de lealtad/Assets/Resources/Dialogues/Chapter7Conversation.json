@@ -1,0 +1,99 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeHills1",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hislan...",
+      "music": "NostalgicJig"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estamos en casa, al fin."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, Aratea tiene que estar justo detrás de esta colina."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vamos, seguro que toda la gente se alegra de que volvamos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "backgroundChange": "DayTimeOutsideVillage1",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Demain... Hay mercenarios rodeando la aldea.",
+      "music": "Valiant"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso veo... ¿La habrán conquistado?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Espero que todos los aldeanos estén a salvo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y... ahora que hacemos?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tenemos que atacar, claro."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro... Tenemos que salvar a nuestra gente."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No te rindas Demain. Da la señal y que comience el ataque."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...¡Mercenarios, a la carga!"
+    }
+  ]
+}

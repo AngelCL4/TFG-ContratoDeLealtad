@@ -1,0 +1,69 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DaySettlement",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Uh...",
+      "music": "Bazaar"
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ese ha sido un suspiro increíble, ¿estás bien Lisella?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Sí, solo un poco cansada pero es lo normal."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento, cada vez que combatimos dependemos mucho de tu magia."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Está bien, me gusta ser útil."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Un cosa es utilidad y otra la dependencia, debería tener unas palabras con Demain."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No hace falta Vila, estoy haciendo todo esto porque quiero, sé decir que no."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, entonces puede que seas incluso más fuerte que yo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso es imposible."
+    }
+  ]
+}

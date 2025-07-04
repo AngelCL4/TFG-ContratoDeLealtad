@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeTavern1",
+      "character": "Aldeano2V2",
+      "portrait": "Aldeano2V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué haces de vuelta tan pronto, preocupado por nosotros? Estamos bien."
+    },
+    {
+      "character": "Aldeano2V2",
+      "portrait": "Aldeano2V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, espera, toma esta poción. Seguro que es útil para derrotar a esos bandidos"
+    }
+  ]
+}

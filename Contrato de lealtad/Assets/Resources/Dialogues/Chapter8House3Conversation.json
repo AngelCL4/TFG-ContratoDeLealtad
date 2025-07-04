@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Guau, ¿habéis venido a salvarnos?"
+    },
+    {
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Gracias! Tomad este brebaje para ayudaros."
+    }
+  ]
+}

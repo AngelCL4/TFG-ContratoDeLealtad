@@ -1,0 +1,179 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent5",
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hyugan, ¿tienes un momento?",
+      "music": "GuitarGentle"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro, ¿qué pasa?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He... estado investigando a esos enemigos tan raros a los que nos enfrentamos junto a tus hermanos."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, esos... Espera, ¿mis hermanos? ¿Cómo sabes eso?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Como perdí el combate nunca llegasta a decirme tus motivos, así que te estuve investigando..."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y al final encontré que eres el hijo bastardo del rey de Mildea."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo..."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento por eso."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Has dicho que tenías información de esos enemigos que van a por mis hermanos."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No he dicho exactamento eso... pero sí. Son la Sangre Negra."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Sangre Negra?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Una facción misteriosa, los rumores dicen que se ocultan en las ciudades subterráneas de Biedro, pero no he podido encontrar más."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Las ciudades subterráneas... Pero, ¿por qué estás investigando esto? No tiene nada que ver contigo."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanTristeB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Has... captado mi interés."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganIncomodidadB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Eh?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanIncomodidadB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "De todas las personas que he conocido en esta vida, tú eres la única que se ha adentrado en mi cabeza, y no soy capaz de sacarte."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganIncomodidadB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso suena a una confesión."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanIncomodidadB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ni yo mismo se expresarlo en palabras, pero sé que quiero ayudarte, incluso si mis métodos no son los mejores."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganTristeB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale, si quieres ayudarme, eres bienvenido, pero no más investigar a mis espaldas."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Comprendido."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganTristeB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Creo que daremos mejores resultados si... nos apoyamos el uno en el otro."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutralB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Tiene sentido."
+    }
+  ],
+  "reward": {
+        "nombre": "Informe detallado",
+        "tipo": "Artefacto",
+        "uso": 1,
+        "cantidad": 0,
+        "descripcion": "Reduce en 5 la defensa a los enemigos a un máximo de 7 casillas.",
+        "valor": -5,
+        "statAfectada": "Defensa",
+        "rango": 7,
+        "afectaAliados": false,
+        "spritePath": "Objects/PlaceholderArtefacto"
+  }
+}

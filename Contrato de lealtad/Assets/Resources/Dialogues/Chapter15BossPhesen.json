@@ -1,0 +1,40 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Phesen",
+      "portrait": "PhesenEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es momento de que pagues por todo lo que has hecho..."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...¿Quién eres?"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Solo una de las muchas personas que lo ha perdido todo por tu culpa."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno, entonces ponte en la línea, mucha gente querrá su venganza contra mí."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento por el resto, pero a mí me toca primero."
+    }
+  ]
+}

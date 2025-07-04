@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse6",
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que estáis en problemas, os pueda dar esta herradura si os sirve de ayuda."
+    },
+    {
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No sé de donde la he sacado, pero es dorada, así que tiene que dar suerte como poco."
+    }
+  ]
+}

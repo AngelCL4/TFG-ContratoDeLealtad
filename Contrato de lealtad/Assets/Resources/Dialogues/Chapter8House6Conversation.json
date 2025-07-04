@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad, un brebaje para ayudaros a acabar con esos desalmados."
+    },
+    {
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por ayudarnos..."
+    }
+  ]
+}

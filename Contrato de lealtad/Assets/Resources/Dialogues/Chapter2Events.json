@@ -1,0 +1,101 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Parece que hay bandidos por todo el camino hacia la aldea."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Pues los derrotaremos a todos."
+        }
+      ]
+    },
+    {
+      "turno": 2,
+      "dialogue": [
+        {
+          "character": "Bandido",
+          "portrait": "Arquero",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Jefe, han aparecido unas personas por el norte y nos están atacando."
+        },
+        {
+          "character": "Itae",
+          "portrait": "Itae",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Bah, justo nuestra suerte, pero da igual, acabaremos con ellos igual que con el resto."
+        },
+	      {
+          "character": "Itae",
+          "portrait": "Itae",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "...Si nos retiramos ahora moriremos, así que no nos queda otra."
+        }
+      ]
+    },
+    {
+      "turno": 3,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Parece que hay una concentración de bandidos en esas rocas de allí."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Su líder debe de estar por esa zona, ¿no?"
+        },
+	      {
+          "character": "Demain",
+          "portrait": "DemainFeliz",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Eso creo, hagámosle una visita."
+        }
+      ]
+    },
+    {
+      "turno": 7,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Sigue saliendo humo de la aldea..."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Es que no hay ni guardias en la ciudad?"
+        },
+	      {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Si los había puede que ya no esten vivos, démonos prisa."
+        }
+      ]
+    }
+  ]
+}

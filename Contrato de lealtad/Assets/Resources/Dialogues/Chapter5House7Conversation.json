@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse5",
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hmm, muchas gracias por vuestra ayuda."
+    },
+    {
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tengo algo para vosotros, es un cinturón que os hará mucho más habilidosos."
+    },
+    {
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Dádselo a alguien que lo necesito, y gracias de nuevo."
+    }
+  ]
+}

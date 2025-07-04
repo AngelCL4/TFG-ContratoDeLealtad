@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp1Alt",
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Al final te quitaste la pulsera.",
+      "music": "RealmNighttime"
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí... No se si lo habrás adivinado, pero fueron mis padres los que me la regalaron."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh... He oído que tú relación con tus padres no..."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No... nos entendemos muy bien. Esta pulsera simboliza mi destino como heredera de mi tribu, así que iba siendo hora de abandonarla."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Puedo comprender tu relación con tu familia."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es verdad, tú tampoco te hablabas con ellos."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, más que eso, no les he visto en años."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...¿Alguna vez te han dado ganas de volver?"
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...No hasta ahora. Desde que hablé con Demain tengo dudas... sobre como les irá."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así que tienes curiosidad... No puedo decir que yo tampoco la tenga, pero se que si vuelvo mi destino ya está sellado."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Yo huí de mi hogar para rebelarme, y tú para conseguir libertad."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Somos un poco similares."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí. Apoyémonos la una a la otra, ¿qué te parece?"
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bien por mí, siempre he querido una hermana."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hermana... Suena bien."
+    }
+  ]
+}

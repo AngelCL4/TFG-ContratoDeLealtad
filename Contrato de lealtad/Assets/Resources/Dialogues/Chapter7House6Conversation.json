@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Tomad este tónico, os hará más veloces por un tiempo."
+    },
+    {
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué no lo usáis para largaros de aquí?"
+    }
+  ]
+}

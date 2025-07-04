@@ -1,0 +1,69 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest6",
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Al final hemos acabado con más preguntas que respuestas.",
+      "music": "ForestSage"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y no las encontraremos a no ser que sigamos nuestro camino."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso está claro, y no vamos a deternernos aquí."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hmm, parece que has encontrado tu motivación."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Motivación... solo quiero saber por que el reino fue destruido..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y yo, sigamos adelante."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Sí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Ah... aún así, ¿qué planeo hacer... si derrotamos al enemigo...? No puedo seguir retrasándolo."
+    }
+  ]
+}

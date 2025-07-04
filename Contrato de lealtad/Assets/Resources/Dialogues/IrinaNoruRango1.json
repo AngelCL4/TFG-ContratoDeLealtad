@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayBuildingInterior",
+      "character": "Noru",
+      "portrait": "NoruFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ah! Eres, eres... ¡la Dama Dorada!",
+      "music": "GothicCute"
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "En carne y hueso. ¿Eres un admirador?"
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Algo así, he oído un montón de tus historias, siempre había soñado con trabajar a tu lado."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno niño, pues aquí tienes tu sueño cumplido."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No soy un niño, soy un hombre."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale, como tú digas. ¿Estás listo para unirte a mi leyenda? Seguro que este misión será recordada por siglos."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro que sí, que emoción..."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces mejor que entrenes mucho, no me gustaría que te quedases atrás y los bardos nunca te mencionen."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "De eso ni hablar. Voy a ponerme a entrenar ahora mismo."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hasta luego."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, adiós."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaAlivio",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Definitivamente es solo un niño."
+    }
+  ]
+}

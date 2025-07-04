@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Acaso crees que el rey se quedará sentado viendo como conquistas la ciudad?"
+    },
+    {
+      "character": "Milau",
+      "portrait": "Milau",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿No es eso lo que ya está haciendo? Acéptalo chico, el rey os ha abandonado."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Incluso aunque así sea no pienso dejarte hacer lo que te plazca."
+    },
+    {
+      "character": "Milau",
+      "portrait": "Milau",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces intenta detenerme."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse5",
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por ayudarnos."
+    },
+    {
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mi madre está enferma, así que no puede agradecéroslo."
+    },
+    {
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero yo sí, tomad este papel, creo que es un contrato de esos."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Iribella",
+      "portrait": "Iribella",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Oh, eres mi siguiente víctima?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Quizás en tus sueños."
+    },
+    {
+      "character": "Iribella",
+      "portrait": "Iribella",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Seguro? Pareces bastante frágil, con un solo golpe estarás destrozada."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hmm, el sentimiento es mutuo, ahora veamos que pasa."
+    }
+  ]
+}

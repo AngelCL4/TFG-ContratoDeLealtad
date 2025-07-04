@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Iribella",
+      "portrait": "Iribella",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Oh, eres mi siguiente víctima?"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eh, lo siento pero no, aún me quedan muchas ruinas por investigar."
+    },
+    {
+      "character": "Iribella",
+      "portrait": "Iribella",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Te crees que eso me importa?"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que estamos empatados en lo que nos importamos mutuamente, eso hará esto más fácil."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Tomad esto héroes!"
+    },
+    {
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Os he preparado este tónico de velocidad!"
+    }
+  ]
+}

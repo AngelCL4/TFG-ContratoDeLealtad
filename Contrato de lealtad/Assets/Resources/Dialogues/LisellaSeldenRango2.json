@@ -1,0 +1,139 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "BuildingInterior1",
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh... Me toca hacer la compra otra vez... Oh.",
+      "music": "Harvest4"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Hola Lisella."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, Selden, hola."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Pasa algo?"
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento por la forma en la que traté la otra vez, solo querías ayudar."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Está bien, no tenía que haberte insistido si no querías."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No digas eso... Es problema mío, no puedo confiar en la gente."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y eso por qué es?"
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es como se vive en mi aldea, tienes que valerte por ti mismo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso es... un poco triste."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Yo pensaba que era bueno vivir la vida así, pero al salir al mundo exterior me he dado cuenta... de lo aislado que estoy."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No tienes por que estarlo, confía en nosotros, somos aliados, amigos."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo intento pero... es difícil."
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, tengo que ir a hacer la compra."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Quieres que te acompañe?"
+    },
+    {
+      "character": "Selden",
+      "portrait": "SeldenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si tú quieres..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro, vamos."
+    }
+  ]
+}

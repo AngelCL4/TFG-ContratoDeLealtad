@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Midar",
+      "portrait": "Midar",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué lucháis por un hombre así, que ataca una aldea indefensa?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No creo que estéis tan indefensos... Y lo siento, pero nadie os ha invitado a asentaros aquí."
+    },
+    {
+      "character": "Midar",
+      "portrait": "Midar",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces parece que solo nos queda enfrentarnos."
+    }
+  ]
+}

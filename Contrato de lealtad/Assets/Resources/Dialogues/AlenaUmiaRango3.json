@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DaySettlement",
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Alena, quiero pedirte perdón.",
+      "music": "Recollection"
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Eh? ¿Por qué?"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Me he dado cuenta de que tu superior no tenía la culpa de lo que paso."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Él es otra víctima más de la organización penosa del ejército de Mildea."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me alegro de que hayas cambiado de parecer, es un buen hombre."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso parece, por lo poco que hablé con él."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Hablaste con él?"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, y me reconoció al instante, fue bastante divertido."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿De qué hablasteis?"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Al principio quería expresarle mi descontento con lo que le pasó a tu escuadrón. Pero él estaba de acuerdo conmigo, se culpaba a si mismo."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Fue ahí cuando comprendí que los fallos de aquellos en el poder afectan a todos los que están por debajo, no solo al último escalón."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me alegro de que cambiases tu forma de pensar."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y yo, puede que a tu superior todavía le cueste un poco... pero seguro que verá la luz eventualmente."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Eso espero."
+    }
+  ]
+}

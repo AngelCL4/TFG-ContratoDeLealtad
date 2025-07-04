@@ -1,0 +1,139 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp8",
+      "character": "Handox",
+      "portrait": "HandoxAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "Sakuya4"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Handox... Hoy te veo... muy animado."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Siento como si... me estuviese quitando un gran peso de los hombros con el paso de los días."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, me alegro."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "He dejado mi otro trabajo, no sé si ya lo sabías."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, no. ¿Por qué?"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Porque... la única razón por la que lo empecé fue para sentirme querido, porque no podía quererme a mi mismo."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No me arrepiento de nada, pero creo que ahora mismo puedo seguir caminando adelante sin la necesidad de la ayuda de nadie."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es muy inspirador..."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Tú crees?"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Yo tampoco podía quererme a mi mismo, por eso pensé que tenía que cambiarme para que el mundo me quisiese."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero ahora he encontrado a gente que me quiere por como soy, y puedo seguir adelante sin fingir. Pero nunca había caído que es en base a todo lo que he hecho en el pasado que ahora puedo seguir adelante."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Parece que tenemos experiencias similares, me alegro de que ambos hayamos podido salir adelante."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y yo. Si a partir de ahora nos apoyamos mutuamente seguro que llegamos incluso más lejos todavía."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja..."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué pasa...? ¿Ha sido demasiado cursi?"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxAlivioB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No me equivocaba contigo, eres muy atractivo."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahIncomodidadB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ja, ja, ja... Gracias."
+    }
+  ]
+}

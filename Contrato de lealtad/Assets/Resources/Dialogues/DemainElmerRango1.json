@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp4",
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Uf, como pesa.",
+      "music": "LaidBack"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Demain, qué está haciendo con esa caja?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, hola Elmer, estaba llevando estos suministros a nuestro almacén."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Déjeme ayudarle, parece bastante fatigado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Je."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Le pasa algo?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Elmer, ¿en el pasado fuiste sirviente de algún noble o familia real?"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh, eso..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Me hablas igual que la gente que nos servía en nuestro hogar, y solo nos tratas así a Lisella y a mí."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Tiene razón, servía a una familia real, pero eso ya está en el pasado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo... Entonces agradecería que a mi hermana y a mí nos tratases como el resto."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? No puedo hacer eso."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si has dejado todo en el pasado sí que puedes hacerlo. Ahora, si puedes ayudarme a llevar estas cosas te lo agradecería mucho."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Vale, déjame esto y... tú lleva eso."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale."
+    }
+  ]
+}

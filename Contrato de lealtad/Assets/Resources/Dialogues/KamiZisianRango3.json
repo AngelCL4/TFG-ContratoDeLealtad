@@ -1,0 +1,118 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent3",
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Hola, Kami.",
+      "music": "CafeSeaside"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me has pillado antes de que llegase, te has vuelto bueno."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Je, tengo experiencia."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Estás escribiendo otra vez?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro, si no escribo no acabaré ningún libro."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tiene sentido."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y tú... ¿has encontrado algo que hacer?"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿A qué te refieres?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Cuando hablamos la última vez, me pareció entender que no tenías ningún sueño."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me has pillado. Pero todavía estoy buscando lo que quiero hacer, por lo menos he aprendido que no quiero seguir siendo mercenaria."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, eso es un avance."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La verdad es que me das un poco de envidia, tú pareces tener muy claro lo que quieres hacer."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No fue fácil darme cuenta de lo que quería hacer, y separarme de mi familia para seguirlo lo fue menos. Pero... te aseguró que aunque tarde mucho merecerá la pena."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias Zisian... la verdad es que necesitaba oír eso."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Siempre vas a tener mi apoyo. Si alguna vez te encuentras perdida cuando acabemos esta misión, mándame una carta."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo recordaré, gracias."
+    }
+  ]
+}

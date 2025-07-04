@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Siel",
+      "portrait": "SielEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Alguien tan joven no debería tirar su vida en un campo de batalla."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bah, en tu grupo tienes a gente igual de joven, yo he decidido estar aquí."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces... no tendré piedad."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Así me gusta!"
+    }
+  ]
+}

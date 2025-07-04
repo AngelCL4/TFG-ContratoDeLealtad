@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideDestroyedHouse",
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Esta todo destruido... ¡Ah! ¿Quienes sois?"
+    },
+    {
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Viajeros huyendo de bandidos? Oh no, tengo que volver a la ciudad."
+    },
+    {
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por avisarme, tomad esta pluma de halcón, las leyendas dicen que te puede hacer más veloz."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightArmyCamp3",
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Kiara, he oído que has saldado tu deuda por fin.",
+      "music": "DarkMoon"
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Algo así... ¿Es por eso que has venido, para ver si he cambiado mi parecer?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No... He venido a pedirte perdón por no comprender tu punto de vista."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Desde que tengo uso de razón siempre he sido una persona muy egoísta, siempre he estado sola y no veía razón en cambiar eso."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero desde que he estado con todos vosotros, siento que estoy cambiando poco a poco, así que quería pedir perdón por las cosas que dije."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Acepto tus disculpas, ¿pero eso que significa para el futuro?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tus palabras me han hecho reflexionar, y he estado hablando con Demain."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Demain?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He pensado en abrir una especie de museo en Hislan, tras la restauración del reino, donde exponer mi colección, y usar esos ingresos para ayudar a la gente necesitada."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esa es... una gran idea, puedes ampliar tu colección a la vez que haces algo bueno para la gente."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias a tí tuve esa idea, así que... gracias."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No hace falta decir nada, tú has cambiado sola."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaTriste",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¿De verdad lo crees?"
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro que sí, ven aquí, dame un abrazo."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaIncomodidadB",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¿Un abrazo? Quizás es demasiado... ¡Espera!"
+    }
+  ],
+  "reward": {
+        "nombre": "Piedra preciosa",
+        "tipo": "Artefacto",
+        "uso": 1,
+        "cantidad": 0,
+        "descripcion": "Aumenta en 5 la resistencia a ti y a los aliados a un máximo de 5 casillas.",
+        "valor": 5,
+        "statAfectada": "Resistencia",
+        "rango": 5,
+        "afectaAliados": true,
+        "spritePath": "Objects/PlaceholderArtefacto"
+  }
+}

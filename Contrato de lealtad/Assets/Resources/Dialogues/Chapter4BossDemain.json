@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Todo lo que teníais que hacer era rendiros."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento por querer conservar mi vida y mis posesiones."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bah, olvídalo, acabemos con esto."
+    }
+  ]
+}

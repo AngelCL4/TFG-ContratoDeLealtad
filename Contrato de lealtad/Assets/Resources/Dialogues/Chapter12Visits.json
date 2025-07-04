@@ -1,0 +1,74 @@
+{
+  "visits": [
+    {
+      "x": 1.5,
+      "y": 16.5,
+      "conversation": "Chapter12Village1Conversation",
+      "reward": {
+        "nombre": "Elixir",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 30PV a la unidad poseedora.",
+        "valor": 30,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Elixir"
+      },
+      "visited": false
+    },
+    {
+      "x": 5.5,
+      "y": 1.5,
+      "conversation": "Chapter12Village2Conversation",
+      "reward": {
+        "nombre": "Tónico de Defensa",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 la defensa de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Defensa",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoDefensa"
+      },
+      "visited": false
+    },
+    {
+      "x": 17.5,
+      "y": 21.5,
+      "conversation": "Chapter12Village3Conversation",
+      "reward": {
+        "nombre": "Fruta Jugosa",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 5 los PV máximos de la unidad.",
+        "valor": 5,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/FrutaJugosa"
+      },
+      "visited": false
+    },
+    {
+      "x": 21.5,
+      "y": 5.5,
+      "conversation": "Chapter12Village4Conversation",
+      "reward": {
+        "nombre": "Tónico de Poder",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 el poder de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Poder",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoPoder"
+      },
+      "visited": false
+    }
+  ]
+}

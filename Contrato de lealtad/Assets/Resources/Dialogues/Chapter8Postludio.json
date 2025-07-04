@@ -1,0 +1,155 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightHouseExterior",
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que el resto de mercenarios se retiran...",
+      "music": "Enjoyable2"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mejor, menos muerte sin sentido."
+    },
+    {
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eh..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, una niña, ¿dónde están tus padres?"
+    },
+    {
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por ayudarnos... Esa gente eran unos... abusones."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno... no ha sido nada"
+    },
+    {
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ah! Aquí estás... Oh, tú eres... el príncipe Demain."
+    },
+    {
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por expulsar a esa gente, todo el mundo se lo agradece."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero... ¿no os estaban protegiendo de bandidos?"
+    },
+    {
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, pero... no lo hacían gratis, teníamos que darles dinero y comida para que no destruyeran ellos mismos la aldea."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por favor, quedaros esta noche en la posada, nos aseguraremos de que todo esté en orden."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Haremos eso... gracias."
+    },
+    {
+      "backgroundChange": "NightTimeTavern",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demandan un pago por sus servicios... ¿y si no destruyen la aldea? ¿Qué clase de gente son?",
+      "music": "Tavern"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La misma que dejó a esta gente sin protección para empezar destruyendo el reino."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ahora estoy seguro del todo, tenemos que expulsarlos de aquí, no puedo dejar que sigan causando daño a mi gente."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Que determinación..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He tardado lo mío en conseguirla, pero no pienso desfallecer otra vez."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así me gusta, aunque ahora toca descansar un poco, estoy molida."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "La verdad es que yo también... Tocará ir a las habitaciones."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vamos."
+    }
+  ]
+}

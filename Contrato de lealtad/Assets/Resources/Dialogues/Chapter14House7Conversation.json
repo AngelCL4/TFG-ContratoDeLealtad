@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, esta pluma se ha caído de mi juguete..."
+    },
+    {
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿La queréis? No me importa dárosla."
+    }
+  ]
+}

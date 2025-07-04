@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué estáis haciendo? Dejad a esta gente en paz..."
+    },
+    {
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Os puedo dar este brebaje para que os marchéis? Tomadlo."
+    }
+  ]
+}

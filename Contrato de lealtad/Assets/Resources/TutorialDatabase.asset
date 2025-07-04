@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50312d6a6c3e41e45a0c9f20b44ba566, type: 3}
+  m_Name: TutorialDatabase
+  m_EditorClassIdentifier: 
+  tutoriales:
+  - titulo: Movimiento
+    descripcion: "Para mover a tus unidades debes pulsar A con el puntero sobre ellas.\nTras
+      eso se destacar\xE1n en azul las casillas a las que la unidad se puede mover.\nSi
+      pulsas sobre una de ellas la tecla A la unidad se movera a la casilla.\nTras
+      moverse las unidades a\xFAn pueden realizar una acci\xF3n extra, como atacar
+      a enemigos o intercambiar objetos.\nSi la unidad se ha movido a una casilla
+      incorrecta puedes cancelar el movimiento con S, pero no despu\xE9s de realizar
+      una acci\xF3n."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Atacar
+    descripcion: "Tras mover a una unidad se destacaran en rojo las casillas a las
+      que la unidad pueden atacar.\nSi luego mueves el puntero sobre una en la que
+      se encuentra un enemigo se mostrara la previsi\xF3n del ataque, que se realizar\xE1
+      tras pulsar A de nuevo."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Conversaciones
+    descripcion: "Al completar niveles o al combatir en casillas adyacentes las unidades
+      ganar\xE1n puntos de afecto entre ellas.\nCuando consigan los puntos suficientes
+      se desbloquear\xE1n conversaciones entre los personajes, que se pueden ver
+      en el campamento.\nAl ver ciertas conversaciones se obtendr\xE1n objetos o
+      desbloquear\xE1n mapas adicionales, asi que consigue todas las que puedas."
+    desbloqueadoDesdeInicio: 0
+    id: Chapter1
+  - titulo: Potenciadores
+    descripcion: "Estos objetos, como por ejemplo la Fruta Jugosa, aumentan las estad\xEDsticas
+      de un personaje de forma permanente al ser consumidos.\nSin embargo, no son
+      objetos muy abundantes, por lo que piensa bien en que unidad los usar\xE1s."
+    desbloqueadoDesdeInicio: 0
+    id: Chapter2
+  - titulo: Visitar
+    descripcion: "En algunos mapas te encontrar\xE1s con casas con la puerta abierta
+      o posadas.\nSi usas la acci\xF3n 'Esperar' sobre la casilla correcta tu unidad
+      visitar\xE1 el edificio, lo que te puede otorgar distintos objetos o incluso
+      contratos para reclutar a m\xE1s mercenarios."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Retirada
+    descripcion: "Cuando una unidad de tu ej\xE9rcito llega a 0 PV esta es derrotada,
+      desapareciendo del mapa.\nSin embargo, la unidad no muere permanentemente,
+      solo no puede ser usada hasta el siguiente cap\xEDtulo."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Experiencia
+    descripcion: "Cuando tus unidades curan a aliados o atacan a enemigos estan ganan
+      puntos de experiencia.\nCuando los puntos de experiencia de una unidad superan
+      los 100, esta sube de nivel, teniendo una probabilidad de mejorar sus estad\xEDsticas
+      (excepto el movimiento)."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Objetos
+    descripcion: "Cada unidad tiene la posibilidad de llevar un objeto. Si reciben
+      otro (mediante visitar), este ir\xE1 al almac\xE9n.\nLos objetos pueden ser
+      de uso activo (curativos, t\xF3nicos o potenciadores) o pasivo (artefactos)."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Intercambio
+    descripcion: Una unidad puede intercambiar su objeto con una unidad adyacente,
+      sin necesidad de que ambas posean un objeto.
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Objetos curativos
+    descripcion: Los objetos curativos, como las pociones, tienen usos limitados
+      y restauran la vida perdida de la unidad que los posea al usarlos.
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: "T\xF3nicos"
+    descripcion: "Los t\xF3nicos proporcionan una mejora temporal de estad\xEDsticas
+      a la unidad que los consuma.\nEsta mejora va disminuyendo en 1 cada turno."
+    desbloqueadoDesdeInicio: 0
+    id: Chapter3
+  - titulo: Artefactos
+    descripcion: "Los artefactos son objetos de uso pasivo que afectan a las estad\xEDsticas
+      de las unidades (aliadas o enemigas) en un rango.\nLa gran mayor\xEDa de artefactos
+      se obtienen al ver conversaciones entre personajes."
+    desbloqueadoDesdeInicio: 0
+    id: Chapter8
+  - titulo: Campamento
+    descripcion: "El campamento es el men\xFA de planificaci\xF3n que visitas entre
+      niveles, en el tienes varias funciones.\nContratar te deja gastar tus contratos
+      para reclutar a nuevas unidades a tu ej\xE9rcito.\nConversar te permite ver
+      conversaciones entre los personajes de tu ej\xE9rcito, si estas est\xE1n desbloqueadas.\nEn
+      Inventario puedes guardar y sacar objetos del almac\xE9n y otorg\xE1rselos
+      a tus unidades.\nEntrenar te permite gastar entrenamientos para subir a las
+      unidades de nivel, estos se restauran cada vez que completas un cap\xEDtulo.\nContinuar
+      te deja elegir el siguiente nivel a jugar."
+    desbloqueadoDesdeInicio: 0
+    id: Chapter1
+  - titulo: Contratos
+    descripcion: "Los contratos son la \xFAnica manera de ampliar tu ej\xE9rcito,
+      estos se obtienen al completar niveles y visitar edificios, y se usan en el
+      campamento.\nHay un total de 19 contratos repartidos por el juego, \xBFpodr\xE1s
+      conseguirlos todos?"
+    desbloqueadoDesdeInicio: 1
+    id: 

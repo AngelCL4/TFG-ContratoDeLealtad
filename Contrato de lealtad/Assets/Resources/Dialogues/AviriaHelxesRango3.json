@@ -1,0 +1,139 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightTimeHills1",
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Cómo lo haces?",
+      "music": "OverWorldFolk"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Cómo hago qué?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eres... como un rayo de sol, alegras a todo el mundo con el que te cruzas."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaTristeB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Guau... Nunca antes me habían dicho eso."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tengo un poco de envidia si te soy sincero."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Envidia? ¿Por qué?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que eres feliz de forma natural, y yo he tenido que fingirlo todo este tiempo."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, es cierto que soy feliz, pero no todo el rato."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces... como lo haces."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Supongo que... cada vez que siento que me va a dar un bajón, me pongo a bailar, eso siempre hace que me anime."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Algo que te anima... Quizás es por eso que somos diferentes, yo no tengo nada como eso."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué estupideces estás diciendo? ¿Cómo es posible que tú no sepas lo que te anima y yo sí?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué, lo sabes?"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro, lo que te hace feliz es ver a gente feliz, ¿por qué crees que te invité a verme bailar? Cuando ves a alguien que está disfrutando tu cara se ilumina y sonríes de verdad."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿En serio? No me había dado cuenta..."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Puedo verlo, sí."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces... ¿te apetece venir a verme bailar?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Sí, y lo siento."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bah, no pasa nada. Si de verdad lo sientes, entonces, sé feliz."
+    }
+  ]
+}

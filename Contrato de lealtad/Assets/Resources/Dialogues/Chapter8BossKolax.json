@@ -1,0 +1,19 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Droji",
+      "portrait": "Droji",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh, pareces un hermano erudito, una pena que estés desperdiciando tus talentos con esta gente."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ojalá pudiera decir lo mismo de tí, pero parece que ya no tienes salvación."
+    }
+  ]
+}

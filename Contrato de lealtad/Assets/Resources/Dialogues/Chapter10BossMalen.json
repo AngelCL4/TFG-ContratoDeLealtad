@@ -1,0 +1,40 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Admiro tu convicción. No rendirse ante una estampa tan mala es... impresionante."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, gracias por el cumplido."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y aún así, no puedo evitar pensar que estás tirando tu vida por la borda."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Para tirarla primero tengo que perderla, y eso aún está por ver."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muy bien, déjame abrirte los ojos."
+    }
+  ]
+}

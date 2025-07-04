@@ -1,0 +1,40 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Umia",
+      "portrait": "UmiaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que una persona como tú tenga tantos seguidores es... desesperanzador."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Soy carismático, que se puede decir."
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y es por eso que el mundo está en esta situación."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pues entonces está es tu oportunidad para cambiarlo, ¿no?"
+    },
+    {
+      "character": "Umia",
+      "portrait": "UmiaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, una que no pienso desperdiciar."
+    }
+  ]
+}

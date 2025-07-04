@@ -1,0 +1,133 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "EveningCityInterior",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... ah... ¿Estamos todos?",
+      "music": "DawningTale"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, no falta nadie."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Menos mal, por lo menos estaremos a salvo aquí."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué es toda esa multitud?",
+      "music": "EchoedArt"
+    },
+    {
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Es hora de rebelarnos!"
+    },
+    {
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Sí, el rey nos ha abandonado! ¡Abajo con él!"
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1", 
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No creo que sea así, seguimos siendo habitantes del reino..."
+    },
+    {
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y qué mas da si no nos protege? Para él somos prescindibles."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Parece que hay bastante descontento entre los aldeanos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demain, ¿estás bien? No dejes que te afecte."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Creo que es un poco tarde, sus quejas... tiene sentido. ¿Cuando yo restaure el reino seré capaz de protegerlo?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro que sí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Es realmente lo correcto restaurarlo?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que estás diciendo, no puedes rendirte."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Supongo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vamos a descansar, es lo que te hace falta."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale."
+    }
+  ]
+}

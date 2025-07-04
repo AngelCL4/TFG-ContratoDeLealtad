@@ -1,0 +1,75 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Entrar en la ciudad no ha sido tan difícil."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Me da que lo difícil viene ahora, las calles están plagadas de enemigos..."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Pues habrá que derrotarlos a todos."
+        }
+      ]
+    },
+    {
+      "turno": 2,
+      "dialogue": [
+        {
+          "character": "Cenarn",
+          "portrait": "Cenarn",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "El enemigo avanza... Así que Sorion de verdad ha caído, ¿eh?"
+        },
+        {
+          "character": "Cenarn",
+          "portrait": "Cenarn",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Muy bien, les haré pagar por eso, con intereses."
+        }
+      ]
+    },
+    {
+      "turno": 7,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaFeliz",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "La gente parece emocionada por tu llegada."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Eso parece... Pero no es momento para distraerse."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "En eso tienes razón."
+        }
+      ]
+    }
+  ]
+}

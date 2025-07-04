@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad, un tónico de resistencia para vosotros."
+    },
+    {
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sé que conseguiréis ganar, ¡a por ellos!"
+    }
+  ]
+}

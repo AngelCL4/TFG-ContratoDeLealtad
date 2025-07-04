@@ -1,0 +1,125 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightLakeside",
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "DeepSea"
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, Vila, perdona, no te había visto."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pareces tener algo en la mente."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí..."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Quieres hablar de ello? Quizás te puede ayudar."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Puede que tengas razón."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Alguna vez has tenido dificultades en decir lo que realmente piensas?"
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, sí, alguna vez."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo..."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero, ahora creo que tengo que ser fiel a mi misma."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Cómo?"
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La mayoría de veces que me callaba, era porque lo que pensaba podría herir a otras personas, pero con el tiempo aprendí a que tengo que priorizarme."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Herir a otras personas... así es como me siento yo, no puedo imaginarme el hacerle daño a alguien que quiero."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lisella, si quieres a esa persona, lo mejor que puedes hacer es ser honesto con ella, y si ella te tiene el mismo cariño, no importará lo que pase."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Creo que necesito tiempo para pensar."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es normal, tómate el tiempo que necesites."
+    }
+  ]
+}

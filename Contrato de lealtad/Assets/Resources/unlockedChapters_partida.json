@@ -1,0 +1,562 @@
+{
+  "chapters": [
+    {
+      "chapterName": "Chapter1",
+      "chapterTitle": "Inicios",
+      "description": "Demain y Lisella empiezan su mision de restaurar el reino caido de Hislan",
+      "estaDesbloqueado": true
+    },
+    {
+      "chapterName": "Chapter2",
+      "chapterTitle": "Desesperacion de Biedro",
+      "description": "Continuando el viaje hacia el sur, en la frontera de los reinos de Filsai y Mildea, Demain y el grupo empiezan a divisar Oleana, una aldea de paso.",
+      "estaDesbloqueado": true
+    },
+    {
+      "chapterName": "Chapter3",
+      "chapterTitle": "Retos de un rey",
+      "description": "Mientras se adentran en las tierras de Mildea, Demain empieza a sopesar todo lo que conlleva ser un rey.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter4",
+      "chapterTitle": "Dudas y odio",
+      "description": "Cerca de una de las ciudades mas grandes de Mildea, el grupo empieza a notar que estan siendo observados.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter5",
+      "chapterTitle": "Nadie se queda atras",
+      "description": "Durante su estancia en la ciudad, Demain sigue dudando, pero una amenaza inminente le hará abandonar sus pensamientos.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter6",
+      "chapterTitle": "Lindes del destino",
+      "description": "Cerca de la frontera de Hilsan, los animos de Demain siguen decayendo mientras una amenaza oculta les rodea.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter7",
+      "chapterTitle": "Mal recibimiento",
+      "description": "Demain y el grupo llegan a la primera aldea de Hislan, dispuestos a expulsar al enemigo de las tierras del reino.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter8",
+      "chapterTitle": "Determinacion",
+      "description": "Mientras el grupo intenta seguir avanzando hacia la capital, Demain llega a una terrible conclusión.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter9",
+      "chapterTitle": "Hacia delante",
+      "description": "Demain sigue avanzando hacia la capital con la confianza restaurada, dispuesto a darle a su pueblo el reino que se merece.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter10",
+      "chapterTitle": "Razones",
+      "description": "Demain y el grupo llegan a las puertas de la capital del reino, donde uno de los comandantes enemigos les espera.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter11",
+      "chapterTitle": "Rey pasajero",
+      "description": "Demain se adentra en su hogar, dispuesto a derrotar al lider de los mercenarios y restaurar su reino.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter12",
+      "chapterTitle": "Persecucion",
+      "description": "Tras el escape del lider de los mercenarios, Demain y el grupo deciden darle caza para que Biedro pueda estar seguro.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter13",
+      "chapterTitle": "Siguiendo la pista",
+      "description": "Continuando su persecucion, Demain y su grupo se acercan al puerto de Colena, donde, en el camino, algo les espera.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter14",
+      "chapterTitle": "Sin escapatoria",
+      "description": "Tras llegar al puerto de Colena, Demain y su grupo avistan a su objetivo, que intenta escapar.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "Chapter15",
+      "chapterTitle": "Un mejor futuro para Biedro",
+      "description": "Sin escapatoria para el lider de los mercenarios, Demain le sigue a la colina más elevada de Hislan, sabiendo que la batalla final se aproxima.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLisella1",
+      "chapterTitle": "Miseria y plaga",
+      "description": "Lisella oye hablar de una aldea cercana en que esta siendo azotada por una plaga. Tras pedirselo a Demain, el grupo se dirige hacia alli para intentar curarlos con la magia de Lisella.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLisella2",
+      "chapterTitle": "Recuerdos pendientes",
+      "description": "Lisella viaja a una aldea del sur de Hislan, sin embargo Demain insta al grupo a seguirla, decidido a saber que la atormenta.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterAki1",
+      "chapterTitle": "Ruinas familiares",
+      "description": "Aki le pide a Demain unos dias libres para visitar su antiguo hogar, pero Demain decide acompañarla a visitar su aldea.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterAki2",
+      "chapterTitle": "Mi venganza",
+      "description": "Tras recibir una pista del paradero de su aldea, Aki, acompañada del grupo, se dirige a verlos.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterAlena1",
+      "chapterTitle": "El lugar en el que morí",
+      "description": "Alena decide dirigirse a un cementerio en honor a sus camaradas caídos, Demain decide acompañarla.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterAlena2",
+      "chapterTitle": "Mirar hacia el futuro",
+      "description": "Alena le pide a Demain ayuda para defender una aldea cercana al cementerio que visitaron, pero no sabe que allí se encontrará con su pasado.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterAvarel1",
+      "chapterTitle": "Limar roces",
+      "description": "Tras recibir una carta de un amigo, Avarel se dirige a su aldea para defenderla de bandidos. Demain le sigue, sorprendido y preocupado.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterAvarel2",
+      "chapterTitle": "Mala actitud",
+      "description": "Mientras el grupo viaja de vuelta de defender una aldea de otro amigo de Avarel, este se encuentra más arisco que de costumbre, lo cual puede ser peligroso.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterAviria1",
+      "chapterTitle": "El don de la danza",
+      "description": "Aviria, acompañada del grupo, se dirige a una ciudad de Gheana par participar en su famosa competición de baile.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterAviria2",
+      "chapterTitle": "Arte sin contener",
+      "description": "Mientras el grupo viaja por el desierto de Gheana tras presenciar otro espectaculo de baile de Aviria, Demain piensa en el futuro de ambos.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterCelsia1",
+      "chapterTitle": "Fuerza solitaria",
+      "description": "Celsia consigue una pista acerca del paradero de los bandidos a los que persigue, por lo que decide enfrentarse a ellos. Demain y el resto le siguen preocupados.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterCelsia2",
+      "chapterTitle": "Nueva familia",
+      "description": "Celsia averigua la localización del lider de los bandidos que lleva años persiguiendo. Antes de partir se lo hace saber a Demain y el resto, que la acompañan a llevar a cabo su venganza.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterEldael1",
+      "chapterTitle": "Sin memoria",
+      "description": "Eldael sigue una pista acerca de su memoria perdida a una aldea de Nunsed acompañado de Demain y el grupo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterEldael2",
+      "chapterTitle": "Todo lo que he perdido",
+      "description": "Siguiendo otra pista, Eldael y Demain se dirigen a las ruinas cercanas de la capital de Nunsed, donde Eldael deberá enfrentarse a su pasado.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterElmer1",
+      "chapterTitle": "Un año sin ti",
+      "description": "Elmer se marcha en la noche sin avisar, pero Demain y el resto le siguen en secreto.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterElmer2",
+      "chapterTitle": "Aceptar para sanar",
+      "description": "Mientra el grupo viaja por Filsai, Elmer reconoce el lugar como aquel donde la princesa murió y siente su corazón encogerse.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterFesha1",
+      "chapterTitle": "Hija de las praderas",
+      "description": "Fesha viaja a las praderas para defender una aldea del ataque constante de bandidos. Demain y el grupo le brindan su ayuda.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterFesha2",
+      "chapterTitle": "Charla familiar",
+      "description": "Fesha decide viajar a su aldea natal y hablar con su familia, sin embargo su hogar no está tan seguro como pensaba.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterHandox1",
+      "chapterTitle": "¿Realmente eres feliz?",
+      "description": "Handox se dirige a un pueblo para realizar un trabajo de una sola noche, pero el resto del grupo le acompaña sin él saberlo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterHandox2",
+      "chapterTitle": "Bajo las estrellas",
+      "description": "Handox viaja a la colina de Strelia para reflexionar sobre todas las dudas que le atormentan.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterHelxes1",
+      "chapterTitle": "Sonrisa desvanecida",
+      "description": "Helxes decide enseñarle a Demain un antiguo pueblo que visitó, pero lo que se encuentran al llegar es desolador.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterHelxes2",
+      "chapterTitle": "Que todos puedan sonreir",
+      "description": "Mientras el grupo viaja por un camino inhóspito de vuelta de comprar suministros, Demain aconseja a Helxes sobre su optimismo ciego.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterHyugan1",
+      "chapterTitle": "Amor maternal",
+      "description": "Hyugan se dirige con prisas a su aldea natal, ya que se encuentra en peligro de ser arrasada por bandidos.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterHyugan2",
+      "chapterTitle": "Distancia prudencial",
+      "description": "Hyugan, acompañado del grupo, se dirige a una ciudad de Mildea que está bajo asedio, sin embargo se encontrará con alguien inesperado en ese lugar.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterIpris1",
+      "chapterTitle": "Secretos reales",
+      "description": "Acompañada de Demain y siguienda una pista del paradero de su hermano, Ipris se dirige a una aldea remota en Nunsed.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterIpris2",
+      "chapterTitle": "El legado de Nunsed",
+      "description": "Ipris y el grupo viajan a las ruinas de la capital de Nunsed, allí Ipris deberá tomar una importante decisión.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterIrina1",
+      "chapterTitle": "Una vida plena",
+      "description": "Irina desaparece en mitad de la noche, dejando una carta a Demain sobre lo que va a hacer, este la sigue acompañado del grupo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterIrina2",
+      "chapterTitle": "El camino de la fama",
+      "description": "Irina viaja hasta Nunsed a unas tierras azotadas por un tirano. Demain la vuelve a seguir para ayudarla, cansado de su actitud.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterJadyr1",
+      "chapterTitle": "Emociones desatadas",
+      "description": "Jadyr y el grupo se dirigen a unas ruinas antiguas, las cuales por desgracia no están deshabitadas.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterJadyr2",
+      "chapterTitle": "Indecisión",
+      "description": "Jadyr se embarca en otra expedición con el grupo, sin embargo en estas ruinas se enfrentará a una decisión que podría cambiar su vida por completo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterKami1",
+      "chapterTitle": "Independencia forzada",
+      "description": "Kami pide a Demain ayuda para defender su aldea natal de un ataque de bandidos, junto al grupo todos se dirigen hacia Filsai.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterKami2",
+      "chapterTitle": "Hora de descubrir",
+      "description": "Tras recibir una carta de ayuda de una aldea portuaria, Kami y Demain se dirigen allí para defenderla de piratas.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterKiara1",
+      "chapterTitle": "Fiebre del oro",
+      "description": "Kiara se ausenta repentinamente para volver a su pueblo natal. Demain, estando preocupado, la sigue en secreto.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterKiara2",
+      "chapterTitle": "Deuda saldada",
+      "description": "Kiara, con la ayuda de Demain y el grupo, decide confrontar a su cobrador para dejar de pagar las deudas de sus padres.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterKolax1",
+      "chapterTitle": "Apetito de sabiduria",
+      "description": "Kolax, tras pedirselo a Demain, viaja a una aldea remota en busca de un libro valioso lleno de conocimientos.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterKolax2",
+      "chapterTitle": "Académico de corazón",
+      "description": "Kolax, acompañado del grupo, regresa a las ruinas de la Gran Academia de Nunsed, donde se da cuenta de su proposito en la vida.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLetan1",
+      "chapterTitle": "Tengo lo que merezco",
+      "description": "Letan, tras recibir una carta extraña, decide acudir a su lugar de encuentro. Demain le sigue preocupado, pero no se espera lo que verá alli.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLetan2",
+      "chapterTitle": "Espalda con espalda",
+      "description": "Mientras el grupo viaja por un camino solitario, Letan y Demain conversan sobre sus opuestos puntos de vista.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLilen1",
+      "chapterTitle": "Sueño infructuoso",
+      "description": "Tras hablar con Demain, Lilen y el grupo se dirigen a una prospera ciudad mercantil, con el fin de que Lilen venda su mercancía.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLilen2",
+      "chapterTitle": "Cambio de aires",
+      "description": "Demain insta a Lilen a que le acompañe a una pequeña aldea de Hislan. Lilen, desanimada, le sigue a regañadientes.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLoreas1",
+      "chapterTitle": "Evitando la extincion",
+      "description": "Loreas recibe noticias de un grupo de uliseos que esta siendo perseguido por las fuerzas de Gheana. Acompañado de Demain, se dirigen a salvarlos.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLoreas2",
+      "chapterTitle": "Legado de los uliseos",
+      "description": "Loreas decide visitar el campamento oculto de los uliseos acompañado del grupo. Sin embargo puede que no fuese tan oculto como parecía.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLumina1",
+      "chapterTitle": "Mi último trabajo",
+      "description": "Lumina recibe una carta de una aldea cercana a su hogar, en la que le piden ayuda contra una banda de bandidos. Demain le insta a ir y la acompaña.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterLumina2",
+      "chapterTitle": "Honrar a los caidos",
+      "description": "Lumina decide visitar las tumbas de sus compañeros caídos acompañada de Demain y el grupo, donde recordará la promesa que hizo hace tantos años.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterMalen1",
+      "chapterTitle": "Entra en la arena",
+      "description": "Mientras el grupo compra suministros en una aldea remota, Malen se encontrará con alguien de su pasado, lo cual no acabará bien.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterMalen2",
+      "chapterTitle": "Red subterranea",
+      "description": "Malen recibe una carta de su antiguo patrón del coliseo, y desaparece en la noche para enfrentarse a él solo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterMirah1",
+      "chapterTitle": "Fachada",
+      "description": "Mirah vuelve a su aldea natal para defenderla de un ataque de bandidos, aunque su pasado volverá para atormentarlo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterMirah2",
+      "chapterTitle": "Un hogar permanente",
+      "description": "Mirah le pide ayuda a Demain y al grupo para liberar su lugar favorito de una banda de bandidos que se ha asentado en él.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterNandris1",
+      "chapterTitle": "Disfrutar el momento",
+      "description": "Demain le pide a Nandris que la acompañe a, lo que él considera, uno de los lugares más bonitos de Hislan, las cascadas de Ylisea.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterNandris2",
+      "chapterTitle": "Mi lugar en el mundo",
+      "description": "Tras ser emboscados por fuerzas de los mercenarios que se han asentado en Hislan, el grupo se ve obligado a retirarse a una colina en la que son rodeados.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterNoru1",
+      "chapterTitle": "Inmadurez",
+      "description": "Minetras compran suministros en una aldea, Noru sigue intentando hacerse el adulto, lo que causará problemas para todo el grupo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterNoru2",
+      "chapterTitle": "Promesa",
+      "description": "Noru decide visitar a su familia y pasar un día con ellos. Demain y el grupo le acompañan, lo cual resultará ser su salvación.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterOlyr1",
+      "chapterTitle": "Ladrón fantasma",
+      "description": "Mientras descansan en una aldea, Olyr desaparece por la noche, lo que hace que Demain vaya a buscarlo y se encuentra con su mayor secreto.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterOlyr2",
+      "chapterTitle": "Cerrar con llave",
+      "description": "Mientras el grupo descansa por la noche en una aldea, Olyr sale a dar un paseo, pero no sabe que puede que sea el último que dé.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterOnirie1",
+      "chapterTitle": "Talento sufrido",
+      "description": "El grupo viaja por una carretera desierta, pero Onirie, que está atenta, se da cuenta del por que de esto.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterOnirie2",
+      "chapterTitle": "Calma y vulnerabilidad",
+      "description": "Onirie viaja con el resto del grupo a su aldea, y aunque ella esperaba pasar un día tranquilo con su familia se da cuenta que no será posible.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterOzane1",
+      "chapterTitle": "Un simple tropiezo",
+      "description": "El grupo se ve acorralado en un oasis por unos bandidos, Ozane, estando cerca de su hogar, se abre con Demain.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterOzane2",
+      "chapterTitle": "Compartir y aprovechar",
+      "description": "Mientras viajan por Hislan el grupo se topa con un contigente de los mercenarios enemigos, por lo que se preparan para la batalla.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterPhesen1",
+      "chapterTitle": "Nobleza cegante",
+      "description": "Mientras el grupo descansa por la noche, sienten como el enemigo les rodea en la oscuridad y se preparan para contraatacar.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterPhesen2",
+      "chapterTitle": "Apoyo mutuo",
+      "description": "Phesen, con la ayuda de Demain, vuelve a su antiguo hogar con la esperanza de liberarlo de los mercenarios que lo han ocupado.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterQuaill1",
+      "chapterTitle": "Conexion paternal",
+      "description": "Quaill pide un tiempo libre para volver a su aldea, pero para sorpresa de este Demain le acompaña para conocerlo mejor.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterQuaill2",
+      "chapterTitle": "Recoger el sedal",
+      "description": "Quaill, acompañado del grupo, viaja al primer lugar en el que pescó con su padre, aunque no lo encontrará tal y como estaba hace años.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterSeiha1",
+      "chapterTitle": "Altruismo",
+      "description": "Mientras Seiha y el grupo realizan compras en una aldea, descubren un secreto que les pondrá en peligro.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterSeiha2",
+      "chapterTitle": "Egoismo",
+      "description": "Seiha vuelve a su aldea acompañada del grupo, sin embargo, Seiha no se espera lo que está sucediendo en su hogar.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterSelden1",
+      "chapterTitle": "Soledad debilitante",
+      "description": "Selden deja una carta en el campamento, indicando que va a enfrentarse a unos bandidos por su cuenta. Tras leer la carta Demain y el resto corren para ayudarlo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterSelden2",
+      "chapterTitle": "Ayuda indiscriminada",
+      "description": "Selden decide viajar a su aldea para ayudarles a defenderse de unos bandidos, Demain, conmovido, decide acompañarle.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterSiel1",
+      "chapterTitle": "El general desertor",
+      "description": "Siel viaja a un pequeño pueblo fronterizo de Hislan acompañado de Demain y el grupo. Allí, Demain descubrirá lo que su reino ocultaba.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterSiel2",
+      "chapterTitle": "Compañia permanente",
+      "description": "Demain decide viajar a una aldea aislada, Siel le acompaña, extrañado por saber su objetivo final.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterTilpha1",
+      "chapterTitle": "Travesía frondosa",
+      "description": "Tilpha decide ausentarse del grupo unos días para viajar a un bosque frondoso. Sin embargo Demain la sigue para no dejarla sola.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterTilpha2",
+      "chapterTitle": "Piedras preciosas",
+      "description": "Tilpha vuelve a ausentarse para ir a un pueblo minero, pero avisa a Demain antes de irse, lo que hace que este la siga.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterUmia1",
+      "chapterTitle": "Odio arraigado",
+      "description": "En una pequeña aldea de Mildea, Umia, que pensaba que estaba en un lugar seguro, se encuentra con su pasado de frente.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterUmia2",
+      "chapterTitle": "Confianza plena",
+      "description": "Mientras el grupo viaja por Mildea, Umia y Demain habla sobre la convicción de esta, pero su conversacion se ve interrumpida.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterVila1",
+      "chapterTitle": "Secretos a la luz",
+      "description": "Mientras el grupo descansa en un pueblo de Gheana, Vila se encuentra de bruces con sus antiguos compañeros.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterVila2",
+      "chapterTitle": "Fuera del sistema",
+      "description": "Vila decide enfrentarse a su antiguo superior y desenmascarar las mentiras que se dijeron sobre ella, aunque no será tan sencillo como pensaba.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterWaishe1",
+      "chapterTitle": "Convicción",
+      "description": "Waishe decide viajar a una aldea que descubrió ocupada por bandidos acompañada de Demain y el grupo.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterWaishe2",
+      "chapterTitle": "Una mejor persona",
+      "description": "Waishe vuelve a su hogar, con las esperanzas de ver el estado de su familia, pero tendra que luchar si quiere volver a verlos.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterZisian1",
+      "chapterTitle": "Nostalgia",
+      "description": "Mientras Zisian y Demain hablan, el grupo se ve obligado a sacar sus armas para defender su vida.",
+      "estaDesbloqueado": false
+    },
+    {
+      "chapterName": "ChapterZisian2",
+      "chapterTitle": "Lapiz en mano",
+      "description": "Zisian vuelve a su pueblo para visitar a su familia, aunque no se espera que, pese a lo remoto que es, sigue habiendo gente que les quiere hacer daño.",
+      "estaDesbloqueado": false
+    }
+  ]
+}

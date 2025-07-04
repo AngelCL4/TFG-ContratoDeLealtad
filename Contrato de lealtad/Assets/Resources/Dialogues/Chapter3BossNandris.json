@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Xulya",
+      "portrait": "Xulya",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh, que bellezón."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que quieres morir."
+    },
+    {
+      "character": "Xulya",
+      "portrait": "Xulya",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Una pena que tenga que matarla, pero así es la guerra."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muy bien, ignórame bajo tu propio riesgo."
+    }
+  ]
+}

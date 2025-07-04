@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "FortInterior2",
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pareces... más calmado estos días.",
+      "music": "NostalgicJig"
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, muchas cosas han cambiado desde la última vez que hablamos, para bien claro."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "También me alegro de que tu situación haya mejorado."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso ha hecho, pero aún así... me preocupa toda la gente que sigue afectada por ese mundo subterráneo."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya no estás solo Malen, si Demain ha decidido ayudarte yo haré lo mismo."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Eh? ¿Qué pasa, ahora vosotros dos sois un conjunto?"
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que puedes decirlo así. He decidido ayudarle y aconsejarle, para que no cometa los mismos errores que su padre."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y no creo que esté cometiendo un error al ayudarte."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Gracias."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No sé como de factible será enfrentarnos a todo ese mundo subterráneo, y probablemente ahora no sea la mejor idea. Pero estoy seguro de que algún día toda la gente que esta retenida será liberada."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Se que es una tarea titánica, pero el tener vuestro apoyo me hace sentir que la carga no es tan pesada."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Cargar con todo tú solo nunca es una buena idea, es algo que... he aprendido estos días."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, tocará seguir hacia delante confiando los unos en los otros."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por supuesto, no he llegado hasta aquí para detenerme ahora."
+    }
+  ]
+}

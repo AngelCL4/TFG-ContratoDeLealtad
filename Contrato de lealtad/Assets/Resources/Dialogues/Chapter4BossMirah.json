@@ -1,0 +1,40 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Guau, es muy... guay."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Creo que estás pensando en voz alta."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? ¡Ah!"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por el cumplido, pero eso no va a salvarte de esta pelea."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm, obvio que no, ¡quiero pelear!"
+    }
+  ]
+}

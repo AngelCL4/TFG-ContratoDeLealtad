@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeLushForest",
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Guau, que buena estaba la comida...",
+      "music": "Breeze2"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Aviria, ¿puedo pedirte un favor?"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, Helxes, ¿qué pasa?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He oído que eres una muy buena bailarina."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No suelo opinar de mi misma, pero gracias por el cumplido."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si no te importa... Me gustaría que me enseñases como bailas."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm... Me encantaría, pero ahora mismo es mejor no hacerlo."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué, por qué?"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Acabo de terminar de comer, quiero reposar un poco la comida antes de ponerme a moverme demasiado."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Lo entiendes, verdad?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo entiendo, pero sigue siendo una pena."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tampoco hace falta que te me vengas abajo, en una hora como mucho ya estaré lista si quieres verme bailar."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Perfecto, ahí estaré."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si puedes, traete a más gente, cuanto más público tengo mejor bailo."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Dalo por hecho."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage4",
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Se que hay gente de esta aldea que está en contra del príncipe pero..."
+    },
+    {
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Si os doy este tónico de poder prometéis dejarnos en paz?"
+    }
+  ]
+}

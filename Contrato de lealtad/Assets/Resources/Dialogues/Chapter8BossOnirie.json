@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Droji",
+      "portrait": "Droji",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh, noto el potencial cuando lo veo, y tú querida tienes mucho."
+    },
+    {
+      "character": "Droji",
+      "portrait": "Droji",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué te parece unirte a nosotros? Seguro que podemos pagarte más que el príncipe sin reino."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Agh, si piensas que me puedes sobornar con dinero lo tienes muy crudo. Es más, creo que voy a matarte por decir esa insolencia."
+    }
+  ]
+}

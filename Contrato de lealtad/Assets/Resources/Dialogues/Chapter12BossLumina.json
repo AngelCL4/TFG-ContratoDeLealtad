@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Lumina",
+      "portrait": "LuminaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Usar a gente inocente como escudos humanos... Espero que no encontréis paz en el más allá, nunca."
+    },
+    {
+      "character": "Ettoh",
+      "portrait": "Ettoh",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Sin palabras? Entonces déjame dejarte sin vida también."
+    }
+  ]
+}

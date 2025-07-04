@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por fin viene alguien a ayudarnos..."
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este elixir, os será útil."
+    }
+  ]
+}

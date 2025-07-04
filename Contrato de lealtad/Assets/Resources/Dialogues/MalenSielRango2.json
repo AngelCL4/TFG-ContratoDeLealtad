@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent",
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He oído sobre tu pasado.",
+      "music": "LostInTheWoods"
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm, era cuestión de tiempo que te llegase la información."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que eras un gladiador de los coliseos subterráneos... Eso explica muchas cosas."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pareces cuestionar su existencia."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Era un general militar, tengo información que gente corriente no suele tener."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así que... ¿el reino de Hislan sabía todo pero no hizo nada?"
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, yo solo puedo decirte lo que yo sabía, que puede no ser lo mismo que sabía el reino en si."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Como tal, yo solo conocía de la existencia de coliseos subterráneos, pero no sabía nada de una red entera de ciudades ni de como entrar en ese mundo."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Tiene sentido."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y ahora que tu secreto está al descubierto estamos en peligro?"
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Cuando escapé de ese mundo... dejé mucha gente enfadada detrás, gente que hará lo que sea por silenciarme, a mi y a todo el que sepa lo mismo que yo."
+    },
+    {
+      "character": "Siel",
+      "portrait": "SielNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Eso es un problema, pero no hay nada que podamos hacer ahora."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento..."
+    }
+  ]
+}

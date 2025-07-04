@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Xulya",
+      "portrait": "Xulya",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh, esta es guapa, aunque parece pobre."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...¿Qué?"
+    },
+    {
+      "character": "Xulya",
+      "portrait": "Xulya",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Una pena que tenga que matarla..."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pues a mi no me va a dar ninguna pena."
+    }
+  ]
+}

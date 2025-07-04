@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent7",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Hola, Vila.",
+      "music": "EndlessWoods"
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hey, ¿has pensado ya en lo del otro día?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, y tenías razón, tengo que ser honesta conmigo y con los demás."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me alegro de eso."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Has sido una gran ayuda, gracias. Aunque me siento un poco mal."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Mal, qué ha pasado?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tú me has ayudado mucho, pero yo no te he sido de mucha ayuda para tus problemas."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bah, no me importa, si te digo la verdad lo prefiero. Así puedo desconectar de lo que me sucede a mí, se hace tedioso hablar siempre de tí mismo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno..."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No te sientas mal, eso es a lo que me refiero."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces no lo haré. Y si quieres hablar de cualquier otra cosa para desconectar, que sepas que me tienes aquí, te considero una buena amiga."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaAlivioB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, haces que ponga colorada. Yo también te considero una buena amiga."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivioB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias."
+    }
+  ]
+}

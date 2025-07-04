@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Synnel",
+      "portrait": "Synnel",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tú no eres mi objetivo, fuera de mi camino."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Dame la espalda por un segundo y no vivirás para contarlo."
+    },
+    {
+      "character": "Synnel",
+      "portrait": "Synnel",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Pues entonces tocará matarte."
+    }
+  ]
+}

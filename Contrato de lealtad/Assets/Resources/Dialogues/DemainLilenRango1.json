@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent4",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¿Lilen, que son todas estas cosas?",
+      "music": "Hanagoyomi"
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, hola Demain, son mis mercancías, estoy haciendo inventario."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tienes... muchas cosas."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y antes tenía más, pero intento vender al menos una cosa en cada aldea que visitamos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Voy a ver que tienes entonces, seguro que encuentro algo útil."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Quieres comprar algo? Mmm..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, ¿pasa algo?"
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me siento un poco mal... Ya me estás pagando, cobrarte también por comprar mi mercancía se siente..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Te pago por tus servicios de mercenaria, no de mercader. Mmm, creo que me quedo con esto."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Esta falda? Mmm, no me parece muy de tu estilo, pero si la quieres."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No es para mí, es para Lisella, su cumpleaños esta al caer, así que quería regalarle algo."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Su cumpleaños? Oh, preparémosle una fiesta."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Una fiesta... No sé si es el mejor momento."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro que sí, le encantará. Tú déjame a mi la organización."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si tantas ganas tienes no veo por que decir que no."
+    }
+  ]
+}

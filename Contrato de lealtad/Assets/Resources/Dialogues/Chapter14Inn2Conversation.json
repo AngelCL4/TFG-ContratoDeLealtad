@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Tavern2",
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por favor, enseñadle a esta gente lo que pasa cuando alguien se mete con nosotros."
+    },
+    {
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tengo esta placa forjada para vosotros, usadla para acabar con ellos."
+    }
+  ]
+}

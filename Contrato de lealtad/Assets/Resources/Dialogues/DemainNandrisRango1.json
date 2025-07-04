@@ -1,0 +1,125 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest4",
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Huh... Mmm...",
+      "music": "Shizima4"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nandris, ¿buscas algo?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué lo dices?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Siempre que te veo en el campamento estás mirando alrededor, ¿has perdido algo?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, no he perdido nada, pero si que busco algo... Mi lugar en el mundo, mi hogar."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tu... hogar?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, hace unos años dejé la aldea en la que nací, sentía que ese no era mi lugar, desde entonces he viajado por Biedro buscando un lugar al que pueda llamar... hogar."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y todavía no lo has encontrado."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No. ¿Tú cúal consideras que es tu hogar, Demain?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mi hogar... supongo que sería la mansión en la que me crié, aunque creo que esa respuesta no te es de mucha ayuda."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Para mucha gente su lugar de nacimiento es su hogar, me pregunto por que yo soy diferente..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Te ayudaré."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Ayudarme?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, seguro que hay unos cuantos sitios que no has visitado y que yo sí, a lo mejor alguno de esos es tu hogar."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y me vas a llevar de excursión? Creo que tu misión tiene prioridad."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "La mayoría de lugares nos pillan cerca de la ruta que vamos a seguir, no tenemos nada que perder."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, que raro eres. Muy bien, si tantas ganas tienes no veo por que decir que no."
+    }
+  ]
+}

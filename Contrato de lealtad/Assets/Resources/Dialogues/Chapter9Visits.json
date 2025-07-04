@@ -1,0 +1,56 @@
+{
+  "visits": [
+    {
+      "x": 2.5,
+      "y": 18.5,
+      "conversation": "Chapter9Village1Conversation",
+      "reward": {
+        "nombre": "Brebaje",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 20PV a la unidad poseedora.",
+        "valor": 20,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Brebaje"
+      },
+      "visited": false
+    },
+    {
+      "x": 11.5,
+      "y": 2.5,
+      "conversation": "Chapter9Village2Conversation",
+      "reward": {
+        "nombre": "Tónico de Defensa",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 la defensa de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Defensa",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoDefensa"
+      },
+      "visited": false
+    },
+    {
+      "x": 20.5,
+      "y": 17.5,
+      "conversation": "Chapter9Village3Conversation",
+      "reward": {
+        "nombre": "Fruta Jugosa",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 5 los PV máximos de la unidad.",
+        "valor": 5,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/FrutaJugosa"
+      },
+      "visited": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muchas gracias por vuestra ayuda..."
+    },
+    {
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este tónico, tengo entendido que os hará muy suertudos."
+    }
+  ]
+}

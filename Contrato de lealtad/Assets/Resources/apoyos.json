@@ -1,0 +1,358 @@
+{
+  "conversaciones": [
+    {
+      "personajeA": "Demain",
+      "personajeB": "Lisella",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Aki",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Alena",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Avarel",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Aviria",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Celsia",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Eldael",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Elmer",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Fesha",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Handox",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Helxes",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Hyugan",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Ipris",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Irina",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Jadyr",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Kami",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Kiara",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Kolax",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Letan",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Lilen",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Loreas",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Lumina",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Malen",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Mirah",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Nandris",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Noru",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Olyr",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Onirie",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Ozane",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Phesen",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Quaill",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Seiha",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Selden",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Siel",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Tilpha",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Umia",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Vila",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Waishe",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Demain",
+      "personajeB": "Zisian",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Aki",
+      "personajeB": "Loreas",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Alena",
+      "personajeB": "Umia",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Avarel",
+      "personajeB": "Jadyr",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Aviria",
+      "personajeB": "Helxes",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Celsia",
+      "personajeB": "Lilen",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Eldael",
+      "personajeB": "Ipris",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Elmer",
+      "personajeB": "Lumina",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Fesha",
+      "personajeB": "Waishe",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Handox",
+      "personajeB": "Mirah",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Hyugan",
+      "personajeB": "Letan",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Irina",
+      "personajeB": "Noru",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Kami",
+      "personajeB": "Zisian",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Kiara",
+      "personajeB": "Tilpha",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Kolax",
+      "personajeB": "Ozane",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Lisella",
+      "personajeB": "Vila",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Lisella",
+      "personajeB": "Selden",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Malen",
+      "personajeB": "Siel",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Nandris",
+      "personajeB": "Olyr",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Onirie",
+      "personajeB": "Phesen",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    },
+    {
+      "personajeA": "Quaill",
+      "personajeB": "Seiha",
+      "nivelDesbloqueado": 0,
+      "rangosVistos": []
+    }
+  ]
+}

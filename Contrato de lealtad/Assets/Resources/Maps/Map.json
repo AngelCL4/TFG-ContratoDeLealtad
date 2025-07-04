@@ -1,0 +1,1448 @@
+{
+    "mapWidth": 14,
+    "mapHeight": 22,
+    "cells": [
+        {
+            "x": 0,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 2,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 3,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 4,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 5,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 6,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 7,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 8,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 9,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 10,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 11,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 12,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 13,
+            "y": 21,
+            "terrain": "Path2"
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 2,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 3,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 4,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 5,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 6,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 7,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 8,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 9,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 10,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 11,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 12,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 13,
+            "y": 20,
+            "terrain": "Path2"
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "terrain": "Path2"
+        },
+        {
+            "x": 1,
+            "y": 19,
+            "terrain": "Path2"
+        },
+        {
+            "x": 2,
+            "y": 19,
+            "terrain": "House2"
+        },
+        {
+            "x": 3,
+            "y": 19,
+            "terrain": "House2"
+        },
+        {
+            "x": 4,
+            "y": 19,
+            "terrain": "House2"
+        },
+        {
+            "x": 5,
+            "y": 19,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 6,
+            "y": 19,
+            "terrain": "Path2"
+        },
+        {
+            "x": 7,
+            "y": 19,
+            "terrain": "Path2"
+        },
+        {
+            "x": 8,
+            "y": 19,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 9,
+            "y": 19,
+            "terrain": "Path2"
+        },
+        {
+            "x": 10,
+            "y": 19,
+            "terrain": "House2"
+        },
+        {
+            "x": 11,
+            "y": 19,
+            "terrain": "House2"
+        },
+        {
+            "x": 12,
+            "y": 19,
+            "terrain": "House2"
+        },
+        {
+            "x": 13,
+            "y": 19,
+            "terrain": "Path2"
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "terrain": "Path2"
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "terrain": "Path2"
+        },
+        {
+            "x": 2,
+            "y": 18,
+            "terrain": "House2"
+        },
+        {
+            "x": 3,
+            "y": 18,
+            "terrain": "House2"
+        },
+        {
+            "x": 4,
+            "y": 18,
+            "terrain": "House2"
+        },
+        {
+            "x": 5,
+            "y": 18,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 6,
+            "y": 18,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 18,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 18,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 9,
+            "y": 18,
+            "terrain": "Path2"
+        },
+        {
+            "x": 10,
+            "y": 18,
+            "terrain": "House2"
+        },
+        {
+            "x": 11,
+            "y": 18,
+            "terrain": "House2"
+        },
+        {
+            "x": 12,
+            "y": 18,
+            "terrain": "House2"
+        },
+        {
+            "x": 13,
+            "y": 18,
+            "terrain": "Path2"
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 1,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 2,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 3,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 4,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 5,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 6,
+            "y": 17,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 17,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 9,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 10,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 11,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 12,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 13,
+            "y": 17,
+            "terrain": "Wall2"
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 2,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 3,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 4,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 5,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 6,
+            "y": 16,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 16,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 16,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 12,
+            "y": 16,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 13,
+            "y": 16,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 1,
+            "y": 15,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 2,
+            "y": 15,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 3,
+            "y": 15,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 4,
+            "y": 15,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 15,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 15,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 15,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 15,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 12,
+            "y": 15,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 13,
+            "y": 15,
+            "terrain": "Rock2"
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "terrain": "Road2"
+        },
+        {
+            "x": 1,
+            "y": 14,
+            "terrain": "Road2"
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "terrain": "Road2"
+        },
+        {
+            "x": 3,
+            "y": 14,
+            "terrain": "Road2"
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "terrain": "Road2"
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "terrain": "Road2"
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 14,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 14,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 14,
+            "terrain": "Rock2"
+        },
+        {
+            "x": 12,
+            "y": 14,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 13,
+            "y": 14,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "terrain": "Road2"
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "terrain": "Road2"
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "terrain": "Road2"
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "terrain": "Road2"
+        },
+        {
+            "x": 4,
+            "y": 13,
+            "terrain": "Road2"
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "terrain": "Road2"
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 13,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 13,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 13,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 12,
+            "y": 13,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 13,
+            "y": 13,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 4,
+            "y": 12,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 5,
+            "y": 12,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 12,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 12,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 12,
+            "y": 12,
+            "terrain": "Rock2"
+        },
+        {
+            "x": 13,
+            "y": 12,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 4,
+            "y": 11,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 5,
+            "y": 11,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 6,
+            "y": 11,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 11,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 11,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 12,
+            "y": 11,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 13,
+            "y": 11,
+            "terrain": "Rock2"
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 4,
+            "y": 10,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 5,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 6,
+            "y": 10,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 10,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 12,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 13,
+            "y": 10,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 9,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 12,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 13,
+            "y": 9,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 11,
+            "y": 8,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 12,
+            "y": 8,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 13,
+            "y": 8,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 9,
+            "y": 7,
+            "terrain": "Grass2"
+        },
+        {
+            "x": 10,
+            "y": 7,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 11,
+            "y": 7,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 12,
+            "y": 7,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 13,
+            "y": 7,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "terrain": "House2"
+        },
+        {
+            "x": 9,
+            "y": 6,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 10,
+            "y": 6,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 11,
+            "y": 6,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 12,
+            "y": 6,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 13,
+            "y": 6,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "terrain": "Nieve"
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "terrain": "Road2"
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "terrain": "Road2"
+        },
+        {
+            "x": 10,
+            "y": 5,
+            "terrain": "Road2"
+        },
+        {
+            "x": 11,
+            "y": 5,
+            "terrain": "Road2"
+        },
+        {
+            "x": 12,
+            "y": 5,
+            "terrain": "Road2"
+        },
+        {
+            "x": 13,
+            "y": 5,
+            "terrain": "Road2"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "terrain": "Road2"
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "terrain": "Road2"
+        },
+        {
+            "x": 10,
+            "y": 4,
+            "terrain": "Road2"
+        },
+        {
+            "x": 11,
+            "y": 4,
+            "terrain": "Road2"
+        },
+        {
+            "x": 12,
+            "y": 4,
+            "terrain": "Road2"
+        },
+        {
+            "x": 13,
+            "y": 4,
+            "terrain": "Road2"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "terrain": "Road2"
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "terrain": "Road2"
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "terrain": "Forest2"
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 10,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 11,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 12,
+            "y": 3,
+            "terrain": "Thicket2"
+        },
+        {
+            "x": 13,
+            "y": 3,
+            "terrain": "Thicket2"
+        }
+    ],
+    "playerSpawnPositions": [
+        {
+            "x": 6.0,
+            "y": 0.0
+        },
+        {
+            "x": 7.0,
+            "y": 0.0
+        },
+        {
+            "x": 5.0,
+            "y": 1.0
+        },
+        {
+            "x": 6.0,
+            "y": 1.0
+        },
+        {
+            "x": 7.0,
+            "y": 1.0
+        }
+    ],
+    "enemySpawnPositions": [
+        {
+            "x": 0.0,
+            "y": 6.0
+        },
+        {
+            "x": 0.0,
+            "y": 9.0
+        },
+        {
+            "x": 2.0,
+            "y": 20.0
+        },
+        {
+            "x": 2.0,
+            "y": 8.0
+        },
+        {
+            "x": 3.0,
+            "y": 4.0
+        },
+        {
+            "x": 3.0,
+            "y": 12.0
+        },
+        {
+            "x": 5.0,
+            "y": 7.0
+        },
+        {
+            "x": 5.0,
+            "y": 21.0
+        },
+        {
+            "x": 6.0,
+            "y": 10.0
+        },
+        {
+            "x": 7.0,
+            "y": 10.0
+        },
+        {
+            "x": 6.0,
+            "y": 16.0
+        },
+        {
+            "x": 7.0,
+            "y": 17.0
+        },
+        {
+            "x": 8.0,
+            "y": 13.0
+        },
+        {
+            "x": 9.0,
+            "y": 20.0
+        },
+        {
+            "x": 10.0,
+            "y": 6.0
+        },
+        {
+            "x": 11.0,
+            "y": 3.0
+        },
+        {
+            "x": 11.0,
+            "y": 9.0
+        },
+        {
+            "x": 12.0,
+            "y": 10.0
+        },
+        {
+            "x": 12.0,
+            "y": 13.0
+        },
+        {
+            "x": 13.0,
+            "y": 9.0
+        },
+        {
+            "x": 13.0,
+            "y": 11.0
+        },
+        {
+            "x": 13.0,
+            "y": 21.0
+        }
+    ]
+}

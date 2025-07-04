@@ -1,0 +1,106 @@
+{
+  "refuerzos": [
+    {
+      "unidad": {
+        "nombre": "Bandido",
+        "nivel": 1,
+        "experiencia": 0,
+        "PV": 15,
+        "MaxPV": 15,
+        "poder": 6,
+        "habilidad": 6,
+        "velocidad": 6,
+        "suerte": 7,
+        "defensa": 4,
+        "resistencia": 2,
+        "movimiento": 4,
+        "objeto": null,
+        "probabilidadesCrecimiento": [
+          150,
+          45,
+          45,
+          45,
+          55,
+          35,
+          25
+        ],
+        "clase": {
+          "nombre": "Luchador",
+          "tipoMovimiento": "Pie",
+          "tipoDano": "Fisico",
+          "rangoAtaqueMinimo": 1,
+          "rangoAtaqueMaximo": 1,
+          "tier": "Basica",
+          "bonusPV": 2,
+          "bonusPoder": 1,
+          "bonusHabilidad": 1,
+          "bonusVelocidad": 1,
+          "bonusSuerte": 1,
+          "bonusDefensa": 1,
+          "bonusResistencia": 1,
+          "bonusMovimiento": 0
+        },
+        "sprite": "GenericoLuchador",
+        "estado": "Enemigo",
+        "descripcion": "",
+        "bonos": false,
+        "bonosPromocion": false,
+        "ia": "Ofensiva"
+      },
+      "turno": 4,
+      "x": 8.0,
+      "y": 6.0
+    },
+    {
+      "unidad": {
+        "nombre": "Bandido",
+        "nivel": 1,
+        "experiencia": 0,
+        "PV": 15,
+        "MaxPV": 15,
+        "poder": 6,
+        "habilidad": 6,
+        "velocidad": 6,
+        "suerte": 7,
+        "defensa": 4,
+        "resistencia": 2,
+        "movimiento": 4,
+        "objeto": null,
+        "probabilidadesCrecimiento": [
+          150,
+          45,
+          45,
+          45,
+          55,
+          35,
+          25
+        ],
+        "clase": {
+          "nombre": "Luchador",
+          "tipoMovimiento": "Pie",
+          "tipoDano": "Fisico",
+          "rangoAtaqueMinimo": 1,
+          "rangoAtaqueMaximo": 1,
+          "tier": "Basica",
+          "bonusPV": 2,
+          "bonusPoder": 1,
+          "bonusHabilidad": 1,
+          "bonusVelocidad": 1,
+          "bonusSuerte": 1,
+          "bonusDefensa": 1,
+          "bonusResistencia": 1,
+          "bonusMovimiento": 0
+        },
+        "sprite": "GenericoLuchador",
+        "estado": "Enemigo",
+        "descripcion": "",
+        "bonos": false,
+        "bonosPromocion": false,
+        "ia": "Ofensiva"
+      },
+      "turno": 4,
+      "x": 0.0,
+      "y": 6.0
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest9",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Cómo te encuentras, Demain? No has dicho una palabra desde que salimos, y ya estamos llegando a Irisel.",
+      "music": "PianoSad"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno, anímicamente estoy bien, solo estoy pensando... en lo que voy a hacer."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y eso es...? Irisel estará también sitiada por bandidos, tenemos que prepararnos ya para el combate."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No va a haber más combate."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "...¿Qué?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Nuestra gente ha encontrado paz, están bien sin nosotros, y no veo justo el quitarles esa paz por un reino cuyo futuro es incierto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Antes que seguir arriesgando nuestras vidas, y posiblemente empeorando las de la gente a la que quería proteger, veo necesario... abandonar la misión."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No, no puedes decir eso."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Les pagaré su parte a los mercenarios, y tú y yo podemos irnos a donde queramos con el dinero sobrante."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así es como debe acabar..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No, me niego."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Huh?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Cómo puedes hablar de rendirte? ¡Después de todo lo que está gente les hizo a nuestra familia! ¡Prometiste que restaurarías el reino!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso fue antes, pero ahora..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué, por qué te estas rindiendo?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento, Lisella... No puedo... seguir con esto."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tú... ¡Madre estaría muy decepcionada contigo!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Madre, qué...?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Siempre lo decía... tú mejor cualidad... es tú perserverancia. Le encantaba como nunca te rendías cuando querías hacer algo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así aprendiste a montar a caballo, como entrenaste con la espada, así fue... cómo nos salvamos aquel día."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Madre siempre creyó en tí, es por eso que se sacrificó para darnos tiempo a escapar. ¿Por qué te estás rindiendo ahora, cuándo es más importante?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Madre... yo no sabía..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero... no puedo seguir sin tener seguro... el futuro de un reino recién creado... Quiero la certeza de que podré proteger a mi gente..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nunca la tendrás, ¿pero eso significa que los vas a abandonar? ¿No vas a luchar con todas tus fuerzas para conseguir eso también, al igual que hacías para restaurar el reino?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... Eso..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demain, no te rindas, te lo suplico..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento por no haberme dado cuenta antes.",
+      "music": "Lonely"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si encuentro un bache en el camino... solo tengo que encontrar una forma de superarlo, así es como he vivido hasta ahora."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Demain! Entonces..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tenemos que seguir adelante, hay que marchar a la capital y restaurar el reino. Y de la misma forma que encontraremos una manera de hacer eso haremos lo mismo con la protección de la gente del reino."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No podemos rendirnos, no si madre está mirándonos desde el más allá. Tenemos que seguir adelante como sea."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demain... Soy... tan feliz de que hayas vuelto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias por ayudarme Lisella, no lo habría conseguido sin tí."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No es nada, lo habría hecho todas las veces que hiciese falta."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... creo que... nos hemos detenido suficiente. No vamos a llegar a Irisel solos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, sigamos adelante, todos juntos."
+    },
+    {
+      "backgroundChange": "Forest10",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm, parece que también hay mercenarios en Irisel.",
+      "music": "Valiant"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Procedemos a combatir?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Preferiría poder hablar antes... Quizás si están ofreciendo protección a la gente no es momento de expulsarlos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo... ¿Entonces te vas a acercar? Voy contigo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale... Tengamos cuidado."
+    },
+    {
+      "backgroundChange": "EveningCityInterior2",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hey, tú, ¿eres de la gente que está protegiendo la aldea?"
+    },
+    {
+      "character": "Soldado",
+      "portrait": "Soldado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Eh? Sí... Espera. ¡Tú eres ese príncipe! ¡Sonad la alarma, el enemigo está aquí!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? ¡Mierda, Lisella, corre!"
+    },
+    {
+      "backgroundChange": "Forest10",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No parecían muy dispuestos a hablar..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No hace falta que lo jures..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero si van a atacarme estoy en mi derecho de defenderme."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muy bien, vamos a por ellos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Mercenarios! ¡Conmigo!"
+    }
+  ]
+}

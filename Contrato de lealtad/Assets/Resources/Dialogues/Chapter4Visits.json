@@ -1,0 +1,30 @@
+{
+  "visits": [
+    {
+      "x": 13.5,
+      "y": 27.5,
+      "conversation": "Chapter4House1Conversation",
+      "reward": {
+        "nombre": "Contrato"
+      },
+      "visited": false
+    },
+    {
+      "x": 7.5,
+      "y": 5.5,
+      "conversation": "Chapter4House2Conversation",
+      "reward": {
+        "nombre": "Pluma de Halcón",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 la velocidad de la unidad.",
+        "valor": 2,
+        "statAfectada": "Velocidad",
+        "duracion": 0,
+        "spritePath": "Objects/PlumaHalcon"
+      },
+      "visited": false
+    }
+  ]
+}

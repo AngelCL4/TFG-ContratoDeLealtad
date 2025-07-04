@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse",
+      "character": "Aldeano3V2",
+      "portrait": "Aldeano3V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por ayudarnos a expulsar a estos bandidos"
+    },
+    {
+      "character": "Aldeano3V2",
+      "portrait": "Aldeano3V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este contrato, seguro que le sacáis más provecho que yo."
+    }
+  ]
+}

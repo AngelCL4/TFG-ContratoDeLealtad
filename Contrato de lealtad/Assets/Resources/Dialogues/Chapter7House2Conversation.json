@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Lo siento, no me hagáis daño..."
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eh, eh... Tengo este contrato, ¿qué tal si os lo doy por mi vida?"
+    }
+  ]
+}

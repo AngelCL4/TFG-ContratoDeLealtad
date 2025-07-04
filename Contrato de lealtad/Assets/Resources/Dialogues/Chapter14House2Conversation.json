@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Este puerto era pacífico hasta que esta gente llegó."
+    },
+    {
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este elixir y expulsad a esta gente."
+    }
+  ]
+}

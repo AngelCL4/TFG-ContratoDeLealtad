@@ -1,0 +1,78 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent7",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "...",
+      "music": "PowderSnow"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Padre, madre... No, todavía no hemos ganado, tengo que manterme alerta."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demain, todos estamos listos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Muy bien, creo que ha llegado el momento de empezar el ataque."
+    },
+    {
+      "backgroundChange": "MountainPass6",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Amigos, llevamos mucho tiempo juntos, luchando codo con codo, y no tengo otra cosa que hacer que agradeceros por todo lo que habéis hecho por mí.",
+      "music": "Odyssey"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estamos ante el final, este es el último empujón que necesitamos para... que una nueva era comience en Hislan, y también en Biedro."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es por eso que os pido que me presteis vuestra fuerza, una última vez."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya sabes que estamos todos juntos en esto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Muy bien... Entonces..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Al ataque! ¡Por el mañana!"
+    }
+  ]
+}

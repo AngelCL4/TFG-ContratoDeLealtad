@@ -1,0 +1,146 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "FortInterior2",
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tarara~ Larara~",
+      "music": "Desert3"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y... fin."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Increíble, cuando oí que eras una bailarina no esperaba que fueses tan buena."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Debería ofenderme por eso?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No lo decía a malas..."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Era solo una broma, gracias por el cumplido."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Para llegar a ese nivel te habrá costado bastante tiempo."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Empecé a bailar cuando era solo una niña, bajo la tutela de mi maestra."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tenías una maestra?"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro, todo esto no se aprende por si sola. Ella me enseñó todo lo que sé."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y ahora, dónde está?"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Murió hace unos años, fue en ese entonces cuando decidí convertirme en mercenaria."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento por tu pérdida."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias Demain, lo aprecio."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y planeas seguir siendo mercenaria por el resto de tu vida?"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, el futuro es incierto. Me gustaría dedicarme por completo a la danza, pero tal y como está Biedro..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No es muy seguro."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Exacto, pero tú estás luchando para cambiar eso, ¿verdad?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso espero, aunque necesitaré tu ayuda y la del resto para conseguirlo."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Cuenta conmigo."
+    }
+  ]
+}

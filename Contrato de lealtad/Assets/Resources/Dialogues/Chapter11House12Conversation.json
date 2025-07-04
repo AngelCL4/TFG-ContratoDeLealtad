@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano12V1",
+      "portrait": "Aldeano12V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... habéis venido a ayudarnos por fin..."
+    },
+    {
+      "character": "Aldeano12V1",
+      "portrait": "Aldeano12V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este pergamino, creo que esta maldito pero... puede ser útil."
+    }
+  ]
+}

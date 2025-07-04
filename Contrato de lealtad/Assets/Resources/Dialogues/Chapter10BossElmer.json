@@ -1,0 +1,40 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No malgastes tu vida, aunque te hayan ordenado quedarte aquí estoy seguro de que esa persona no quiere que mueras."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y tú que vas a saber?"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo sé porque he estado en tu misma posición."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Estoy seguro de que no es lo mismo. Vamos, pelea."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Que tozudo."
+    }
+  ]
+}

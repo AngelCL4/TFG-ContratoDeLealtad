@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DaySettlement2",
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm...",
+      "music": "Ohayashi"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tengo algo en la cara?"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Confianza... Es muy atractiva."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahIncomodidadB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo..."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... es una pena... Tengo tanto trabajo estos días que no tengo tiempo libre para nada."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahIncomodidadB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Creo que entiendo lo que quieres decir... Lo siento, pero no estoy interesado."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, te haces el difícil, que mono."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No me hago el difícil, estoy aquí para hacer un trabajo, y esa es mi máxima prioridad."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm, te vendría bien relajarte un poco."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si quiero conservar mi trabajo, necesito concentrarme en él."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... No parece que te pueda hacer cambiar de parecer."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Exacto."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Una pena, me hubiera gustado compartir una noche contigo."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahTristeB",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Uh... eso ha estado cerca... Que miedo..."
+    }
+  ]
+}

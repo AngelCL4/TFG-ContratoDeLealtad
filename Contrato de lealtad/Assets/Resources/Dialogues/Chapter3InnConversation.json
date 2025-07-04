@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeTavern1",
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola viajeros, os ofrecería quedaros, pero esta infestación de bandidos es un problema."
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Planeais derrotarlos? Vaya, eso si que no lo esperaba."
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad esto, es un contrato que tenía cogiendo polvo, usadlo si sobrevivis a vuestro enfrentamiento."
+    }
+  ]
+}

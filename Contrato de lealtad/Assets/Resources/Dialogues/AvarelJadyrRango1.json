@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp1",
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¡Oh... que emocionante!",
+      "music": "AfternoonGarden"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Quién narices está haciendo tanto ruido por la mañana...? Ah."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¡Este fragmento... tiene que ser de esta zona!"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Buenos días Jadyr... ¿qué haces despierto tan temprano?"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, hola Avarel, estaba investigando un fragmento de una ruina que tenía desde hace tiempo, ¡y he descubierto de donde podría proceder!"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entiendo... ¿Podrías hacer menos ruido?"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, ¿te he molestado? Perdona."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, lo has hecho, pero no pasa nada si prometes no hacerlo otra vez."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro, claro que lo prometo. Jurado."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Muy bien. Ahora si me disculpas tengo otros asuntos que atender."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale. ¡Suerte!"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Ah... ¿Acaso ha entendido algo de lo que le he dicho?"
+    }
+  ]
+}

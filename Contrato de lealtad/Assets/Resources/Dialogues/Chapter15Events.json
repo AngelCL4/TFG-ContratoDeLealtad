@@ -1,0 +1,54 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Adeon",
+          "portrait": "Adeon",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Hmm, así que somos los últimos que quedan... Muy bien, no les daré la satisfacción de la victoria."
+        }
+      ]
+    },
+    {
+      "turno": 2,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Su líder está en el pico central, pero tenemos a enemigos en los otros picos..."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Qué hacemos, nos dividimos para derrotarlos a todos o nos centramos en su líder?"
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Hmm, cada decisión tiene sus desventajas, pero no podemos dudar, habrá que tomar una y seguir hacia delante."
+        }
+      ]
+    },
+    {
+      "turno": 10,
+      "dialogue": [
+        {
+          "character": "Adeon",
+          "portrait": "Adeon",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Este no puede ser el final de Los Liberadores... Biedro nos necesita..."
+        }
+      ]
+    }
+  ]
+}

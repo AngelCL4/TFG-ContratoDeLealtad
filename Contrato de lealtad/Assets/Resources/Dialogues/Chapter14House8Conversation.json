@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Esa gente rara quería esta herradura..."
+    },
+    {
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No sé por qué, pero si vosotros la queréis os la doy, parecéis más majos que ellos."
+    }
+  ]
+}

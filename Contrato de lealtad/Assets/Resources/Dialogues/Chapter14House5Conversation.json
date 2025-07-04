@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ay, este tónico de velocidad está a punto de pasarse de fecha..."
+    },
+    {
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ah! Vosotros parecéis gente que lo usa a menudo, tomadlo."
+    }
+  ]
+}

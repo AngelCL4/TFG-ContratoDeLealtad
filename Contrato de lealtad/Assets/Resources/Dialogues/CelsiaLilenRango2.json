@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp10",
+      "character": "Lilen",
+      "portrait": "LilenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Celsia... Al final nunca me diste tu opinión sobre ese peine que te regalé.",
+      "music": "Catnap"
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Está bien, es funcional. Una sorpresa agradable."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que te esperabas algo peor... Entiendo."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...He oído que estas pensando en renunciar a lo de ser una mercader."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Solo me he dado cuenta de que quizás nunca estuve hecha para esto. Siempre había soñado con abrir mi propia tienda pero..."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si de verdad era tu sueño no te rendirías tan fácilmente. Por mucho que tropieces seguirías caminando hacia delante."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Es... eso lo que haces tú?"
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, y se que lo conseguiré."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No creo que nuestro sueños sean tan similares como para que el mismo método funcione."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Muy bien, si quieres regodearte en tu dolor, te dejaré sola."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    }
+  ]
+}

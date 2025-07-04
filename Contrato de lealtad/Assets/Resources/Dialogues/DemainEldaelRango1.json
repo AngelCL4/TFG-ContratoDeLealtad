@@ -1,0 +1,118 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightCaravan",
+      "character": "Eldael",
+      "portrait": "EldaelEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "Memories6"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... no sirve de nada."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Todo bien?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Demain, que susto! ¿Cúanto llevas ahí?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Acabo de llegar, pero te he visto con el ceño muy fruncido."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No es nada, estaba intentando recordar algo de mi pasado... aunque no he tenido mucho éxito."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento, no me puedo imaginar como sería el haber perdido todos mis recuerdos."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La verdad es que... yo tampoco se muy bien que pensar. Supongo que es por haber perdido mis recuerdos y eso."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No sé que es todo lo que he perdido, y la curiosidad es tan grande..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y no tienes ninguna pista que te ayude?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Nada, algunas veces hay gente que dice que me conoce, pero al final resulta que no solo son confusiones."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso tiene que ser frustante..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Yo te ayudaré."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿A qué? Agradezco las intenciones, pero no creo que puedas ser de mucha ayuda."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno... seguro que puedo ayudar en algo."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si tú lo dices..."
+    }
+  ]
+}

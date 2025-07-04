@@ -1,0 +1,118 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse9",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Oh, hechizos y conjuros... el volumen tres. ¿De quién es esto?",
+      "music": "CnocLore"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mío."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ah! Que susto, Kolax."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Perdona por eso, me había ido a buscar el volumen cuatro."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tienes todos lo volúmenes?"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro. La verdad es que me sorprende que los conozcas."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que es de esperar, soy un negado para usar la magia, pero le venían bien a Lisella así que acabé leyéndolos también."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entiendo. ¿Tenías muchos libros en la biblioteca real de Hislan?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muchísimos, aunque supongo que no tantos como en la academia de Nunsed. Tú eras un erudito de allí, ¿verdad?"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento, ¿te he traído malos recuerdos?"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No son malos, y es por eso que duelen el doble, el haber perdido todo el conocimiento que había en ese lugar es..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es terrible."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Definitivamente, pero ya hace unos años de eso... Debería de empezar a pasar página."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No es malo tomarse todo el tiempo que necesites."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Esas son palabras sabias."
+    }
+  ]
+}

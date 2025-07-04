@@ -1,0 +1,54 @@
+{
+  "eventConversations": [
+    {
+      "turno": 3,
+      "dialogue": [
+        {
+          "character": "Uridara",
+          "portrait": "Uridara",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Mmm, necesito el barco... no puedo fallarle..."
+        }
+      ]
+    },
+    {
+      "turno": 5,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "No veo a nadie que sea su líder... ¿no me digas que se está escondiendo?"
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Espero que no haya escapado ya hacia el mar."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Eso es imposible... Bah, sigamos atacando."
+        }
+      ]
+    },
+    {
+      "turno": 10,
+      "dialogue": [
+        {
+          "character": "Uridara",
+          "portrait": "Uridara",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Vamos, solo un poco más."
+        }
+      ]
+    }
+  ]
+}

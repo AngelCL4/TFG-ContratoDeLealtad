@@ -1,0 +1,76 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayLakeside",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Que es ese ruido? Ah, Celsia.",
+      "music": "Prairie2"
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Te he despertado? Perdona."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No te preocupes, ya estaba despierto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero, ¿que haces entrenando tan temprano?"
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es como paso la mayor parte de mi tiempo libre, necesito volverme más fuerte."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué? Ya eres lo bastante fuerte."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No, todavía no es suficiente. Lo siento, pero, ¿te importaría dejarme sola? Necesito concentrarme."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eh... Claro, lo siento."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No te preocupes, no es problema tuyo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale..."
+    }
+  ]
+}

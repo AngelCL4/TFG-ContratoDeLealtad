@@ -1,0 +1,40 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Vila",
+      "portrait": "VilaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es bueno ser devota... pero tirar tu vida por otra persona..."
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Solo estoy viva gracias a Adeon, mi vida es suya, así que darla por él es lo mejor que puedo hacer."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No tiene por qué ser así, estoy segura de que él no quiere que mueras."
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quizás no, ¡pero no puedo dejar que le hagáis daño!"
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    }
+  ]
+}

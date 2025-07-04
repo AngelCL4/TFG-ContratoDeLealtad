@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent7",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tilpha... qué es todo esto?",
+      "music": "BewitchedForest"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Esto? Mi colección."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Son muchas gemas, y eso son... ¿tarros?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si, tarros con hierbas raras, conservadas para evitar que se pudran."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y por qué coleccionas todo esto?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Tiene que haber alguna razón?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que no... Pero estaría bien."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pues simplemente me gusta coleccionar estas cosas."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo... Ah, es verdad, venía a preguntarte si querías comer con el resto, siempre sueles estar por tu cuenta."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, ahora mismo no me apetece, no te lo tomes a mal, pero no suelo disfrutar de la compañía."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo... Entonces me iré."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Adiós, y que aproveche la comida."
+    }
+  ]
+}

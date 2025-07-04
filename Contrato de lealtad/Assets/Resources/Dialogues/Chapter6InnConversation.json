@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeTavern1",
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Quién es esa gente? Parece que estáis en problemas."
+    },
+    {
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Os voy a dar este contrato para que defendáis mi posada, ¿os véis capaces?"
+    }
+  ]
+}

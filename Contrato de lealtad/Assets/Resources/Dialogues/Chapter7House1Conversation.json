@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ah, no me hagáis daño, por favor!"
+    },
+    {
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Tomad este contrato, ¿así me dejaréis en paz?"
+    }
+  ]
+}

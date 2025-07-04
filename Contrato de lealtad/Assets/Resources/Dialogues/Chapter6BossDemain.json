@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Quienes sois? ¿Por qué nos atacais?"
+    },
+    {
+      "character": "Synnel",
+      "portrait": "Synnel",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo único que tienes que saber es que vas a morir."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Agh, que pérdida de tiempo."
+    }
+  ]
+}

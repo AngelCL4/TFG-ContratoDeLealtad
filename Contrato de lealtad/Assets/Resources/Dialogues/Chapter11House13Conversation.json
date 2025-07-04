@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este tónico, os dará mucha suerte."
+    },
+    {
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Os estaré animando, acabad con esos desalmados."
+    }
+  ]
+}

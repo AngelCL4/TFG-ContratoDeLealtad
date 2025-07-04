@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Cenarn",
+      "portrait": "Cenarn",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Podéis venir todos los que queráis a por mí, pero no pienso caer ante vosotros."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Tanta estupidez me enfada..."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tocará enseñarte lo estúpido que eres."
+    }
+  ]
+}

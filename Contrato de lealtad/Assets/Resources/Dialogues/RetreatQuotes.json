@@ -1,0 +1,1082 @@
+{
+  "quotes": [
+    {
+      "character": "Demain",
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Me han dado bien... No puedo seguir luchando.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Seguiré dando órdenes desde la retaguardia, confío en vosotros."
+        }
+      ]
+    },
+    {
+      "character": "Lisella",
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ah... Como duele...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Lo siento, pero tengo que retirarme."
+        }
+      ]
+    },
+    {
+      "character": "Aki",
+      "dialogue": [
+        {
+          "character": "Aki",
+          "portrait": "AkiNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No puedo morir aquí...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Aki",
+          "portrait": "AkiNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Perdonad, pero me tengo que retirar."
+        }
+      ]
+    },
+    {
+      "character": "Alena",
+      "dialogue": [
+        {
+          "character": "Alena",
+          "portrait": "AlenaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Hoy... no es mi día para morir.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Alena",
+          "portrait": "AlenaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Pero no puedo seguir luchando, me retiro."
+        }
+      ]
+    },
+    {
+      "character": "Avarel",
+      "dialogue": [
+        {
+          "character": "Avarel",
+          "portrait": "AvarelNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Parece que hasta aquí llego...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Avarel",
+          "portrait": "AvarelNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Os dejaré el resto a vosotros y me retiraré."
+        }
+      ]
+    },
+    {
+      "character": "Aviria",
+      "dialogue": [
+        {
+          "character": "Aviria",
+          "portrait": "AviriaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ay... No he podido esquivar ese golpe...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Aviria",
+          "portrait": "AviriaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Perdonad chicos, pero me tengo que ir."
+        }
+      ]
+    },
+    {
+      "character": "Celsia",
+      "dialogue": [
+        {
+          "character": "Celsia",
+          "portrait": "CelsiaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Vaya... parece que tengo que entrenar más...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Celsia",
+          "portrait": "CelsiaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Acabad con ellos por mí, ¿vale?"
+        }
+      ]
+    },
+    {
+      "character": "Eldael",
+      "dialogue": [
+        {
+          "character": "Eldael",
+          "portrait": "EldaelNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ah, mi cabeza...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Eldael",
+          "portrait": "EldaelNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Tengo que irme, pero se que ganaréis, seguid luchando."
+        }
+      ]
+    },
+    {
+      "character": "Elmer",
+      "dialogue": [
+        {
+          "character": "Elmer",
+          "portrait": "ElmerNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Princesa... lo siento, pero no puedo ir contigo todavía...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Elmer",
+          "portrait": "ElmerNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Estoy herido, perdonad, pero me retiro."
+        }
+      ]
+    },
+    {
+      "character": "Fesha",
+      "dialogue": [
+        {
+          "character": "Fesha",
+          "portrait": "FeshaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Esto va a dejar una marca...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Fesha",
+          "portrait": "FeshaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Me retiraré mientras pueda, lo siento."
+        }
+      ]
+    },
+    {
+      "character": "Handox",
+      "dialogue": [
+        {
+          "character": "Handox",
+          "portrait": "HandoxNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ah... ese golpe casi acaba conmigo...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Handox",
+          "portrait": "HandoxNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Me voy a la retaguardia, perdón."
+        }
+      ]
+    },
+    {
+      "character": "Helxes",
+      "dialogue": [
+        {
+          "character": "Helxes",
+          "portrait": "HelxesNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Este enemigo es bueno...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Helxe",
+          "portrait": "HelxesNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No os importa si me retiro, ¿verdad?"
+        }
+      ]
+    },
+    {
+      "character": "Hyugan",
+      "dialogue": [
+        {
+          "character": "Hyugan",
+          "portrait": "HyuganNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No pienso a malgastar mi vida muriendo en este lugar...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Hyugan",
+          "portrait": "HyuganNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Perdonadme, mas debo retirarme."
+        }
+      ]
+    },
+    {
+      "character": "Ipris",
+      "dialogue": [
+        {
+          "character": "Ipris",
+          "portrait": "IprisNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Aún tengo gente que cuenta conmigo, no puedo morir...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Ipris",
+          "portrait": "IprisNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Lo mejor será que me vaya ahora que puedo."
+        }
+      ]
+    },
+    {
+      "character": "Irina",
+      "dialogue": [
+        {
+          "character": "Irina",
+          "portrait": "IrinaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Esta no sería... una forma muy heroica de morir...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Irina",
+          "portrait": "IrinaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No hay vergüenza en retirarse, así que eso haré."
+        }
+      ]
+    },
+    {
+      "character": "Jadyr",
+      "dialogue": [
+        {
+          "character": "Jadyr",
+          "portrait": "JadyrNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ay, ay, ay, que daño...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Jadyr",
+          "portrait": "JadyrNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Aún me quedan muchas ruinas por descubrir como para morir ahora."
+        }
+      ]
+    },
+    {
+      "character": "Kami",
+      "dialogue": [
+        {
+          "character": "Kami",
+          "portrait": "KamiNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Eso ha dolido... Pero no puedo morir aquí.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Kami",
+          "portrait": "KamiNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Por favor, ganad por mí."
+        }
+      ]
+    },
+    {
+      "character": "Kiara",
+      "dialogue": [
+        {
+          "character": "Kiara",
+          "portrait": "KiaraNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Estoy sangrando...? Mierda...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Kiara",
+          "portrait": "KiaraNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Por favor, cubrid mi retirada. Os debo una."
+        }
+      ]
+    },
+    {
+      "character": "Kolax",
+      "dialogue": [
+        {
+          "character": "Kolax",
+          "portrait": "KolaxNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Mi intuición me dice que debería retirame ahora...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Kolax",
+          "portrait": "KolaxNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Perdonadme, os lo recompensaré algún día."
+        }
+      ]
+    },
+    {
+      "character": "Letan",
+      "dialogue": [
+        {
+          "character": "Letan",
+          "portrait": "LetanNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Vaya golpe más bajo... Me retiro.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Letan",
+          "portrait": "LetanNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Por favor, matad a unos cuantos por mí, gracias de antemano."
+        }
+      ]
+    },
+    {
+      "character": "Lilen",
+      "dialogue": [
+        {
+          "character": "Lilen",
+          "portrait": "LilenNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Au, estoy sangrando...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Lilen",
+          "portrait": "LilenNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No puedo morir antes de abrir mi tienda, lo siento pero me voy."
+        }
+      ]
+    },
+    {
+      "character": "Loreas",
+      "dialogue": [
+        {
+          "character": "Loreas",
+          "portrait": "LoreasNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Mi vida es valiosa, no puedo desperdiciarla ahora...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Loreas",
+          "portrait": "LoreasNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Perdonadme todos, os dejo el resto."
+        }
+      ]
+    },
+    {
+      "character": "Lumina",
+      "dialogue": [
+        {
+          "character": "Lumina",
+          "portrait": "LuminaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ah... quizás debería... No, debo finalizar mi trabajo.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Lumina",
+          "portrait": "LuminaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Me iré a la retaguardia, perdonad."
+        }
+      ]
+    },
+    {
+      "character": "Malen",
+      "dialogue": [
+        {
+          "character": "Malen",
+          "portrait": "MalenNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Me han dado? Que poco profesional de mi parte.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Malen",
+          "portrait": "MalenNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Me retiraré por ahora."
+        }
+      ]
+    },
+    {
+      "character": "Mirah",
+      "dialogue": [
+        {
+          "character": "Mirah",
+          "portrait": "MirahNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Sabía que acabaría así... No, aún puedo moverme.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Mirah",
+          "portrait": "MirahNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Será mejor que me marche mientras pueda."
+        }
+      ]
+    },
+    {
+      "character": "Nandris",
+      "dialogue": [
+        {
+          "character": "Nandris",
+          "portrait": "NandrisNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Vaya... me está costando respirar...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Nandris",
+          "portrait": "NandrisNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Mientras aún pueda moverme, viviré para luchar otro día."
+        }
+      ]
+    },
+    {
+      "character": "Noru",
+      "dialogue": [
+        {
+          "character": "Noru",
+          "portrait": "NoruNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Joder... como duele... Pero tengo que soportarlo si...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Noru",
+          "portrait": "NoruNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ah, no puedo, lo siento, tengo que retirarme."
+        }
+      ]
+    },
+    {
+      "character": "Olyr",
+      "dialogue": [
+        {
+          "character": "Olyr",
+          "portrait": "OlyrNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Uh, parece que estoy perdiendo mis facultades...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Olyr",
+          "portrait": "OlyrNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Tocará retirarse y curar estas heridas."
+        }
+      ]
+    },
+    {
+      "character": "Onirie",
+      "dialogue": [
+        {
+          "character": "Onirie",
+          "portrait": "OnirieNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Malditos sean... pagarán por esto...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Onirie",
+          "portrait": "OnirieNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Pero no por mi mano, dadles caña de mi parte."
+        }
+      ]
+    },
+    {
+      "character": "Ozane",
+      "dialogue": [
+        {
+          "character": "Ozane",
+          "portrait": "OzaneNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Aún hay cosas que tengo que hacer en esta vida, así que no puedo morir.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Ozane",
+          "portrait": "OzaneNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Debo irme, perdonad."
+        }
+      ]
+    },
+    {
+      "character": "Phesen",
+      "dialogue": [
+        {
+          "character": "Phesen",
+          "portrait": "PhesenNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Eso ha estado cerca de acabar conmigo...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Phesen",
+          "portrait": "PhesenNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Lo siento, pero no puedo caer aquí, me retiro."
+        }
+      ]
+    },
+    {
+      "character": "Quaill",
+      "dialogue": [
+        {
+          "character": "Quaill",
+          "portrait": "QuaillNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Padre... lo siento, pero no puedo ir contigo todavía y dejar a madre sola...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Quaill",
+          "portrait": "QuaillNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Me retiraré y curaré mis heridas, perdón."
+        }
+      ]
+    },
+    {
+      "character": "Seiha",
+      "dialogue": [
+        {
+          "character": "Seiha",
+          "portrait": "SeihaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Mucha gente depende de mi... No puedo caer aquí...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Seiha",
+          "portrait": "SeihaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Lo siento tanto, pero tengo que retirarme."
+        }
+      ]
+    },
+    {
+      "character": "Selden",
+      "dialogue": [
+        {
+          "character": "Selden",
+          "portrait": "SeldenNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Parece ser que no soy la bastante fuerte...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Selden",
+          "portrait": "SeldenNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Vosotros acabaréis con ellos, ¿verdad? Entonces me retiro. "
+        }
+      ]
+    },
+    {
+      "character": "Siel",
+      "dialogue": [
+        {
+          "character": "Siel",
+          "portrait": "SielNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "A veces la experiencia no sirve para evitar los golpes...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Siel",
+          "portrait": "SielNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Confío en que acabaréis esto, lo dejo en vuestras manos."
+        }
+      ]
+    },
+    {
+      "character": "Tilpha",
+      "dialogue": [
+        {
+          "character": "Tilpha",
+          "portrait": "TilphaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Morir no entra en mis planes en este trabajo...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Tilpha",
+          "portrait": "TilphaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Una pena, pero me retiro."
+        }
+      ]
+    },
+    {
+      "character": "Umia",
+      "dialogue": [
+        {
+          "character": "Umia",
+          "portrait": "UmiaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Que dolor... Parece que he sido demasiado descuidada.",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Umia",
+          "portrait": "UmiaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Pero se cuando debo retirarme, perdonad."
+        }
+      ]
+    },
+    {
+      "character": "Vila",
+      "dialogue": [
+        {
+          "character": "Vila",
+          "portrait": "VilaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Muriendo no cambiaré Gheana...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Vila",
+          "portrait": "VilaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Saldré de aquí mientras pueda."
+        }
+      ]
+    },
+    {
+      "character": "Waishe",
+      "dialogue": [
+        {
+          "character": "Waishe",
+          "portrait": "WaisheNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Creo que he llegado a mi límite...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Waishe",
+          "portrait": "WaisheNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Me marcharé antes de volverme una carga..."
+        }
+      ]
+    },
+    {
+      "character": "Zisian",
+      "dialogue": [
+        {
+          "character": "Zisian",
+          "portrait": "ZisianNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Esta herida parece seria...",
+          "music": "PianoSad2"
+        },
+        {
+          "character": "Zisian",
+          "portrait": "ZisianNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Debo marcharme, nos vemos."
+        }
+      ]
+    },
+    {
+      "character": "Waylat",
+      "dialogue": [
+        {
+          "character": "Waylat",
+          "portrait": "Waylat",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No... se supone... que todo iba a salir bien..."
+        }
+      ]
+    },
+    {
+      "character": "Itae",
+      "dialogue": [
+        {
+          "character": "Itae",
+          "portrait": "Itae",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Parece que este es mi fin..."
+        },
+        {
+          "character": "Itae",
+          "portrait": "Itae",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Lo siento... por todo el daño que he causado..."
+        }
+      ]
+    },
+    {
+      "character": "Xulya",
+      "dialogue": [
+        {
+          "character": "Xulya",
+          "portrait": "Xulya",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No... esto no tenía que pasar así..."
+        },
+        {
+          "character": "Xulya",
+          "portrait": "Xulya",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Teníamos que volvernos... ricos..."
+        }
+      ]
+    },
+    {
+      "character": "Tailni",
+      "dialogue": [
+        {
+          "character": "Tailni",
+          "portrait": "Tailni",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ah... Lo siento jefe... parece que todavía me faltaba entrenamiento..."
+        },
+        {
+          "character": "Tailni",
+          "portrait": "Tailni",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Habéis... luchado bien..."
+        }
+      ]
+    },
+    {
+      "character": "Milau",
+      "dialogue": [
+        {
+          "character": "Milau",
+          "portrait": "Milau",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No... puede ser... Se supone que este iba a ser nuestro nuevo hogar..."
+        },
+        {
+          "character": "Milau",
+          "portrait": "Milau",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Lo siento chicos... os abandono antes de tiempo..."
+        }
+      ]
+    },
+    {
+      "character": "Synnel",
+      "dialogue": [
+        {
+          "character": "Synnel",
+          "portrait": "Synnel",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Imposible... ¿me han derrotado?"
+        },
+        {
+          "character": "Synnel",
+          "portrait": "Synnel",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Lo siento jefe, la misión... es un fracaso..."
+        }
+      ]
+    },
+    {
+      "character": "Midar",
+      "dialogue": [
+        {
+          "character": "Midar",
+          "portrait": "Midar",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ah... Sois monstruos..."
+        },
+        {
+          "character": "Midar",
+          "portrait": "Midar",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Quién... defenderá ahora esta aldea...?"
+        }
+      ]
+    },
+    {
+      "character": "Droji",
+      "dialogue": [
+        {
+          "character": "Droji",
+          "portrait": "Droji",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Esto es... imposible..."
+        },
+        {
+          "character": "Droji",
+          "portrait": "Droji",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Unos inútiles como vosotros... no pueden ser mejores que mi magia..."
+        }
+      ]
+    },
+    {
+      "character": "Finuin",
+      "dialogue": [
+        {
+          "character": "Finuin",
+          "portrait": "Finuin",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Malditos monstruos..."
+        },
+        {
+          "character": "Finuin",
+          "portrait": "Finuin",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Puede que yo caiga... pero Hislan jamás se doblegará ante vosotros..."
+        }
+      ]
+    },
+    {
+      "character": "Sorion",
+      "dialogue": [
+        {
+          "character": "Sorion",
+          "portrait": "Sorion",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Gah... Tengo... que seguir luchando..."
+        },
+        {
+          "character": "Sorion",
+          "portrait": "Sorion",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Solo... un poco más..."
+        }
+      ]
+    },
+    {
+      "character": "Cenarn",
+      "dialogue": [
+        {
+          "character": "Cenarn",
+          "portrait": "Cenarn",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Hasta aquí llego...? Ah..."
+        },
+        {
+          "character": "Cenarn",
+          "portrait": "Cenarn",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Parece que he aguantado lo suficiente... el resto ya estará a salvo..."
+        }
+      ]
+    },
+    {
+      "character": "Ettoh",
+      "dialogue": [
+        {
+          "character": "Ettoh",
+          "portrait": "Ettoh",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "...Ya no puedo aguantar más."
+        },
+        {
+          "character": "Ettoh",
+          "portrait": "Ettoh",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Lo siento, por todo..."
+        }
+      ]
+    },
+    {
+      "character": "Iribella",
+      "dialogue": [
+        {
+          "character": "Iribella",
+          "portrait": "Iribella",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Me han vencido? No puede... ser."
+        },
+        {
+          "character": "Iribella",
+          "portrait": "Iribella",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Ja... vaya chasco..."
+        }
+      ]
+    },
+    {
+      "character": "Uridara",
+      "dialogue": [
+        {
+          "character": "Uridara",
+          "portrait": "Uridara",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Adeon... Te he fallado... Lo siento..."
+        },
+        {
+          "character": "Uridara",
+          "portrait": "Uridara",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Tienes que... seguir huyendo..."
+        }
+      ]
+    },
+    {
+      "character": "Adeon",
+      "dialogue": [
+        {
+          "character": "Adeon",
+          "portrait": "Adeon",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No puedo... seguir moviéndome..."
+        },
+        {
+          "character": "Adeon",
+          "portrait": "Adeon",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Gah, bien... hecho... me habéis vencido."
+        }
+      ]
+    }
+  ]
+}

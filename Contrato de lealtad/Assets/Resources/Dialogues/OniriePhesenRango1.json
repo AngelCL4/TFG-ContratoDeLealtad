@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent",
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "AfternoonGarden"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola Onirie, ¿estás estudiando?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hola Phesen, sí."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm... ¿Por qué?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Cómo que por qué?"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He oído que eras una estudiante de la academia de Nunsed, pero ya hace unos años que no existe, ¿por qué sigues estudiando?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Para no olvidar lo que he aprendido, y aprender cosas nuevas, no todo se aprende en una academia."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vaya, que envidia, tienes tanto la motivación como el talento."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Eh?"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Alguien como yo, que solo es bueno peleando, no puede ni imaginar estar a tu nivel."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Menuda excusa patética, si eres un inútil deberías decirlo claramente, en lugar de decir ese tipo de cumplidos falsos."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Onirie?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieEnfado",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Bah, me largo."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué acaba de pasar...?"
+    }
+  ]
+}

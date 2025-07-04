@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage6",
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "El príncipe nunca tendrá mi beneplácito..."
+    },
+    {
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero negarse al cambio es inútil... Tomad este elixir, supongo."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "MountainPass2",
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Los mercenarios restantes se dispersan y las aldeas están a salvo...",
+      "music": "Sweet2"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Un trabajo bien hecho. Estos días son los que merecen la pena."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La verdad es que me sorprendió que usases el dinero de la familia para proteger las aldeas, pero... tiene sentido."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es mi deber si quiero ser el siguiente rey, mi dinero es el dinero de la gente, no un alijo secreto en otro territorio."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No creo que sea lo más aconsejable acampar aquí arriba, vamos a descender un poco antes de que anochezca."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro, vamos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Todo el mundo, seguidme!"
+    }
+  ]
+}

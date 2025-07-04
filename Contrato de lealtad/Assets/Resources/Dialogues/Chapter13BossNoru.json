@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Iribella",
+      "portrait": "Iribella",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Oh, eres mi siguiente víctima?"
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso, subestimamé, seguro que acaba bien para tí."
+    },
+    {
+      "character": "Iribella",
+      "portrait": "Iribella",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso ya lo veremos."
+    }
+  ]
+}

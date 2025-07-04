@@ -1,0 +1,125 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightTimeHills1",
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Phesen...",
+      "music": "Entangle"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, Onirie, quería..."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Perdóname por como te trate la última vez."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Eh?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento por decir esas cosas, estar enfadada no me da derecho a tratarte así."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Era yo el que quería pedirte perdón, si te enfadaste fue porque te dije algo que te molestó."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y también me he dado cuenta de que tenías algo de razón en lo que dijiste."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "La verdad es que si que soy un poco inútil. No sé si lo sabes, pero yo formaba parte de una familia noble, aunque no era el primogénito, por lo que descuidé mis estudios y mi formación académica."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Yo... no lo sabía."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Al final, tras la destrucción de la casa de mi familia, lo único para lo que sirvo es para combatir."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es por eso que... me das un poco de envidia. Tú también eres muy buena en el combate, eres perfecta, no tienes ningún punto débil, no como yo."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sigues poniendo excusas."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...¿Tú crees?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quizás crees que es un cumplido ensalzarme mientras te rebajas, pero te aseguro que solo te hace quedar como alguien patético que no sabe hacer nada más que resignarse."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo..."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest13",
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Hmm, vamos a ver...",
+      "music": "Breeze2"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Zisian? ¿Qué haces por aquí?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Woah, Kami, no te había visto. Iba a dar una vuelta."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Una vuelta, ahora?"
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, quiero pensar en unas cosas, ¿y tú que haces aquí?"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estaba... descansando un rato, iba a volver al campamento ahora."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, entonces nos vemos."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Espera, quiero acompañarte."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Eh, por qué?"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno... me sabe mal dejarte solo, y no me apetece volver todavía."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No tienes que preocuparte por mí, pero si quieres... Solo ten en cuenta que no soy mucho de conversar, mis paseos son para pensar."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Está bien, yo también tengo cosas en las que pensar."
+    },
+    {
+      "character": "Zisian",
+      "portrait": "ZisianFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces, vamos."
+    }
+  ]
+}

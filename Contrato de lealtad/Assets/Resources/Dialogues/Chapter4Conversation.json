@@ -1,0 +1,175 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest6",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Deberíamos de estar a punto de llegar a Philoa.",
+      "music": "Verdure3"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Se está haciendo de noche... ¿Llegaremos a tiempo?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si mantenemos el ritmo no habrá problema."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Quién es ese jinete?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola, viajeros, vengo en son de paz.",
+      "music": "Numina"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Quién eres?"
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Soy Tailni, y formo parte de una banda de bandidos. He venido a pediros que os rindáis."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Rendirnos? Tienes que estar de broma"
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estáis completamente rodeados, y cuando llegue nuestra fuerza principal no tendréis ninguna oporturnidad, solo quiero evitar muertes sin motivo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y si nos rendimos como sabemos que no nos vais a matar."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tenéis mi palabra."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La palabra de un bandido no es algo en lo que pueda confiar, lo siento."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo... Una pena entonces. Ha llegado el momento de atacar, luchad bien, extraños."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Se va..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡No la persigais! No sabemos cuantos enemigos hay a nuestro alrededor."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No me puedo creer que estemos rodeados de nuevo..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué hacemos ahora? ¿Nos enfrentamos a ellos igual que la última vez?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No, hay que huir hacia Philoa, ya."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué? ¿Por qué?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Iba bien equipada, y no se ha mostrado nerviosa en ningún momento, puede que sus refuerzos fuesen un farol, pero prefiero no quedarme a comprobarlo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Entonces tenemos que escapar?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, todo el mundo, nos movemos al sur. ¡Rápido!"
+    }
+  ]
+}

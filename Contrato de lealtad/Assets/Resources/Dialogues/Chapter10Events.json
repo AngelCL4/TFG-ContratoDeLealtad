@@ -1,0 +1,82 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Nunca pensé que llegaría el día en el que asediaríamos la capital..."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "...Este combate va a ser complicado... Muy complicado."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Pero si trabajamos juntos no hay nada imposible. ¡Al ataque!"
+        }
+      ]
+    },
+    {
+      "turno": 4,
+      "dialogue": [
+        {
+          "character": "Sorion",
+          "portrait": "Sorion",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Carroñeros... Ja, tampoco va tan mal encaminado..."
+        },
+        {
+          "character": "Sorion",
+          "portrait": "Sorion",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Pero tengo órdenes y las cumpliré, no pasarán a la ciudad mientras aún respire."
+        }
+      ]
+    },
+    {
+      "turno": 7,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "..."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Te pasa algo?"
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "...Siento pena por su comandante. No me dió la impresión de que fuese mala persona, ojalá las circunstancias no fuesen estas."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaTriste",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "..."
+        }
+      ]
+    }
+  ]
+}

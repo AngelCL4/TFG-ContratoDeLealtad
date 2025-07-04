@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DestroyedHouse",
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ah, que susto! ¿Que hay bandidos fuera? Oh no, ¿han vuelto?"
+    },
+    {
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Había vuelto a casa para recuperar mi diario antes de huir a la ciudad, ¿podéis cubrirme mientras me voy?"
+    },
+    {
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias, tomad este contrato por las molestias, lo usaba como marcapáginas."
+    }
+  ]
+}

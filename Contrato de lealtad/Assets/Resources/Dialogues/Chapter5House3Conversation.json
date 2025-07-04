@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse5",
+      "character": "Aldeano12V1",
+      "portrait": "Aldeano12V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Las palabras no sirven para agradeceros todo lo que estáis haciendo por nosotros."
+    },
+    {
+      "character": "Aldeano12V1",
+      "portrait": "Aldeano12V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que tomad este tónico, cuando lo compré me dijeron que serviría para aumentar el aguante, aunque no llegué a usarlo."
+    }
+  ]
+}

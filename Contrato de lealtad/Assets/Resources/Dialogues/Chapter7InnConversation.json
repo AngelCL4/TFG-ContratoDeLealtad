@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Tavern2",
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2v1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sé lo que estáis intentado hacer, pero en esta aldea todos estamos bien."
+    },
+    {
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2v1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ha... aún así, tomad este contrato, por las molestias..."
+    }
+  ]
+}

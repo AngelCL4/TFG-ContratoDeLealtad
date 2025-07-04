@@ -1,0 +1,205 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "EveningCityInterior2",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... Ya no puedo más... ¿Vamos a morir aquí?",
+      "music": "Entangle"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Demain, no te... rindas!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... ¡Ah!"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso son... ¿cuernos?",
+      "music": "FolkRoma"
+    },
+    {
+      "character": "Aldeano13V1",
+      "portrait": "Aldeano13V1",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡El ejército real, están aquí!"
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Han venido a ayudarnos, estamos salvados!"
+    },
+    {
+      "character": "Sicario",
+      "portrait": "Sicario",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿El ejército real? ¿No puede ser?"
+    },
+    {
+      "character": "Hachero",
+      "portrait": "Hachero",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh no, hay que salir de aquí. ¡Corred!"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "El enemigo se retira... Ah..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Están... a salvo..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Demain, estás bien? ¡Demain!"
+    },
+    {
+      "backgroundChange": "NightBedroom",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... me duele todo...",
+      "music": "Night2"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Demain! Que alivio."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Lisella, qué ha pasado?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿No recuerdas nada?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Defendimos la ciudad baja y... Llegó el ejército de Mildea, ¿no?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, luego te desmayaste y te tragimos a la posada para que descansaras."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo... Ah."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿A donde vas? Todavía no estas bien del todo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso no importa, tengo que asegurarme de que todos están bien, tanto los mercenarios como los ciudadanos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tú te quedas aquí, los demás están bien, y se están asegurando de que todos en la ciudad lo están. No hace falta que te preocupes, tú recupérate."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "La ciudad ya no está sitiada, si queremos irnos mañana necesitamos que nuestro líder esté en plenas condiciones. ¿Comprendes?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... Comprendido."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Voy a traerte algo de comer, espérame aquí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Todo el mundo está a salvo... eso es un alivio..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Pero si el ejército no hubiera llegado estaríamos acabados... Cuando yo restaure Hislan no habrá ningún ejército, al menos al principio, ah... ¿qué puedo hacer?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Restaurar el reino... ¿es realmente justo?"
+    }
+  ]
+}

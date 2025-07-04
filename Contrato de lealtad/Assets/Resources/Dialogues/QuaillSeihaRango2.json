@@ -1,0 +1,132 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent6",
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Uh... ¿dónde...?",
+      "music": "DawningTale"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, Seiha, estás despierta."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué ha pasado? Estábamos cortando leña... pero no recuerdo más."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Te has desmayado."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Deberías de haberme dicho que no a ayudarme si estabas cansada."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No me sentía cansada..."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si tú lo dices..."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y tú estás bien?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Mi madre me dijo algo al volver a mi aldea, y llevo dándole vueltas unos días."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Era algo bueno, o malo?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me ha dicho que la reconstrucción de la aldea está casi terminada, y que ya puedo dejar de ser un mercenario y volver a casa."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y eso es malo por qué?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No sé que hacer... Nunca había pensado en lo que vendría después de la reconstrucción de la aldea, no sé si quiero volver."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm... Ojalá pudiera ayudarte."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pasa nada, es algo que tengo que solucionar por mi mismo."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "En eso tienes razón."
+    }
+  ]
+}

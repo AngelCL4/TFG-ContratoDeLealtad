@@ -1,0 +1,48 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayLakeside",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Al menos los aldeanos se rinden tras derrotar a los mercenarios...",
+      "music": "Grief2"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, aunque sería mejor que este conflicto se hubiera evitado completamente."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La vida no siempre es como queremos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Hay que seguir, si el enemigo va al puerto de Colena no hay tiempo que perder."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Te seguimos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Adelante."
+    }
+  ]
+}

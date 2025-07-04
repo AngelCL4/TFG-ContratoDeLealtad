@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bienvenidos a la capital."
+    },
+    {
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que queréis liberarnos, así que tomad este cinturón de lujo como regalo."
+    }
+  ]
+}

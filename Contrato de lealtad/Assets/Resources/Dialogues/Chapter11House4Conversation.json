@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "El príncipe ha vuelto, por fin."
+    },
+    {
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Había preparado este elixir para la ocasión, usadlo sabiamente."
+    }
+  ]
+}

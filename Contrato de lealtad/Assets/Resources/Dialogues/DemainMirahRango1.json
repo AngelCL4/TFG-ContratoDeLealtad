@@ -1,0 +1,125 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent2",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mirah, aquí estas, quería preguntarte algo.",
+      "music": "Sakuya"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hola jefe, ¿qué quieres?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Queria saber... ¿como lo haces para confiar tanto en tí mismo?"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Eh? Menuda pregunta... ¿Tienes problemas de confianza?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Un poco, no se si estaré a la altura de ser rey."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me halaga que pienses en mí, pero no se si mis consejos estarán a la altura de lo que necesitas."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No importa, por poco que sea seguro que sirve."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, pues creo que lo más importante es creérselo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Creérselo?"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro, no es bueno para tu confianza el pensar en todas las cosas que pueden salir mal, piensa en positivo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hmm..."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "También puedes actuar, finge hasta hacerlo realidad."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Cómo... engañar a tu mente?"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Algo así."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo, lo intentaré, gracias, Mirah."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "De nada"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Uf, a menudo le ha ido a preguntar..."
+    }
+  ]
+}

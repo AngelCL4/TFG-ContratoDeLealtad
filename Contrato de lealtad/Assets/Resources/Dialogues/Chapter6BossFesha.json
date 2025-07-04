@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Synnel",
+      "portrait": "Synnel",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tú no eres mi objetivo, fuera de mi camino."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Puedes decir lo que quieras, pero no te voy a dejar ponerle un dedo encima a mis aliados."
+    },
+    {
+      "character": "Synnel",
+      "portrait": "Synnel",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Entonces muere."
+    }
+  ]
+}

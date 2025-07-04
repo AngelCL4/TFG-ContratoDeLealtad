@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest10",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ha, toma esto.",
+      "music": "SunlitCafe"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Eso es todo? ¡Ha!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muy lento."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ay, parece que vences esta vez."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tocado y hundido."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No te regodees, ha estado reñido."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo sé, es por eso que me alegro."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No peleas nada mal teniendo en cuenta tus orígenes."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿A qué te refieres con eso?"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eres de la realeza, combatir en primera línea no suele ser para lo que entrena la gente como tú."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm, mi madre siempre quiso que aprendiese a defenderme por mí mismo, supongo que nunca se lo agradecí."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tu madre parecía una buena persona, una lástima lo que ocurrió."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí..."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Agh, perdón por arruinar el ambiente, ¿quieres una segunda ronda?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro, ven a por mí."
+    }
+  ]
+}

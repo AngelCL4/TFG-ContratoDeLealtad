@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Fuera de camino!"
+    },
+    {
+      "character": "Iribella",
+      "portrait": "Iribella",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Guau, relájate, esa emoción solo hará que te despedace aún más rápido de lo que lo voy a hacer..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Sí? Veamos quién sobrevive de los dos."
+    },
+    {
+      "character": "Iribella",
+      "portrait": "Iribella",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Confiado, eh? Me gusta."
+    }
+  ]
+}

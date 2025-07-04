@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por favor, expulsad a esta gente del puerto."
+    },
+    {
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tened este elixir, os ayudará a manteneros sanos."
+    }
+  ]
+}

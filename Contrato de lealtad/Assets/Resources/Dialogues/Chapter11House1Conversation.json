@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por fin vuelve el príncipe, ya era hora."
+    },
+    {
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este elixir para ayudaros a expulsar a esos desalmados."
+    }
+  ]
+}

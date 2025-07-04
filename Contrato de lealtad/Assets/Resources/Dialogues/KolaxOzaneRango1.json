@@ -1,0 +1,132 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "BuildingInterior12",
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...",
+      "music": "Elysium"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ozane, llevas mirándome un rato, ¿quieres algo?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, perdona, he oído que eras un erudito de la academia de Nunsed."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo era, sí."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y... como era la vida en la academia?"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Muy satisfactoria, sobre todo para mí, me pasaba investigando desde que amanecía hasta que anochechía, era como un sueño."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que envidia..."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Envidia?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mi sueño siempre había sido unirme a la academia de Nunsed, por lo que me pase años estudiando, pero justo cuando iba a presentarme esta fue destruida."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh... Lo siento."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias. Tú también has perdido lo mismo que yo."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mi sueño..."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí..."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Aún así, tendría que empezar a mirar hacia delante."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Hacia delante? ¿Vas a abandonar todo lo que te hacía feliz?"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No es exactamente así."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneEnfado",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "No me lo puedo creer."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Ozane? Vaya, parecía bastante molesta."
+    }
+  ]
+}

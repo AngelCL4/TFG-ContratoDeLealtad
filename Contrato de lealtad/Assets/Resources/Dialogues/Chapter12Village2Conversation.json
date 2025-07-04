@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage4",
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Dejadnos en paz... nosotros no hemos hecho nada..."
+    },
+    {
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm, tomad este tónico de defensa y marchaos."
+    }
+  ]
+}

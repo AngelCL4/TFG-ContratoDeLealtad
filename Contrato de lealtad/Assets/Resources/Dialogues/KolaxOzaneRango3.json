@@ -1,0 +1,153 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayLakeside2",
+      "character": "Ozane",
+      "portrait": "OzaneFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Cómo estás hoy, Kolax?",
+      "music": "GlimmeringWoods"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bien, aunque creo que no tan animado como tú. ¿Ya has llegado a alguna conclusión?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí... Y también he oído que quieres volver a abrir la academia."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Exacto, aunque no va a ser una tarea fácil."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estoy segura de que alguien como tú puede lograrlo."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias, ¿y tú que tienes planeado?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Quiero compartir mi conocimiento, el que adquirí estudiando, con la gente de mi alrededor, creo que esa es la mejor manera de aprovechar lo que tengo."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que he pensado en abrir una escuela en mi aldea natal."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esa es una gran idea."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias, que alguien como tú lo diga me da más seguridad."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ten un poco de fe en ti misma."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "También tengo una propuesta que hacerte."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Una... propuesta?"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, si cuando restaure la academia sigues interesada en estudiar en ella, que sepas que estás invitada."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso..."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pareces contrariada."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno... es que ya me había hecho a la idea de que nunca cumpliría mi sueño."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y que tal si no lo ves como un sueño? Puedes verlo como una forma de ampliar tus conocimientos, seguro que tus alumnos te lo agradecerán en el futuro."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm..."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale, ¿por qué no? Que no se te olvide llamarme cuando se vuelva a abrir la academia."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Para nada."
+    }
+  ]
+}

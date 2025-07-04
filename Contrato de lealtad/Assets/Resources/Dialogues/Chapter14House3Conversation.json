@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Este tónico de resistencia os será útil, ¿verdad?"
+    },
+    {
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces tomadlo, yo no le sacaré tanto provecho como vosotros."
+    }
+  ]
+}

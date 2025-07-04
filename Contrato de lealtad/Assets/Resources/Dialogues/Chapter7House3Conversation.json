@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Agh, ¿que hacéis aquí? No necesitamos vuestra ayuda para nada."
+    },
+    {
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Si os doy este tónico os largáis? Os hará más habilidosos por un tiempo, ahora fuera."
+    }
+  ]
+}

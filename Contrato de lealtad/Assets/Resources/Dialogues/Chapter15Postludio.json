@@ -1,0 +1,203 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "EveningHills",
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Has vencido, príncipe.",
+      "music": "Wish3"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí. Todo esto, toda esta muerte, podría haberse evitado."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Para nada, Los Liberadores nunca se iban a rendir ante alguien como tú. Tu reinado solo traerá desgracias a la gente de Hislan."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que yo sepa ninguno de los dos sabe que deparará el futuro. Pero te prometo que, mientras viva, no dejaré que la gente de Hislan, ni la de Biedro, sufra."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Ja, menudos ideales. Nunca es malo soñar, niño."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Puede que sea un sueño, pero estoy dispuesto a sacrificarme por él, ¿no es lo mismo que has hecho tú?"
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quizás si que nos parecemos en algo..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estoy seguro que podríamos haber llegado a un punto en común, si tan solo hubieses estado dispuesto a escuchar."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Prefiero actuar... a escuchar..."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero nada de eso importa ahora... Mi visión se desvanece..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Antes de que mueras... Quiero decirte que tu sacrificio no será en vano, tu deseo también es el mío, y no planeo rendirme hasta conseguirlo."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Buena suerte."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "backgroundChange": "EveningSky",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hemos... ganado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, este es... el inicio de una nueva era en Biedro."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tienes grandes sueños, mucho más grandes de lo que pensaba."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo sé, pero no planeo rendirme, la perseverancia es uno de mis puntos fuertes, ¿no?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si alguien puede conseguirlo, eres tú, Demain."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Creo que ha llegado el momento de volver a casa, esta vez de verdad."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm, que agridulce..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Nuestro amigos, los mercenarios, supongo que tocará despedirse de ellos, su trabajo se ha terminado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí... Pero no creo que sea la última vez que nos veamos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tengo esperanza en el futuro."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Si tú la tienes, entonces yo también la tendré. Volvamos a casa."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí."
+    }
+  ]
+}

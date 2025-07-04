@@ -1,0 +1,118 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "MountainPass3",
+      "character": "Phesen",
+      "portrait": "PhesenTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Uh...",
+      "music": "Teatime"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que buena técnica."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Demain, ¿estabas mirando?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Acabo de llegar, pero me ha impresionado mucho tu forma de luchar."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias, tu tampoco tienes una mala técnica."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Debería agradecérselo a los instructores que contrato mi madre."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm... ¿Cómo te sientes ahora, que tu vida no esta llena de tantos lujos?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Al principio fue raro acostumbrarme, pero ahora me alegro."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Te alegras?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Siento que era muy ignorante a los problemas que pasaban en el mundo en el pasado. Ahora que he vivido sin lujos comprendo mejor lo que sufre la gente que no es de la realeza."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿He dicho algo raro?"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No, simplemente estaba... pensando."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿En que...? Oh, había quedado con Lisella, tengo que irme, perdón."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pasa nada, ve."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "¿Puedo... decírselo?"
+    }
+  ]
+}

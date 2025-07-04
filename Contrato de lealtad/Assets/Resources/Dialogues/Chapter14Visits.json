@@ -1,0 +1,195 @@
+{
+  "visits": [
+    {
+      "x": 12.5,
+      "y": 17.5,
+      "conversation": "Chapter14House1Conversation",
+      "reward": {
+        "nombre": "Elixir",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 30PV a la unidad poseedora.",
+        "valor": 30,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Elixir"
+      },
+      "visited": false
+    },
+    {
+      "x": 14.5,
+      "y": 2.5,
+      "conversation": "Chapter14House2Conversation",
+      "reward": {
+        "nombre": "Elixir",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 30PV a la unidad poseedora.",
+        "valor": 30,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Elixir"
+      },
+      "visited": false
+    },
+    {
+      "x": 14.5,
+      "y": 6.5,
+      "conversation": "Chapter14House3Conversation",
+      "reward": {
+        "nombre": "Tónico de Resistencia",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 la resistencia de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Resistencia",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoResistencia"
+      },
+      "visited": false
+    },
+    {
+      "x": 15.5,
+      "y": 13.5,
+      "conversation": "Chapter14House4Conversation",
+      "reward": {
+        "nombre": "Tónico de Suerte",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 la suerte de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Suerte",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoSuerte"
+      },
+      "visited": false
+    },
+    {
+      "x": 16.5,
+      "y": 21.5,
+      "conversation": "Chapter14House5Conversation",
+      "reward": {
+        "nombre": "Tónico de Velocidad",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 la velocidad de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Velocidad",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoVelocidad"
+      },
+      "visited": false
+    },
+    {
+      "x": 18.5,
+      "y": 8.5,
+      "conversation": "Chapter14House6Conversation",
+      "reward": {
+        "nombre": "Tónico de Habilidad",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 la habilidad de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Habilidad",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoHabilidad"
+      },
+      "visited": false
+    },
+    {
+      "x": 18.5,
+      "y": 16.5,
+      "conversation": "Chapter14Inn1Conversation",
+      "reward": {
+        "nombre": "Cinturón Lujoso",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 la habilidad de la unidad.",
+        "valor": 2,
+        "statAfectada": "Habilidad",
+        "duracion": 0,
+        "spritePath": "Objects/CinturonLujoso"
+      },
+      "visited": false
+    },
+    {
+      "x": 20.5,
+      "y": 1.5,
+      "conversation": "Chapter14House7Conversation",
+      "reward": {
+        "nombre": "Pluma de Halcón",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 la velocidad de la unidad.",
+        "valor": 2,
+        "statAfectada": "Velocidad",
+        "duracion": 0,
+        "spritePath": "Objects/PlumaHalcon"
+      },
+      "visited": false
+    },
+    {
+      "x": 20.5,
+      "y": 12.5,
+      "conversation": "Chapter14House8Conversation",
+      "reward": {
+        "nombre": "Herradura Dorada",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 la suerte de la unidad.",
+        "valor": 2,
+        "statAfectada": "Suerte",
+        "duracion": 0,
+        "spritePath": "Objects/HerraduraDorada"
+      },
+      "visited": false
+    },
+    {
+      "x": 21.5,
+      "y": 4.5,
+      "conversation": "Chapter14Inn2Conversation",
+      "reward": {
+        "nombre": "Placa Forjada",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 la defensa de la unidad.",
+        "valor": 2,
+        "statAfectada": "Defensa",
+        "duracion": 0,
+        "spritePath": "Objects/PlacaForjada"
+      },
+      "visited": false
+    },
+    {
+      "x": 24.5,
+      "y": 10.5,
+      "conversation": "Chapter14House9Conversation",
+      "reward": {
+        "nombre": "Pergamino Maldito",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 la resistencia de la unidad.",
+        "valor": 2,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/PergaminoMaldito"
+      },
+      "visited": false
+    }
+  ]
+}

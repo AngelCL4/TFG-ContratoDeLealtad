@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "MountainPass5",
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "CnocLore"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¿Vas a quedarte mirándome sin decir nada?"
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estaba pensando en que decir."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo. He oído que tienes una gran deuda que saldar, ¿es por eso que te enfadaste con mis formas de gastar dinero?"
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...No es solo eso, también es lo que te dije antes."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Entonces quieres que done mi dinero a gente que lo necesite?"
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sería un comienzo."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y por qué debería hacerlo yo y no la gente de clase alta? Yo trabajo para conseguir mi dinero, y veo justo el gastarlo en lo que quiera."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te quedas callada porque no puedes refutarlo?"
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tienes parte de razón, pero eso no quita que haya gente sufriendo mientras te gastas el dinero en piedras y hierbas."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Eso no me incumbe a mí."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo que no, es una pena. Adiós."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaTriste",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Ah... ¿por qué me siento tan mal?"
+    }
+  ]
+}

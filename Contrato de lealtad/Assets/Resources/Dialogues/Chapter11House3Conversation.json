@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Todos os estamos agradecidos por vuestra ayuda."
+    },
+    {
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad, os doy esta herradura dorada."
+    }
+  ]
+}

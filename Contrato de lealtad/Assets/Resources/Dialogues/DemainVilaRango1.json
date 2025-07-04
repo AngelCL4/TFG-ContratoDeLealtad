@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest1",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vila, ¿es cierto que eras parte del ejército real de Gheana?",
+      "music": "Desert4"
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es cierto, sí. Y hola, Demain."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, hola, perdona. Ahora que sé que es verdad tiene bastante sentido."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿El qué?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que seas tan buena combatiendo, siempre que te observo parece que no tienes ningún problema."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno, estoy acostumbrada a combatir, tengo mucha experiencia."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y cómo era ser parte del ejército real? Luchar por tu reino tiene que ser increíble."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si que lo era... Pero no todo es tan bonito como lo pintan."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué dices eso?"
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quizás... lo comparta en otro momento."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale, tómate el tiempo que necesites."
+    },
+    {
+      "character": "Vila",
+      "portrait": "VilaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias Demain, eres sorprendemente considerado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Es eso un cumplido?"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que no estarás interesado en rendirte..."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Rendirme? Por favor, ya que has llegado hasta aquí no puedo dejarte pasar a la ciudad sin más, vamos a luchar."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Veo que dudas, esto se puede evitar, no tienes que perder la vida."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Lo siento, pero no puedo rendirme."
+    }
+  ]
+}

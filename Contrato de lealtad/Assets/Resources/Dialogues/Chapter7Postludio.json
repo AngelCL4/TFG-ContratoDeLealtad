@@ -1,0 +1,161 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage5",
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Por fin hemos liberado la aldea.",
+      "music": "LimpidWater"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ha sido duro, pero..."
+    },
+    {
+      "character": "Aldeano5V1",
+      "portrait": "Aldeano5V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sois... sois monstruos. ¿Qué habéis hecho?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? Os hemos liberado de los mercenarios."
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Esos mercenarios nos protegían de los bandidos, ¿cómo vamos a sobrevivir sin ellos?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hey. Somos Demain y Lisella, los príncipes de Hislan, ¿no os acordais?"
+    },
+    {
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y eso en que nos ayuda? Ya no os necesitamos, el reino fue destruido."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... ah..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Demain, estás bien?"
+    },
+    {
+      "character": "Aldeano3V1",
+      "portrait": "Aldeano3V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sois una panda de... asesinos, ¡largaos!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Necesitamos... irnos..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Vale."
+    },
+    {
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Y no volváis!"
+    },
+    {
+      "backgroundChange": "EveningHills",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No entiendo... ¿los mercenarios les... protegían?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Demain, respira."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces... ¿para que estamos luchando? No nos necesitan."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "El reino de Hislan ya no es necesario, la gente ha evolucionado sin él."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vamos a no sacar conclusiones precipitadas. Se está haciendo de noche, será mejor montar un campamento para pasar la noche, y ya mañana podemos pensar en todo esto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Vale, lo siento Lisella."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pasa nada, vamos a descansar un poco."
+    }
+  ]
+}

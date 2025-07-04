@@ -1,0 +1,140 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest5",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Llevamos caminando bastante y sin rastro del enemigo...",
+      "music": "GlimmeringWoods"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hey, no te impacientes, seguro que les alcanzamos tarde o temprano."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ni siquiera sabemos su destino final, a lo mejor se han desviado en alguna ruta y..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y... ¡Ah!",
+      "music": "Valiant"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esa gente no parecen mercenarios..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero no parecen amistosos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Intentemos hablar. Hola..."
+    },
+    {
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Muere!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Gah! Ha estado cerca..."
+    },
+    {
+      "character": "Aldeano1V1",
+      "portrait": "Aldeano1V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡No tenemos nada que decirle a un tirano que nos quiere gobernar, o te largas o mueres!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esta gente... son habitantes del reino... ¿Qué les ha pasado?"
+    },
+    {
+      "character": "Aldeano2V1",
+      "portrait": "Aldeano2V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Crees que puedes matar a nuestros salvadores e intentar hacerte el héroe? ¡Acabaremos contigo!"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que les han comido la cabeza... ¿Qué hacemos Demain?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo único que queda por hacer... es enfrentarnos a ellos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si se interponen en nuestro camino es porque no vamos desencaminados en nuestra persecución. ¡Hay que seguir!"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Sí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Adeon... Pagarás por esto."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh, que guapo, quiero decir... ¡Hora de pelear!"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tú tampoco estás mal, una pena que estemos en lados opuestos."
+    },
+    {
+      "character": "Tailni",
+      "portrait": "Tailni",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias... ¡Ah, no puedo distraerme!"
+    }
+  ]
+}

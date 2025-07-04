@@ -1,0 +1,99 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightVillage6",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Su líder... ¿Dónde está?",
+      "music": "BygoneEra"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No te alteres, Demain, piensa un poco. ¿Este comandante, dónde estaba situado?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hmm, en la entrada norte... No creerás que..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Probablemente haya huido al norte, a la colina de Unaria."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero eso no tiene sentido, es un callejón sin salida, están completamente atrapados."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quizás esperaban conseguir un barco en el puerto, pero no sé muy bien sus razones."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vayamos a la colina de Unaria entonces, así sabremos si tienes razón."
+    },
+    {
+      "backgroundChange": "NightLakeside",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hmm, parece que no andabas mal encaminada.",
+      "music": "Strategy6"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uf, me alegro."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Están completamente atrapados..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es hora de acabar con su líder."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No creo que atacar ahora sea inteligente, un enemigo acorralado es aún más peligroso, preparémonos a conciencia. De todas formas no tienen lugar a donde seguir corriendo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "En eso tienes razón, montemos un campamento."
+    }
+  ]
+}

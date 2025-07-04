@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Este pergamino... de verdad está maldito?"
+    },
+    {
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Emm, si lo queréis, es vuestro, tomad."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Admiro que no os rindáis fácilmente... pero creo que esto ya es pasarse."
+    },
+    {
+      "character": "Cenarn",
+      "portrait": "Cenarn",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento chica, pero la rendición no es una opción contra vosotros, jamás os daré el gusto de verme arrodillado."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Ese es el problema, os lo tomáis todo demasiado personal."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero, supongo que esto es la guerra, no hay tiempo para sentimentalismos."
+    }
+  ]
+}

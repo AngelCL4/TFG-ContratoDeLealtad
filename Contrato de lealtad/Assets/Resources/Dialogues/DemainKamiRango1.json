@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "EveningArmyCamp3",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Kami, ¡cuidado!",
+      "music": "Enjoyable2"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Ah! Ah... Lo siento"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué ha pasado, te encuentras bien?"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ha sido un mareo momentáneo, creo que... no estoy descansando demasiado estos días."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo, creo que es mejor si hoy te vas a dormir temprano."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Yo... no quiero ser menos que los demás."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No eres menos... Solo eres diferente."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Diferente..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vamos a descansar, ¿vale?"
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale, lo siento..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No hace falta disculparse, solo... intenta no esforzarte tanto como para desmayarte."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Gracias, Demain, por preocuparte."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No es nada."
+    }
+  ]
+}

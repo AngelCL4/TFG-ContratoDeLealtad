@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Lilen",
+      "portrait": "LilenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pareces una persona razonable... Seguro que este combate se puede evitar."
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si planeas que me rinda estás muy equivocada, estoy preparada para dar mi vida por esta causa."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, supongo que las apariencias engañan."
+    }
+  ]
+}

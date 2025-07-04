@@ -1,0 +1,134 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest1",
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que bien que estemos ya en Mildea, el tiempo empieza a ser mejor.",
+      "music": "DeepWoods"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te importa decirme lo que te pasa por la cabeza?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Espera un momento. ¡Chicos, hagamos un descanso en la orilla del río!"
+    },
+    {
+      "backgroundChange": "DayTimeRiver1",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estoy... nervioso."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Nervioso, por qué?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ahora que ya hemos salido de Filsai es como sí mi mente estuviera comprendiendo todas las responsabilidades que voy a tener."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te refieres a cuando seas rey?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, tal y como está Biedro en estos momentos, ¿voy a ser capaz de darles a los habitantes de Hislan lo que necesitan?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro que sí Demain, estoy segura de ello."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Gracias."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y ese ruido?"
+    },
+    {
+      "character": "Bandido",
+      "portrait": "Sicario",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Muere!",
+      "music": "Blast"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ah!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Detrás de mí! Ha."
+    },
+    {
+      "character": "Bandido",
+      "portrait": "Sicario",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Agh... No puede ser..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Quién...?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Es una emboscada, mercenarios, a mí!"
+    }
+  ]
+}

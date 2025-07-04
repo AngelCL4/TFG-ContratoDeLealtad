@@ -1,0 +1,132 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest1",
+      "character": "Aki",
+      "portrait": "AkiEnfado",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Ha, ha.",
+      "music": "Enjoyable"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Entrenando tan temprano? Que diligente."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Ah! Que susto..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Perdona, no era mi intención molestarte."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pasa nada, en realidad es culpa mía por no estar atenta. ¿Querías algo?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No, solo estaba admirando tu forma de luchar."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Admirando? Gracias por el cumplido, hace que todas las noches en vela merezcan la pena."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿También entrenas por la noche? Sorprendente... Aunque no si se será lo mejor para tu salud."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No puedo bajar el ritmo, necesito ser más fuerte."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Para mí ya eres lo suficientemente fuerte."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "A mi me sigue sin bastar, tengo grandes objetivos, mucho más que ser una mercenaria. Oh, pero no te ofendas."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No te preocupes por eso. ¿Y cúales son esos objetivos tan grandes?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Son... complicados... y no se si me siento cómoda compartiéndolos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo, sin problema."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya he perdido mucho tiempo, toca seguir entrenando."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te importa si me apunto?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh... No, para nada. Intenta seguirme el ritmo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Como tú digas."
+    }
+  ]
+}

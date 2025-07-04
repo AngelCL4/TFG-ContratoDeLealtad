@@ -1,0 +1,130 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayLakeside",
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Fesha! ¿Cómo fue la visita a tu familia?",
+      "music": "RealmDaytime"
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, Waishe... Fue... medianamente bien."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm, ¿estás bien? Eso es lo importante."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, creo que por fin les he hecho comprender que mis deseos y los suyos no son compatibles, aunque... no parecen querer dar su brazo a torcer."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Agh, ¿qué les cuesta rendirse y ya?"
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Espero que su testarudez se disminuya con la edad. ¿Y como fue tú visita? ¿Tu familia estaba bien?"
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No llegué a hablar con ellos... Pero sí, todos parecían sanos."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿No hablaste con ellos? ¿Por qué?"
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Quiero esperar. No les traté muy bien la última vez que los vi, y quiero ser mejor persona para cuando me vuelva a presentar ante ellos."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Saben que estoy bien y que algún día volveré, así que eso me vale."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si cuando llegue ese momento necesitas a alguien a tu lado, que sepas que puedes contar conmigo."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Fesha... Gracias, no sabes cuanto significa para mí."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Yo puedo hacer lo mismo si quieres hablar con tu familia de nuevo."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaAlivioB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro, así les podré presentar a mi hermana."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheAlivioB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que cursi... Pero yo pienso lo mismo."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je."
+    }
+  ],
+  "reward": {
+        "nombre": "Pulsera familiar",
+        "tipo": "Artefacto",
+        "uso": 1,
+        "cantidad": 0,
+        "descripcion": "Aumenta 1 de movimiento a ti y a los aliados a un máximo de 3 casillas.",
+        "valor": 1,
+        "statAfectada": "Movimiento",
+        "rango": 3,
+        "afectaAliados": true,
+        "spritePath": "Objects/PlaceholderArtefacto"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Kami",
+      "portrait": "KamiTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por favor, ríndete, no quiero que mueras."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Por muy mal que esté la situación no puedo rendirme señorita, lo siento."
+    },
+    {
+      "character": "Kami",
+      "portrait": "KamiEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces... solo me queda darte una paliza hasta que recapacites."
+    }
+  ]
+}

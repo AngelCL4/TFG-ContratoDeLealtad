@@ -1,0 +1,72 @@
+{
+  "visits": [
+    {
+      "x": 4.5,
+      "y": 21.5,
+      "conversation": "Chapter13Village1Conversation",
+      "reward": {
+        "nombre": "Elixir",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 30PV a la unidad poseedora.",
+        "valor": 30,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Elixir"
+      },
+      "visited": false
+    },
+    {
+      "x": 6.5,
+      "y": 4.5,
+      "conversation": "Chapter13InnConversation",
+      "reward": {
+        "nombre": "Tomo Perdido",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 el poder de la unidad.",
+        "valor": 2,
+        "statAfectada": "Poder",
+        "duracion": 0,
+        "spritePath": "Objects/TomoPerdido"
+      },
+      "visited": false
+    },
+    {
+      "x": 23.5,
+      "y": 2.5,
+      "conversation": "Chapter13Village2Conversation",
+      "reward": {
+        "nombre": "Elixir",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 30PV a la unidad poseedora.",
+        "valor": 30,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Elixir"
+      },
+      "visited": false
+    },
+    {
+      "x": 29.5,
+      "y": 17.5,
+      "conversation": "Chapter13Village3Conversation",
+      "reward": {
+        "nombre": "Viento Embotellado",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 1 el movimiento de la unidad.",
+        "valor": 1,
+        "statAfectada": "Movimiento",
+        "duracion": 0,
+        "spritePath": "Objects/VientoEmbotellado"
+      },
+      "visited": false
+    }
+  ]
+}

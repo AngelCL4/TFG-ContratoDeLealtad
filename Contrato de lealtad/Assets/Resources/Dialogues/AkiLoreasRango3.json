@@ -1,0 +1,153 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeOutsideFort",
+      "character": "Aki",
+      "portrait": "AkiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "Harvest"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Quieres algo?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... Parece que ambos hemos encontrados vestigios de nuestra gente desde la última vez que hablamos..."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso es cierto, pero, ¿es eso todo lo que querías decir?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Lo siento por decirte esas cosas. No debería arrastrarte a mi venganza egoísta."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Venganza egoísta..."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, eso lo llamó Demain."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ja, tiene el don de la palabra."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso seguro. Lo que me dijo se sumó a lo que me contó mi tribu, como no tenían ganas de venganza, solo de vivir en paz y olvidar el pasado, y me hizo darme cuenta de lo que había estado haciendo."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y qué vas a hacer ahora?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Tú primero."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale... Supongo que estoy confiando en Demain de momento, me dijo que cuando restaure el reino le dará protección a mi gente, y esa me parece la mejor salida."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así que vais a huir... No lo digo como algo malo, aún así."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, estamos huyendo... hacia un futuro mejor, lejos de la muerte y el conflicto."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y lo respeto."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que tú sigues con tu venganza..."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sé que es egoísta, pero es mi decisión. Todo el que quiera apoyarme será bienvenido, pero no obligaré a nadie a quedarse."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muy maduro por tu parte... Ten cuidado, Aki."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias Loreas, y buena suerte con vuestra nueva vida."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Evita que Gheana destruya más vidas."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ese es mi objetivo... No les dejaré crear otra 'Aki'."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightLakeside",
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Al final has encontrado tu hogar en el mundo?",
+      "music": "DeepValley2"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vaya, nunca pensé que fueras tú el que iniciaría una conversación."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Puedes parar y contestar a mi pregunta?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, vale. La verdad es que no he encontrado un hogar, pero he descubierto que quizás es porque mi hogar no es un sitio físico."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No... lo entiendo."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mi hogar es... este grupo. Siempre me había sentido sola, incomprendida, pero tras hablar con todos vosotros, siento que no quiero que este momento se acabe."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué... es esa cursilada?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es un poco cursi, pero es la realidad. Y me parece que tú te sientes de manera similar."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Desde cuando sabes como me siento?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh... ¿desde siempre? Estoy segura de que pensabas que Demain te iba a abandonar en cuanto aquel pueblo se te echó encima. Pero en su lugar te defendió y te dio otra oportunidad."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No voy a decir nada más, no quiero avergonzarte. Parece que no te gusta admitir tus sentimientos."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrEnfado",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Bueno, ya basta."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, perdona."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Recuerdas lo que te dije la última vez?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "...Sí."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Por mucho que me pese este grupo no se mantendrá para siempre. Así que si en el futuro me necesitas, solo llámame."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo recordaré."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias..."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage6",
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por favor, ayuda a mis padres, su trabajo está en peligro por esa gente en la carretera."
+    },
+    {
+      "character": "Aldeano9V1",
+      "portrait": "Aldeano9V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero me han dicho que no puedo pedir algo sin dar nada a cambio... ¿que os parece este elixir?"
+    }
+  ]
+}

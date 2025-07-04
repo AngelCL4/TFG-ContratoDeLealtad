@@ -1,0 +1,49 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Ya estás aquí, y con ayuda. Muy bien, derrotemos a estos bandidos."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Hubiera preferido que no me dejases estas decisiones a mí... Pero bueno, vamos allá."
+        }
+      ]
+    },
+    {
+      "turno": 3,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Siento que hay muy pocos bandidos."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Crees que vendrán refuerzos?"
+        },
+	      {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Probablemente, estemos alerta."
+        }
+      ]
+    }
+  ]
+}

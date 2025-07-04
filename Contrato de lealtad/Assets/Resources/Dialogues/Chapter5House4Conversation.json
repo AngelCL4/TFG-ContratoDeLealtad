@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse5",
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Estáis seguro de que queréis arriesgar vuestra vida por gente como nosotros?"
+    },
+    {
+      "character": "Aldeano10V1",
+      "portrait": "Aldeano10V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias... Tomad este tónico, si lo usais os hará más resistentes por un tiempo."
+    }
+  ]
+}

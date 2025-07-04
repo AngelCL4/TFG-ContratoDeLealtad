@@ -1,0 +1,96 @@
+{
+  "eventConversations": [
+    {
+      "turno": 3,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Vosotros sois los mercenarios que destruisteis Hislan, ¿verdad?"
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaEnfado",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Qué? ¿Cómo lo sabes?"
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Han estado espiandonos bastante tiempo, si no no me conocerían ni nos habrían rodeado, y la única gente que ganaría algo son ellos, nuestro principales enemigos."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Pero aún así podrían estar contratados por alguien..."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Eso podría ser también, pero... tengo mis dudas."
+        }
+      ]
+    },
+    {
+      "turno": 5,
+      "dialogue": [
+        {
+          "character": "Synnel",
+          "portrait": "Synnel",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Vamos, no les deis tregua."
+        },
+        {
+          "character": "Synnel",
+          "portrait": "Synnel",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Tenemos un objetivo, y es no dejar supervivientes."
+        }
+      ]
+    },
+    {
+      "turno": 10,
+      "dialogue": [
+	      {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Este emblema del casco..."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaEnfado",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Eso es... del ejército de Hislan."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "...Alguna conexión tienen con la caída del reino, eso es seguro."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaEnfado",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "..."
+        }
+      ]
+    }
+  ]
+}

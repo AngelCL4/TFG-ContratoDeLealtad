@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Xulya",
+      "portrait": "Xulya",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh, parece que esta tiene dinero."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Perdona?"
+    },
+    {
+      "character": "Xulya",
+      "portrait": "Xulya",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Una pena que tenga que matarla, también es bastante guapa."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que actúa como si no estuviera aquí... Agh, que pérdida de tiempo."
+    }
+  ]
+}

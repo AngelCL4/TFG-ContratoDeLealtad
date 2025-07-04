@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "FortInterior1",
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Elmer, aquí estas, llevo queriendo hablar contigo un rato.",
+      "music": "Nostalgic"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, yo también."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Con todo lo que ha pasado desde la última vez que hablamos, supongo que te lo debo."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja... ¿Quién diría que aprenderíamos a mirar hacia el futuro?"
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que ambos se lo debemos a Demain, ese chico tiene un don de gentes."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ahí llevas razón. ¿Y cúal es tu plan a futuro?"
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Continuar siendo una mercenaria, es el trabajo que empecé con mis amigos, y aunque ahora esté solo yo, pienso seguir su legado."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y tú?"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Todavía no sé, pero no pienso rendirme, estoy vivo porque Silia se sacrificó para salvarme, tengo que disfrutar de la vida por los dos."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Parece que ambos tenemos trabajo por delante."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Definitivamente."
+    }
+  ]
+}

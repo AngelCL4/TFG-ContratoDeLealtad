@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent3",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Jadyr, ¿que es eso que tienes en la mano? ¿Es una roca?",
+      "music": "Catnap"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Una roca? Para nada, es un trozo de unas ruinas."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que sí es una roca... En fin, ¿que haces con eso?"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Examinándolo, estoy intentando ver de que parte de Biedro podría ser."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y cómo es que no lo sabes?"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Porque la compré en la anterior aldea que visitamos, pero no parece ser de esa zona."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Estas seguro de que no te han timado...?"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Para nada, es auténtico, parte de una ruina de verdad. Este tono... podría ser del desierto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿De Gheana? Eso es bastante grande."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, y por eso es mucho más emocionante el triangular de donde podría venir. Uh... esto me va a tener varias noches en vela."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo... intenta que no influya en tu capacidad de combate."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo intentaré."
+    }
+  ]
+}

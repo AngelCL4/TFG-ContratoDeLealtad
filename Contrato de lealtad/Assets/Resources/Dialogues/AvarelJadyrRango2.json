@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp7",
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¡Ah! ¡Oh! ¡Uh...!",
+      "music": "Harvest6"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Jadyr... Pensaba que habíamos hablado de esto."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, Avarel... Perdona de nuevo, es que..."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No me importa, lo prometiste y has roto esa promesa."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo he intentado... Es que... me cuesta controlarme cuando me emociono."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué eres, un niño?"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estoy tratando de mejorar pero..."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No me interesan tus excusas, te di una oportunidad y la has desperdiciado. Si no puedes mantenerte callado tendré que hablar con Demain para decidir que hacer."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero..."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No hay peros Jadyr."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale..."
+    }
+  ]
+}

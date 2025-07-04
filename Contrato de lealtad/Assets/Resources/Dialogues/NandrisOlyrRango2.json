@@ -1,0 +1,146 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightSettlement",
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Te apetece hablar ya?",
+      "music": "Alleyway"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que... cansina."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Solo es la tercera vez que lo pregunto."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Agh, vale, ¿que quieres?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Cuando te veo, siento que vagas por el mundo sin un lugar al que llamar hogar."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿...Qué?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Yo también busco mi lugar en el mundo, es por eso que siento que somos similares."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bah, un lugar en el mundo es una pérdida de tiempo, no necesito eso, es mucho mejor vivir sin ataduras."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Es por eso que trabajas como ladrón, por qué vives sin ataduras?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Exacto, hago lo que quiero cuando quiero."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tus acciones tienen consecuencias, ¿sabes?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pah, tú y Demain sois iguales, intentando sermonearme."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No te estaba sermoneando, pero si dos personas te han dicho lo mismo a lo mejor deberías hacer caso."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrEnfado",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Estoy cansado de la gente que se cree que me conoce. Se muy bien lo que hago y no me arrepiento en absoluto, así que dejad de sentiros mal por mí."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale, pero si alguna vez te sientes solo, que sepas que estoy aquí."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¿Qué... acaso no has entendido nada de lo que he dicho?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Lo entiendo. Adiós."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrTriste",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Esta chica..."
+    }
+  ]
+}

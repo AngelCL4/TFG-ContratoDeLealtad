@@ -1,0 +1,61 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Hay muchos mercenarios, pero no podemos rendirnos ahora, liberemos la aldea."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaFeliz",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "...Sí."
+        }
+      ]
+    },
+    {
+      "turno": 2,
+      "dialogue": [
+        {
+          "character": "Droji",
+          "portrait": "Droji",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Así que el príncipe y su séquito ya han llegado hasta aquí..."
+        },
+        {
+          "character": "Droji",
+          "portrait": "Droji",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "No les dejaré avanzar, este lugar será su tumba."
+        }
+      ]
+    },
+    {
+      "turno": 10,
+      "dialogue": [
+	      {
+          "character": "Lisella",
+          "portrait": "LisellaTriste",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Estos aldeanos... se ven muy mal. ¿Qué está pasando aquí...?"
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "No lo sé. Vamos a expulsar a estos mercenarios primero, luego podemos obtener respuestas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightTimeHills1",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "El puerto de Colena, ahí esta... ¡y lleno de mercenarios!",
+      "music": "Rapid5"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que lo han conquistado, esto no va a ser fácil."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No, pero hay que darse prisa, tenemos que impedir que consigan un barco."
+    },
+    {
+      "backgroundChange": "NightVillage6",
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "SceneTragic"
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mi señor, el enemigo nos ha alcanzado."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso veo... Así que todos han fracasado."
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Yo no lo haré, tengo un plan."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Un plan... Oigámoslo."
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Escape hacia el norte con parte de nuestras fuerzas, yo los contendré aquí mientras conseguimos un barco."
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "En cuanto lo consiga lo mandaré para recogeros y que escapéis."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Me parece bien, pero... no hay escapatoria para tí, ¿lo sabes?"
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por supuesto. Pero no importa, dar mi vida por usted es lo máximo a lo que podía aspirar."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces... Hagámoslo."
+    },
+    {
+      "character": "Uridara",
+      "portrait": "Uridara",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bien. Adiós... mi señor."
+    },
+    {
+      "backgroundChange": "NightTimeHills1",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No podemos permitirnos crear una estrategia, cada segundo cuenta.",
+      "music": "Rapid5"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que avanzamos sin un plan contra sus defensas..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Más o menos... ¡Al ataque!"
+    }
+  ]
+}

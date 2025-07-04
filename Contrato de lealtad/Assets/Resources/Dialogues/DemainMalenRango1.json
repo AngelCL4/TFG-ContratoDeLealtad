@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeHills3",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Au... me has dado pero bien...",
+      "music": "RosaNera"
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Necesitas ser menos impulsivo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si que eres bueno, sabía que no me equivocaba al pedirte entrenar conmigo."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No me considero tan bueno."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Cómo que no? Te he visto combatir, y tu técnica es increíble."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Supongo que algo de razón tendrás."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Dónde aprendiste a luchar así? No me suena a un estilo de combate que enseñen en el ejército."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento, pero eso es información clasificada."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo... Perdona por preguntar."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo hago para protegeros, perdona si he sonado enfadado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Protegernos... En fin, ¿quieres otra ronda?"
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Estás seguro de que podrás ganar?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Cada vez me acerco más."
+    },
+    {
+      "character": "Malen",
+      "portrait": "MalenFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces veamos si tienes razón."
+    }
+  ]
+}

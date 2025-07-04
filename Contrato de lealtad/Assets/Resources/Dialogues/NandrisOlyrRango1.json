@@ -1,0 +1,139 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightHouseExterior",
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es ese.. ¿Olyr?",
+      "music": "Night2"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Mmm, llegó el momento de irse."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Olyr, ¿a dónde vas?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nandris... no te había visto..."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Perdona si te he asustado."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nah, no lo has hecho, y voy... a darme mi paseo nocturno."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya, sueles hacerlo cada noche."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Entonces... para que preguntas?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estaba esperando a que me ofrecieses pasear contigo."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y por qué lo haría?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quería hablar contigo de algo, siento que somos parecidos..."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mira, no tengo tiempo para poner a hablar. Lo siento, pero mis paseos nocturnos son solitarios."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces... ¿hablamos en otra ocasión?"
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... ¿no te vas a rendir?"
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "O aceptas o te persigo en tus escapadas sin que te des cuenta."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Preferiría que no, aunque me daría cuenta de que lo haces."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así que..."
+    },
+    {
+      "character": "Olyr",
+      "portrait": "OlyrTriste",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Vale... Te haré saber cuando puedo hablar."
+    },
+    {
+      "character": "Nandris",
+      "portrait": "NandrisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Muchas gracias."
+    }
+  ]
+}

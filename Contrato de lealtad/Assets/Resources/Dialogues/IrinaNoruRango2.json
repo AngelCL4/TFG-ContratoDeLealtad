@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeOutsideFort",
+      "character": "Noru",
+      "portrait": "NoruFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, hola Irina...",
+      "music": "KittensCaprice"
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Menuda pelea callejera la que causaste, ¿eh?"
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por favor, no lo menciones..."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ups, lo siento."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Dime... ¿actúo como un niño?"
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm, ¿quieres la verdad?"
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pues claro."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces sí, lo haces. Pero a mi me parece adorable."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tan adorable que he causado una pelea en la que salió gente herida..."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Necesito madurar ya."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, eso no es algo que puedas acelerar. La madurez viene con la experiencia."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero... no quiero meter al resto en problemas."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bah, para eso estamos los mayores, para asegurarnos de que no se salga demasiado de control."
+    },
+    {
+      "character": "Noru",
+      "portrait": "NoruTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Confía en mi, ¿vale? No en vano soy la Dama Dorada."
+    }
+  ]
+}

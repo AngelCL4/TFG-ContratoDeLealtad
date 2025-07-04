@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DaySettlement",
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh... Se ha manchado...",
+      "music": "PowderSnow"
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué te pasa, Fesha? ¿Le ocurre algo a tu pulsera?"
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, hola Waishe, se ha ensuciado un poco, habrá sido en nuestro último combate."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh no... Ah, parece que está hecha de tela, así que no será muy difícil limpiarla."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, aunque... quizás va siendo hora de tirarla."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tirarla? Pero... parece importante."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Tú crees?"
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, no parece muy valiosa, supongo que es artesanal, con lo cual será de alguien importante para tí."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Ya no lo sé."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No entiendo... Pero aún así la limpiaría, si no la quieres siempre la puedes guardar limpia, pero si no la lavas esa mancha no va a salir."
+    },
+    {
+      "character": "Fesha",
+      "portrait": "FeshaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Haré eso, gracias Waishe."
+    },
+    {
+      "character": "Waishe",
+      "portrait": "WaisheFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "De nada."
+    }
+  ]
+}

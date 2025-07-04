@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Midar",
+      "portrait": "Midar",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué lucháis por un hombre así, que ataca una aldea indefensa?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ugh, ¿y ese discurso de víctima? Te recuerdo que formas parte de aquellos que dejaron a esta aldea sin protección."
+    },
+    {
+      "character": "Midar",
+      "portrait": "Midar",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te has quedado sin palabras? Pues entonces toca combatir."
+    }
+  ]
+}

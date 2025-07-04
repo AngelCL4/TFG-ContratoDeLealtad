@@ -1,0 +1,118 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest6",
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He oído que buscas a tu hermano.",
+      "music": "DeepValley"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "La noticia se expande..."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, lo siento."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pasa nada, llevo muchos años buscándolo sola, creo que ha llegado el momento de cambiar mi método, cuanta más gente lo sepa mejor."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Esa es una buena idea."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Así que tú también has perdido algo importante."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí... Creo que por eso me siento afín a tí."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿En serio?"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ambos buscamos algo que perdimos hace mucho tiempo."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces ayudémonos mutuamente, tengo la sensación de que así lo conseguiremos."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, claro, ¿por qué no?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, ¿ese es Demain llamándome?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Tengo que irme, adiós."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Adiós..."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Me recuerda a... No, no puede ser que sea él, ¿verdad?"
+    }
+  ]
+}

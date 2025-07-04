@@ -1,0 +1,267 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest10",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¡Capturad a su comandante!",
+      "music": "Minstrel"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo tenemos, el resto de mercenarios se retiran hacia la ciudad..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Puedo saber que quieres hacer con él?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quiero hablar con él, lo que pase después dependerá de él."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entiendo... ¿Y ahora que hacemos? No podemos avanzar ahora mismo, estamos agotados."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Montemos un campamento, así el enemigo no podrá recuperar el terreno, por la mañana atacamos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es arriegado pero... es nuestra mejor opción. Démonos prisa."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, cuando acabe tengo que hablar con Sorion."
+    },
+    {
+      "backgroundChange": "InsideTent5",
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm. ¿Por qué no me has matado?",
+      "music": "NocturnalBloom"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Porque no parecías muy convencido al pelear."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, recibí órdenes de dar mi vida por la defensa del muro exterior, y ahora..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Un líder que se precie no sacrificaría a sus tropas."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Adeon ha sufrido mucho desde que nació en Nunsed."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Adeon... así que ese es vuestro líder, ¿y es de Nunsed?"
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pues claro, la mayoría de Los Liberadores son de Nunsed o Hislan, no en vano también somos responsables de la caída del reino de Nunsed."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Yo no era parte del grupo en ese tiempo... así que no puedo decir mucho, solo que la situación era parecida a la de aquí, un rey incompetente y gente desprotegida."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya veo... ¿y por qué me estás contando todo esto?"
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Supongo que tendré alguna especie de cargo de conciencia después de todo lo que hemos hecho. No somos santos, eso lo sabemos, en nuestra mente solo queremos proteger Biedro."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Esta no es la forma de hacerlo."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estamos desesperados... ¿qué te puedo decir?"
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y ahora qué? ¿Vas a matarme?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso es un malgasto de una persona que no lo merece."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mi plan es liberarte."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? ¿Ni siquiera vas a dejarme preso? ¿No te preocupa que vuelva con Los Liberadores?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No creo que puedas volver con tu gente si te ordenaron morir aquí fuera."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y entonces qué? ¿Esperas que me una a tí?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No, creo que eso es aún más improbable, pese a que hayamos conseguido entendernos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eres libre de hacer lo que quieras a partir de ahora."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si después de que restaure el reino quieres algo, sabes donde encontrarme."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "Adiós."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Soy libre...?"
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero nunca estuve atado... ¿verdad?"
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Agh... Maldita sea, tengo que irme."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "...Gracias, Demain."
+    }
+  ]
+}

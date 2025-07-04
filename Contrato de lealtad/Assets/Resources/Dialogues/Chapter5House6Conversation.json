@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse5",
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Que miedo... hay tantos bandidos..."
+    },
+    {
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias por protegernos, ojalá tuviese algo para daros..."
+    },
+    {
+      "character": "Aldeano6V1",
+      "portrait": "Aldeano6V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Ah! Es verdad, tomad este contrato, lo estaba guardando pero no creo que le saque mejor uso que vosotros."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Milau",
+      "portrait": "Milau",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Guau, mírate, estas temblando chica, será mejor si te retiras mientras puedes."
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Me niego, no mientras haya gente a la que defender."
+    },
+    {
+      "character": "Milau",
+      "portrait": "Milau",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces me veré obligado a no contenerme, ¿segura de que quieres seguir?"
+    },
+    {
+      "character": "Alena",
+      "portrait": "AlenaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡No pienso correr!"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "visits": [
+    {
+      "x": 9.5,
+      "y": 14.5,
+      "conversation": "Chapter2House1Conversation",
+      "reward": {
+        "nombre": "Contrato"
+      },
+      "visited": false
+    },
+    {
+      "x": 3.5,
+      "y": 2.5,
+      "conversation": "Chapter2House2Conversation",
+      "reward": {
+        "nombre": "Pocion",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 10PV a la unidad poseedora.",
+        "valor": 10,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Pocion"
+      },
+      "visited": false
+    },
+    {
+      "x": 11.5,
+      "y": 2.5,
+      "conversation": "Chapter2House3Conversation",
+      "reward": {
+        "nombre": "Fruta Jugosa",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 5 los PV máximos de la unidad.",
+        "valor": 5,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/FrutaJugosa"
+      },
+      "visited": false
+    }
+  ]
+}

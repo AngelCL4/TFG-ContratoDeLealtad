@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest8",
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Agh... No hay manera.",
+      "music": "Memories"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh... hola."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, hola Ipris, ¿qué haces aquí?"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno... llevo aquí un rato, estaba detrás de ese árbol."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, perdona, ¿te he molestado?"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No... Pero, ¿qué haces?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, estaba tratando de recordar algo de mi pasado."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Tu pasado?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, no recuerdo nada de mi pasado, de cuando tenía menos de siete años."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso es horrible..."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí... La sensación de que has perdido algo importante... no se la deseo a nadie."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Ni yo."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Has dicho algo?"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No..."
+    }
+  ]
+}

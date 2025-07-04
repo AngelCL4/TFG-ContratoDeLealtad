@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse4",
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Muchas gracias por salvarnos..."
+    },
+    {
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este tomo, es un poco raro... pero emana poder."
+    }
+  ]
+}

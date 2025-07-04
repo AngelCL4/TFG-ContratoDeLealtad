@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse",
+      "character": "Aldeano12V2",
+      "portrait": "Aldeano12V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ya pensaba que hoy era mi día, muchas gracias por salvarme."
+    },
+    {
+      "character": "Aldeano12V2",
+      "portrait": "Aldeano12V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Como agradecimiento, tomad esta fruta. Es un poco extraña, pero he oído que aquel que se la coma verá su vitalidad aumentada."
+    }
+  ]
+}

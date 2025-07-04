@@ -1,0 +1,30 @@
+{
+  "visits": [
+    {
+      "x": 1.5,
+      "y": 7.5,
+      "conversation": "Chapter6InnConversation",
+      "reward": {
+        "nombre": "Contrato"
+      },
+      "visited": false
+    },
+    {
+      "x": 17.5,
+      "y": 16.5,
+      "conversation": "Chapter6HouseConversation",
+      "reward": {
+        "nombre": "Herradura Dorada",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 la suerte de la unidad.",
+        "valor": 2,
+        "statAfectada": "Suerte",
+        "duracion": 0,
+        "spritePath": "Objects/HerraduraDorada"
+      },
+      "visited": false
+    }
+  ]
+}

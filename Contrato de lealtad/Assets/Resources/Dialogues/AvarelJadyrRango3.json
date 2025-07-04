@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent2",
+      "character": "Avarel",
+      "portrait": "AvarelTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... ¿Jadyr?",
+      "music": "ForestSage"
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Avarel, ¿ha pasado algo? Dime que no te he molestado."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No... Quería... disculparme por haberte tratado... así de mal."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿En serio? No suenas muy convencido... ¡Quiero decir, gracias!"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estoy haciendo un esfuerzo para mejorar mi actitud. Desde que ocurrió esa pelea callejera me he dado cuenta de... mis puntos débiles."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que la reprimenda de Demain también ayudo."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estás tentando a la suerte."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡No lo decía como algo malo, a mi también me tocó una hace tiempo!"
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo... Lo siento."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Siempre nos había visto como... personas completamente opuestas, pero puede que tengamos cosas en común."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Je, puede ser, ¿que tal si empezamos de cero? Así podremos conocernos más y mejor."
+    },
+    {
+      "character": "Avarel",
+      "portrait": "AvarelFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mmm, muy bien. Encantado, soy Avarel."
+    },
+    {
+      "character": "Jadyr",
+      "portrait": "JadyrFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Igualmente, yo Jadyr."
+    }
+  ]
+}

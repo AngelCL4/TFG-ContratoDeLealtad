@@ -1,0 +1,116 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "Forest6",
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eh... ¿es cierto que eres la princesa del reino de Nunsed?",
+      "music": "Memories6"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eldael... ¿es cierto que has recuperado tu memoria?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hermana..."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eldael... No, Ilden... Ven aquí."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ipris, lo siento tanto por no haberme dado cuenta antes."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisAlivio",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Te crees que me importa? Solo estoy feliz de que hayas vuelto, estaba tan cerca de perder la esperanza..."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estoy aquí, estoy aquí..."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y... ¿cómo te encuentras, todo bien?"
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Cuando recuperé la memoria... me invadió una ola de tristeza. Padre y madre, muertos delante de mí, no podía sacarme esa imagen de la cabeza."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ilden..."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero, luego te recordé a tí. Pensé que lo había perdido todo, pero tú estabas ahí."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y nunca más me volverás a perder."
+    },
+    {
+      "character": "Eldael",
+      "portrait": "EldaelFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo mismo te digo."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisAlivio",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Ah... soy... tan feliz."
+    }
+  ],
+  "reward": {
+        "nombre": "Colgante verdoso",
+        "tipo": "Artefacto",
+        "uso": 1,
+        "cantidad": 0,
+        "descripcion": "Aumenta 5 la habilidad a ti y los aliados a un máximo de 10 casillas.",
+        "valor": 5,
+        "statAfectada": "Habilidad",
+        "rango": 10,
+        "afectaAliados": true,
+        "spritePath": "Objects/PlaceholderArtefacto"
+  }
+}

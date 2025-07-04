@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "BuildingInterior4",
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así que era todo una fachada.",
+      "music": "Sakuya2"
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, Handox... Lo siento por decepcionarte."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bah, no puedo culparte mucho, en este trabajo es necesario ser, o por lo menos parecer, alguien confiado, si no, no te llegará trabajo."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí... Me di cuenta de eso cuando empecé... La verdad es que todos me dais un poco de envidia, parece que soy el único que tiene estos problemas."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm, cuando yo empecé con mi otro trabajo... la verdad es que no tenía mucha confianza, pero como dicen, la práctica hace al maestro."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahIncomodidadB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No sé si ambos se pueden comparar..."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Claro que sí, ambos son trabajos que requieren que la gente te contrate, es importante tanto tu apariencia como tu destreza. Yo veo muchas similitudes."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm, ¿es por eso que escogiste ese trabajo?"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso..."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, perdón, ¿he dicho algo que no debía?"
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No... es solo que... Bah, no importa."
+    },
+    {
+      "character": "Mirah",
+      "portrait": "MirahTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Suena complicado... Sí alguna vez quieres hablar puedes contar conmigo, bueno... solo si tú quieres."
+    },
+    {
+      "character": "Handox",
+      "portrait": "HandoxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Je, lo tendré en cuenta."
+    }
+  ]
+}

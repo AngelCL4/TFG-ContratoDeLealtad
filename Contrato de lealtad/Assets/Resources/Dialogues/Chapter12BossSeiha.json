@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Seiha",
+      "portrait": "SeihaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué estáis usando a gente inocente como escudos? No lo entiendo..."
+    },
+    {
+      "character": "Ettoh",
+      "portrait": "Ettoh",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Estamos desesperados, y necesitamos tiempo."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué, acaso las vidas humanas no significan nada para tí? Te mereces la muerte."
+    }
+  ]
+}

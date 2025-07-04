@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage4",
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mis padres se han marchado con esa gente..."
+    },
+    {
+      "character": "Aldeano7V1",
+      "portrait": "Aldeano7V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por favor traedlos de vuelta, tomad este elixir."
+    }
+  ]
+}

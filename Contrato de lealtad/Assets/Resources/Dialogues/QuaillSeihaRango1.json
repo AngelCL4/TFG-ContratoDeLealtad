@@ -1,0 +1,90 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage2",
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, hola Seiha.",
+      "music": "Enjoyable2"
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola, ¿a dónde vas?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "A entregar una carta."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tú también? Que casualidad."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí... ¿y tú también vas a mandar dinero a tu aldea?"
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Eh? Sí..."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vaya, no me esperaba que fuesemos tan parecidos."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ni yo... ¿Y por qué mandas dinero a tu aldea?"
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es para ayudar con la reconstrucción de lo que perdimos en un ataque de bandidos."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm, mi aldea está en un lugar inhóspito, por lo que si no mando dinero es posible que la gente no pueda sobrevivir."
+    },
+    {
+      "character": "Quaill",
+      "portrait": "QuaillNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Parece que ambos hacemos lo que podemos para ayudar."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso parece."
+    }
+  ]
+}

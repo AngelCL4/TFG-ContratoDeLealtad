@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Xulya",
+      "portrait": "Xulya",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tú pareces el líder de esta gente... Muy bien, hora de acabar contigo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te crees que será así de fácil? Retiraté si no quieres salir herido."
+    },
+    {
+      "character": "Itae",
+      "portrait": "Itae",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Es eso una amenaza? Lo pagarás caro."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Era solo un consejo... Pero como tú quieras."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse5",
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pensaba que nos habían abandonado... Gracias."
+    },
+    {
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este brebaje, os servirá para curar vuestras heridas."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que el príncipe está de vuelta..."
+    },
+    {
+      "character": "Aldeano11V1",
+      "portrait": "Aldeano11V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, tomad este elixir, supongo que os servirá de algo."
+    }
+  ]
+}

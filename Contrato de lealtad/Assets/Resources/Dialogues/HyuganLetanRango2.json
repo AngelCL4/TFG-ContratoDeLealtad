@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent2",
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Quieres... entrenar otra vez conmigo?",
+      "music": "Enjoyable"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Suenas muy sorprendido."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, no me esperaba que me lo pidieses después de lo que te hice la última vez."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué de todo? ¿El tirarme tierra a la cara, ponerme la zancadilla o intentar distraerme?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ja..."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No te guardo rencor, aunque si que te la devolveré en algún momento."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Seguro que no estás enfadado?"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué lo estaría? Te dije que no te contuvieses y eso hiciste, por mucho que usaras trucos sucios son realistas, nunca se sabe cuando tu enemigo intentará lo mismo."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutralB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Eres sorprendente."
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh... ¿gracias?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces quieres la revancha, ¿verdad?"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué buscas hacerte más fuerte?"
+    },
+    {
+      "character": "Hyugan",
+      "portrait": "HyuganNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vaya, ¿de repente tienes curiosidad? A lo mejor te lo cuento, si me vuelves a ganar."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Te he ganado una vez, y lo puedo volver a hacer."
+    }
+  ]
+}

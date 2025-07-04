@@ -1,0 +1,33 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Ipris",
+      "portrait": "IprisEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tú... ¿de verdad destruiste el reino de Nunsed?"
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, que lugar más raro para preguntar eso, pero tienes razón."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Te haré pagar por eso."
+    },
+    {
+      "character": "Adeon",
+      "portrait": "Adeon",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh... Venganza, que buen motivador. Vamos, desata tu rabia contra mí."
+    }
+  ]
+}

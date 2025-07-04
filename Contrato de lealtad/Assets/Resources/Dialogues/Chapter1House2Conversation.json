@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse",
+      "character": "Aldeano11V2",
+      "portrait": "Aldeano11V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, esos malditos bandidos me han destrozado la puerta."
+    },
+    {
+      "character": "Aldeano11V2",
+      "portrait": "Aldeano11V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Acaba con ellos, ¿vale?. Ten esta poción, te ayudará."
+    }
+  ]
+}

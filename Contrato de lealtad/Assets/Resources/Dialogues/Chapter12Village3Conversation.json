@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayVillage4",
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mucha gente se ha unido a esos mercenarios... pero hay otros que se han negado."
+    },
+    {
+      "character": "Aldeano4V1",
+      "portrait": "Aldeano4V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No sé que quieren hacer pero... yo estoy de vuestro lado, tomad esta fruta jugosa."
+    }
+  ]
+}

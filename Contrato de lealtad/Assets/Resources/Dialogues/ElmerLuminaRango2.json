@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightHills",
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que si que habías perdido a alguien importante.",
+      "music": "MistyHollow"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, tenías razón en eso, aunque espero que no intentes aconsejarme, te aseguro que no me parezco a esa persona que conoces."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nunca he querido aconsejarte, no creo que sea mi lugar hacerlo... Solo quería... sentirnos miserables juntos."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? Entonces esa persona que conoces..."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Soy yo... Es por eso que siento que somos similares. Tú tampoco pareces saber... como continuar con la vida."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Cada día es un desafío, notar el vacío que han dejado en tu vida."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo es... y cada día es más difícil... abrir los ojos y mirar hacia delante."
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sobre todo cuando no sabes que vendrá en el futuro."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Acaso tenemos futuro?"
+    },
+    {
+      "character": "Elmer",
+      "portrait": "ElmerTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No lo sé..."
+    },
+    {
+      "character": "Lumina",
+      "portrait": "LuminaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    }
+  ]
+}

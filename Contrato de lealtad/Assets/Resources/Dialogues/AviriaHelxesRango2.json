@@ -1,0 +1,83 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeRiver1",
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "CafeSeaside"
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Helxes, hola?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, Aviria, no te había visto."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Llevo llamándote un rato... Pero bueno, estoy notando que estás un poco... de bajón."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Yo no lo llamaría así, simplemente estoy pensando."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bueno, creo que te vendrá bien desconectar un poco. Voy a hacer un espectáculo de baile, ¿te apuntas a verlo?"
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro que sí."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Entonces vamos para allá."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Das tanta alegría a la gente de tu alrededor..."
+    },
+    {
+      "character": "Aviria",
+      "portrait": "AviriaAlivioB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, gracias, me estoy poniendo colorada."
+    },
+    {
+      "character": "Helxes",
+      "portrait": "HelxesFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Je."
+    }
+  ]
+}

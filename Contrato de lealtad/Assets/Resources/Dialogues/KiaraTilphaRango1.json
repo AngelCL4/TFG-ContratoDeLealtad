@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent8",
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Tilpha, qué es todo esto?",
+      "music": "BewitchedForest"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh, hola Kiara, es mi colección."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tú colección..."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, es como mi hobbie."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esto son gemas y... ¿hierbas encurtidas?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí, ayuda a que se conserven mejor, son hierbas raras."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo... Uh, esta gema parece muy valiosa."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Cuidado con tocarla, es muy valiosa, me gasté el pago de un trabajo entero en comprarla."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? Eso es demasiado caro."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Puede, pero tengo ahorros por eso mismo."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero... es un malgasto de dinero."
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Quizás para tí, pero para mí no."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hay tanta gente que vive en la pobreza... ¿y tú te gastas el dinero en piedras?"
+    },
+    {
+      "character": "Tilpha",
+      "portrait": "TilphaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es dinero que yo misma he conseguido, así que me lo gastaré en lo que consideré. Puedes irte, Kiara."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Definitivamente eso voy a hacer..."
+    }
+  ]
+}

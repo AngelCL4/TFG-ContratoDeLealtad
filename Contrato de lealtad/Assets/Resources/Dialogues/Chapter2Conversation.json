@@ -1,0 +1,98 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "SnowForest1",
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo los muros de Oleana, venga solo un poco más.", 
+      "music": "SnowyDay2"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, por fin, quiero dormir sobre una cama mullida esta noche."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Que floja."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y esa cara?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso que se ve en el horizonte, ¿no es humo?",
+      "music": "Valiant"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? Mierda, tienes razón."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Están atacando Oleana? ¿Quién puede ser?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Seguro que son bandidos, están por todas partes desde que Hislan cayó."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No puedo creer que tras perder a dos reinos el resto decidan que es buena idea dejar sus fronteras abandonadas."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Yo tampoco entiendo que piensan, pero dejemos de hablar, hay gente que nos necesita."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tienes razón, ya habrá tiempo después."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Mercenarios, seguidme."
+    }
+  ]
+}

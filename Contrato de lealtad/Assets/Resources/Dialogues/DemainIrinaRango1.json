@@ -1,0 +1,97 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "FortInterior3",
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hm, hm, hmm...",
+      "music": "Sweet2"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola, Irina. ¿Estás... afilando una espada?"
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ajá, he pensado en poner a punto todo lo que tenemos por aquí, nunca se sabe cuando hará falta."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Impresionante... Habia venido a agradecerte que te unieras a nosotros."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Eh, por qué? Quiero decir... me estás pagando para que esté aquí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Claro, pero siempre podías haberte negado. Con la Dama Dorada a nuestro lado me siento mucho más seguro."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Cómo me iba a negar a esta misión? ¿Restaurar un reino caído? Suena increíble."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Me alegro de eso entonces."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estoy segura de que los bardos escribirán canciones de lo que vamos a conseguir."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Primero tenemos que conseguirlo."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tú no te preocupes, tal y como has dicho, me tienes en tu equipo, esta misión ya está prácticamente cumplida."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ja, tu confianza es bastante contagiosa."
+    },
+    {
+      "character": "Irina",
+      "portrait": "IrinaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Verdad?"
+    }
+  ]
+}

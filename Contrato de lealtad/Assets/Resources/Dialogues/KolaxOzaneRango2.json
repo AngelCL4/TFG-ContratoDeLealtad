@@ -1,0 +1,139 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayForest6",
+      "character": "Ozane",
+      "portrait": "OzaneEnfado",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "...",
+      "music": "Foreboding"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Ozane? ¿Qué haces tan apartada?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Agh, Kolax."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eh... Hola. Pareces molesta."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Porque lo estoy."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Puedo saber la causa?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "La gente no parece tomarse en serio que haya perdido mi sueño, dicen que es un simple tropiezo, y que solo tengo que levantarme."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y supongo que tu piensas lo mismo, con lo fácil que te ha sido abandonar tu pasado en la academia."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Nunca he dicho que haya sido fácil, incluso ahora no lo he abandonado del todo, y quizás nunca sea capaz de abandonarlo."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Pero no puedo quedarme estancado en el pasado. Es como una investigación."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Si no haces progresos, no puedes simplemente rendirte, tienes que cambiar tu enfoque, tienes que descubrir la manera de encontrar un resultado con el que estés satisfecho."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Estás bien?"
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Creo que... necesito tiempo para pensar."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso es bueno, te dejo a ello pues."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Gracias, Kolax."
+    },
+    {
+      "character": "Kolax",
+      "portrait": "KolaxFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "De nada."
+    }
+  ]
+}

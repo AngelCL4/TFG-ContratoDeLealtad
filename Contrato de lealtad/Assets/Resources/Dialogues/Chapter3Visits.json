@@ -1,0 +1,31 @@
+{
+  "visits": [
+    {
+      "x": 14.5,
+      "y": 14.5,
+      "conversation": "Chapter3HouseConversation",
+      "reward": {
+        "nombre": "Tónico de Poder",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 el poder de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Poder",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoPoder"
+      },
+      "visited": false
+    },
+    {
+      "x": 3.5,
+      "y": 12.5,
+      "conversation": "Chapter3InnConversation",
+      "reward": {
+        "nombre": "Contrato"
+      },
+      "visited": false
+    }
+  ]
+}

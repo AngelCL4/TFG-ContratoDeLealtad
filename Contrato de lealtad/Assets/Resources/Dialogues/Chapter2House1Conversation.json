@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse3",
+      "character": "Aldeano4V2",
+      "portrait": "Aldeano4V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué haceis aquí, no veis que hay bandidos por todos lados?"
+    },
+    {
+      "character": "Aldeano4V2",
+      "portrait": "Aldeano4V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué vais a acabar con ellos? Uf, tened cuidado."
+    },
+    {
+      "character": "Aldeano4V2",
+      "portrait": "Aldeano4V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Sois mercenarios verdad? Puede que este contrato os sea útil, un agradecimiento por vuestra valentía."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent",
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Veamos...",
+      "music": "SoftDay2"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Guau, ¿Seiha, que es todo este dinero?"
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, hola Demain, estoy contando mis ahorros."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tienes bastantes."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "De momento, tengo que enviarlos a mi aldea."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Tanto dinero? Que altruista."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es lo menos que puedo hacer. Mi aldea está en una isla del noroeste de Filsai, y el terreno es bastante inhóspito."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿No sería mejor irse de ese lugar?"
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No. La gente tiene todos sus recuerdos en ese lugar, no es tan fácil el marcharse."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Supongo que tienes razón en eso. ¿Te convertirste en mercenaria para ayudarles?"
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí. Descubrí que si me quedaba en la aldea simplemente sería... otra persona más, pero como mercenaria, puedo ayudar a toda la aldea con mi dinero."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Espero que te guardes algo de dinero para tí."
+    },
+    {
+      "character": "Seiha",
+      "portrait": "SeihaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Yo no tengo muchos gastos, así que puedo sobrevivir con poco."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Entiendo."
+    }
+  ]
+}

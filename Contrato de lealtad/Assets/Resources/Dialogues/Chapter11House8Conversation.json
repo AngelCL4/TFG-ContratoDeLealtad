@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse8",
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Bien, el príncipe ha vuelto!"
+    },
+    {
+      "character": "Aldeano8V1",
+      "portrait": "Aldeano8V1",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mi padre hizo esto para él, tomadlo, es una placa forjada."
+    }
+  ]
+}

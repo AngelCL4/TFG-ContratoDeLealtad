@@ -1,0 +1,109 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent6",
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Celsia... Quería pedirte perdón por nuestra última conversación.",
+      "music": "FrozenForest"
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Estaba siendo tan negativa... que no me di cuenta de que tenías razón."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Yo también te debo una disculpa, quizás no tenía razón en todo lo que te decía."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Simplemente centrarte en tu sueño, ignorando el resto de cosas... Quizás no es la mejor manera de vivir la vida."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Te has dado cuenta después de cumplir el tuyo?"
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí... la venganza era mi sueño, y tras cumplirlo me he quedado vacía, nunca quise pensar en lo que vendría después ni en otra cosa mientras lo cumplía."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, como tú dijiste, todos tropezamos, pero tenemos que seguir caminando."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ja, tienes razón. Me... alegro de teneros a todos vosotros, aunque me sienta vacía, siento que en este grupo he ganado algo especial, aunque sea temporal."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenAlivioB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vaya... eso es muy empalagoso."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaTristeB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quizás, pero... tenía que decirlo."
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demain me ha ofrecido abrir una tienda en Hislan, así que si alguna vez necesitas ayuda en eñ futuro, no dudes en pasarte por ahí, ¿vale?"
+    },
+    {
+      "character": "Lilen",
+      "portrait": "LilenFelizB",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No dejaré que nuestra amistad sea algo temporal."
+    },
+    {
+      "character": "Celsia",
+      "portrait": "CelsiaFelizB",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Gracias."
+    }
+  ],
+  "reward": {
+        "nombre": "Peine artesanal",
+        "tipo": "Artefacto",
+        "uso": 1,
+        "cantidad": 0,
+        "descripcion": "Reduce en 10 la suerte a los enemigos a un máximo de 5 casillas.",
+        "valor": -10,
+        "statAfectada": "Suerte",
+        "rango": 5,
+        "afectaAliados": false,
+        "spritePath": "Objects/PlaceholderArtefacto"
+  }
+}

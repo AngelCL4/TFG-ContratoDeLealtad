@@ -1,0 +1,211 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayTimeHills3",
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Los muros de la capital... Ahí están...",
+      "music": "CnocLore"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, y eso de delante parecen enemigos."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Este combate va a ser duro..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Espero poder evitarlo, quiero hablar con su líder antes de avanzar más."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quizás podamos llegar a un acuerdo... Aunque lo veo complicado."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pase lo que pase, te apoyaré. ¡Ah! Alguien viene."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso veo. Lisella, retírate, esto es entre él y yo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vale, pero ten cuidado."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola, tú debes ser Demain. Soy Sorion, uno de los comandantes de Los Liberadores.",
+      "music": "CrypticCanvas"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Los Liberadores, ese es vuestro nombre? ¿Y cómo que uno de sus comandantes?"
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Nuestro grupo tiene varios comandantes, somos demasiados como para que el líder se encargue de todo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y vuestro líder? Quiero hablar con él, necesito saber si este conflicto se puede resolver sin más pelea."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No creo que eso sea posible. Había venido aquí con la esperanzad de que os rindiéseis."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso si que no va a ser posible, tengo como misión restaurar el reino, y no descansaré hasta hacerlo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué habéis destruido el reino? Quiero saber vuestros motivos."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vaya, eso si que no lo esperaba. Nuestros motivos... están en nuestro nombre, Los Liberadores somos un grupo de justicieros, que liberan a la gente destruyendo aquello que les oprime."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso... no tiene sentido."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "El reino de tu padre era un fracaso, incluso si no nos hubiéramos involucrado habría caído por si solo, es gracias a nosotros que aún queda algo de estabilidad."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Y por eso mismo no podemos dejarte restaurar el reino, ya no es necesario, un nuevo mundo, desprovisto de reinos, se está empezando a alzar. Un mundo donde la gente es libre."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Un mundo donde la gente os paga por protección? No me hagáis reir, sois peores que mi padre."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por lo menos reconoces que él era inútil. Sin embargo, es una pena, parece que no va a haber acuerdo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Para nada, nunca dejaré mis tierras en vuestras manos. Os creeis justicieros, pero solo sois unos carroñeros que aprovechasteis la situación para haceros con tierras que no os pertenecen."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Todos nosotros hemos sufrido a manos de gobernadores ineptos, es por eso que no podemos dejar que otra gente lo haga."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Creo que hemos hablado suficiente."
+    },
+    {
+      "character": "Sorion",
+      "portrait": "Sorion",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... Definitivamente. Buena suerte, Demain, la necesitarás."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Demain! ¿Qué ha pasado?",
+      "music": "Dramatic2"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Dile a todos los mercenarios que se preparen, empieza el asedio a la capital."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Entendido."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "eventConversations": [
+    {
+      "turno": 1,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaEnfado",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Aquí vienen."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Intentemos llegar a las entradas de la ciudad baja y aguantar allí, y asegurémonos de que todos los ciudadanos están a salvo."
+        }
+      ]
+    },
+    {
+      "turno": 3,
+      "dialogue": [
+        {
+          "character": "Milau",
+          "portrait": "Milau",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Hmm, solo hay unos pocos soldados aquí... ¿O son mercenarios? Bah, da igual."
+        },
+        {
+          "character": "Milau",
+          "portrait": "Milau",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¡Romped sus defensas y capturad la ciudad baja!"
+        }
+      ]
+    },
+    {
+      "turno": 7,
+      "dialogue": [
+	      {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Los ataques del enemigo se intensifican..."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaNeutral",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Sí... ¿Seguro que podemos aguantar? ¿A quién estamos esperando?"
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "A nada... o se retiran o morimos, así de simple."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaTriste",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Eso es... muy alentador."
+        }
+      ]
+    },
+    {
+      "turno": 13,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaEnfado",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "¿Más enemigos? No puede ser..."
+        },
+	      {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Si siguen perdiendo a más de su gente aquí se darán cuenta de que seguir atacando es mala idea, sigamos aguantando."
+        }
+      ]
+    },
+    {
+      "turno": 18,
+      "dialogue": [
+        {
+          "character": "Lisella",
+          "portrait": "LisellaTriste",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No... puedo más..."
+        },
+	      {
+          "character": "Demain",
+          "portrait": "DemainNeutral",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Lisella, retírate, nosotros podemos aguantar."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaTriste",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "..."
+        },
+        {
+          "character": "Lisella",
+          "portrait": "LisellaEnfado",
+          "position": "right",
+          "facingDirection": "left",
+          "text": "No, no os voy a abandonar. Luchamos juntos."
+        },
+        {
+          "character": "Demain",
+          "portrait": "DemainEnfado",
+          "position": "left",
+          "facingDirection": "right",
+          "text": "Muy bien. ¡Vamos!"
+        }
+      ]
+    }
+  ]
+}

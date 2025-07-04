@@ -1,0 +1,118 @@
+{
+  "visits": [
+    {
+      "x": 4.5,
+      "y": 12.5,
+      "conversation": "Chapter5House1Conversation",
+      "reward": {
+        "nombre": "Contrato"
+      },
+      "visited": false
+    },
+    {
+      "x": 6.5,
+      "y": 15.5,
+      "conversation": "Chapter5House2Conversation",
+      "reward": {
+        "nombre": "Brebaje",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 20PV a la unidad poseedora.",
+        "valor": 20,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Brebaje"
+      },
+      "visited": false
+    },
+    {
+      "x": 7.5,
+      "y": 9.5,
+      "conversation": "Chapter5House3Conversation",
+      "reward": {
+        "nombre": "Tónico de Defensa",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 la defensa de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Defensa",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoDefensa"
+      },
+      "visited": false
+    },
+    {
+      "x": 8.5,
+      "y": 6.5,
+      "conversation": "Chapter5House4Conversation",
+      "reward": {
+        "nombre": "Tónico de Resistencia",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse incrementa en 5 la resistencia de la unidad, que va disminuyendo en 1 cada turno ",
+        "valor": 5,
+        "statAfectada": "Resistencia",
+        "duracion": 5,
+        "decrementoPorTurno": 1,
+        "spritePath": "Objects/TonicoResistencia"
+      },
+      "visited": false
+    },
+    {
+      "x": 10.5,
+      "y": 14.5,
+      "conversation": "Chapter5InnConversation",
+      "reward": {
+        "nombre": "Contrato"
+      },
+      "visited": false
+    },
+    {
+      "x": 13.5,
+      "y": 8.5,
+      "conversation": "Chapter5House5Conversation",
+      "reward": {
+        "nombre": "Brebaje",
+        "tipo": "Curativo",
+        "uso": 0,
+        "cantidad": 3,
+        "descripcion": "Al usarse recupera 20PV a la unidad poseedora.",
+        "valor": 20,
+        "statAfectada": "PV",
+        "duracion": 0,
+        "spritePath": "Objects/Brebaje"
+      },
+      "visited": false
+    },
+    {
+      "x": 14.5,
+      "y": 5.5,
+      "conversation": "Chapter5House6Conversation",
+      "reward": {
+        "nombre": "Contrato"
+      },
+      "visited": false
+    },
+    {
+      "x": 15.5,
+      "y": 12.5,
+      "conversation": "Chapter5House7Conversation",
+      "reward": {
+        "nombre": "Cinturón Lujoso",
+        "tipo": "Potenciador",
+        "uso": 0,
+        "cantidad": 1,
+        "descripcion": "Al usarse aumenta en 2 la habilidad de la unidad.",
+        "valor": 2,
+        "statAfectada": "Habilidad",
+        "duracion": 0,
+        "spritePath": "Objects/CinturonLujoso"
+      },
+      "visited": false
+    }
+  ]
+}

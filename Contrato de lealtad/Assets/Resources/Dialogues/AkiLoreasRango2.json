@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightLakeside",
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... Un poco más...",
+      "music": "Entangle"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Por qué te entrenas tanto?"
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Cómo que por qué? Necesito vengarme del reino de Gheana, por todo lo que le han hecho a mi gente."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Piensas vengarte tú sola de un solo reino? Porque lo veo un poco... difícil."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hay mucha gente que odia al reino de Gheana, como tú. Por eso tengo que hacerme más fuerte, para ser la que los una a todos."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No lo pillo."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí soy lo bastante fuerte, seré capaz de causar una insurrección, todos los que se oponen al reino de Gheana verán lo fuerte que soy y me seguirán, así es cómo podemos vengarnos."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm... venganza..."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué pasa? ¿No piensas que es un buen plan?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No es eso... Es más bien... que yo no tengo un deseo de venganza."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? ¿Entonces no te importan que hayan cazado a tu gente como animales? ¿Vas a seguir soportando esos tratos por toda tu vida?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es cierto que los odio, pero tanto como para querer vengarme... Solo quiero que dejen a mi gente en paz."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Entonces el resto de gente que están sufriendo por su mano no te importa? Muy bien, tu puedes esconderte, pero yo pienso enfrentarme a ellos."
+    },
+    {
+      "character": "Aki",
+      "portrait": "AkiEnfado",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "Adiós"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah... lo siento Aki..."
+    }
+  ]
+}

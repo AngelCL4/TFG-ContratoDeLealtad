@@ -1,0 +1,26 @@
+{
+  "seen": false,
+  "dialogue": [
+    {
+      "character": "Droji",
+      "portrait": "Droji",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Uh, pareces un hermana erudita, una pena que estés desperdiciando tus talentos con esta gente."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tu radar tiene que estar un poco atrofiado, no soy una erudita."
+    },
+    {
+      "character": "Ozane",
+      "portrait": "OzaneEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero aún así, tienes razón, es una pena, una pena que te haya dejado abrir la boca."
+    }
+  ]
+}

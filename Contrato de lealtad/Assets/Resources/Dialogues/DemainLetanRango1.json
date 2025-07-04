@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "DayArmyCamp10",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Buenos días, Letan.",
+      "music": "Harvest2"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Buenas, jefe. ¿Qué haces despierto tan temprano?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Voy a empezar a empaquetar nuestro suministros y pensar en la ruta que vamos a seguir."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Guau, cuanto trabajo, ¿estás seguro de que puedes con todo eso solo?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Puedo hacer ambas cosas a la vez, aunque si quieres ayudarme a empaquetar no me voy a negar."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Vale, aunque también te puedo ayudar a pensar en la ruta, he viajado por estas tierras."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso es verdad, tú también eras de Hislan. ¿No echas de menos tu hogar?"
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué hogar? No tengo nada que llamar hogar allí, pero sí, es donde nací."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Lo siento por eso."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué? No estoy triste por eso."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces... lo retiro."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así me gusta, ahora pongámonos manos a la obra."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mmm... me cuesta comprender lo que le pasa por la cabeza..."
+    },
+    {
+      "character": "Letan",
+      "portrait": "LetanNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Has dicho algo?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No, no es nada."
+    }
+  ]
+}

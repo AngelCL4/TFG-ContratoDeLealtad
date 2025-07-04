@@ -1,0 +1,104 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightVillage2",
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "...No hay suerte.",
+      "music": "Memories6"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Que haces aquí tan tarde, Ipris?"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Oh, hola Demain. Estaba... pensando."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Es algo que puedes compartir conmigo?"
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es... algo personal."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entiendo."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Te vas a quedar aquí?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si no te importa. No hace falta que me cuentes lo que te pasa, pero tener a alguien cerca siempre ayuda."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "..."
+    },
+    {
+      "character": "Ipris",
+      "portrait": "IprisNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Esas palabras... tienen mucha razón."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Me alegro de oírlo."
+    }
+  ]
+}

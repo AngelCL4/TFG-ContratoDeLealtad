@@ -1,0 +1,181 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightLakeside2",
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah... ah...",
+      "music": "LimpidWater"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Loreas, qué haces despierto tan tarde?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Demain? Podría preguntarte lo mismo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Me estaba costando dormirme así que había pensado en dar una vuelta."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Es una buena idea."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Y tú, por qué estás aquí?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "He... tenido una pesadilla. No es la primera vez que me pasa, debería estar acostumbrado."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Si quieres, puedes dar una vuelta conmigo, a lo mejor eso te ayuda a despejarte."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "...Vale, vamos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces... ¿que pasaba en la pesadilla? Quizás hablar de ello te ayude."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Estaba siendo perseguido."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Perseguido? Mmm, ¿estás nervioso por algo?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Supongo que haya gente que quiera acabar contigo te puede causar nervios."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Como no eres de Gheana imagino que no sabrás la historia de los ulíseos."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Se que son gente de Gheana."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí, ¿y sabes que estan siendo perseguidos y asesinados por el reino?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso no. ¿Tú eres...?"
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Un ulíseo? Sí, mi aldea fue destruida cuando era un niño, y tuve suerte de salir de allí con vida. He estado sobreviviendo como puedo desde aquel día."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso es horrible..."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Sí... Incluso ahora mi gente sigue siendo cazada por el reino de Gheana, y por muy lejos que este siento que nunca estaré a salvo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Así que ese es el origen de tus pesadillas... Lo siento."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué? No tienes culpa de nada."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Por no poder ayudar."
+    },
+    {
+      "character": "Loreas",
+      "portrait": "LoreasNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No pasa nada, solo con tu presencia ya ayudas en cierta manera."
+    }
+  ]
+}

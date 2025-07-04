@@ -1,0 +1,248 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "BuildingInterior3",
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "...",
+      "music": "Poema"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "left",
+      "text": "¿Qué puedo hacer...?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demain, he vuelto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ah, Lisella, ¿cómo va la situación en la ciudad?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Mal..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Cómo de mal?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "La ciudad está rodeada de los Colmillos Púrpura desde todos los lados."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Eso... es muy mal, ¿estamos bajo asedio?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Todavía no parece que estén dispuestos a atacar, pero no dudaría en que lo hiciesen pronto."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y seguimos sin noticias del ejército de Mildea..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿De verdad el rey ha abandonado a sus súbditos...? Si él no puede defender su reino, que voy a poder hacer yo..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demain, para, pensar eso no te puede ayudar de ninguna manera."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No puedo... son dudas legítimas, no puedo restaurar el reino si no voy a ser capaz de defenderlo luego."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "right",
+      "text": "¡Ah!",
+      "music": "Augury"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Campanas?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Vamos fuera."
+    },
+    {
+      "backgroundChange": "DayCity",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué está pasando?"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¡Empieza el ataque!"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Ya veo, hay que reunir a los mercenarios."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaEnfado",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sí."
+    },
+    {
+      "backgroundChange": "DayHouseExterior2",
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Espera, ¿dónde están los soldados? ¿Por qué esta la ciudad baja vacía?"
+    },
+    {
+      "character": "Aldeano3V2",
+      "portrait": "Aldeano3V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "No hay suficientes soldados para defender toda la ciudad, así que se han ido a la ciudad alta, nos han dicho que nos retiremos pero... no quiero abandonar mi hogar."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainIncomodidad",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tiene que ser una broma... Es normal que no quieras abandonar tu hogar, yo te defenderé."
+    },
+    {
+      "character": "Aldeano3V2",
+      "portrait": "Aldeano3V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Gracias..."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Demain, que susto, no te encontraba. Todos los mercenarios están aquí."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Bien, vamos a defender la ciudad baja.",
+      "music": "Valiant"
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Qué?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Los soldados les han abandonado, y no pienso hacer lo mismo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaIncomodidad",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero... Estamos en una clara desventaja."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainEnfado",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "No me importa, si tengo que morir, que sea protegiendo a la gente que no puede hacerlo. Tú puedes irte si quieres."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaTriste",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "...Sabes que no voy a hacerlo."
+    },
+    {
+      "character": "Lisella",
+      "portrait": "LisellaNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hagámoslo Demain, aguantemos, ayudemos a esta gente."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias Lisella."
+    }
+  ]
+}

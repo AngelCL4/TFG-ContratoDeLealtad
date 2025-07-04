@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideTent8",
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Oh.",
+      "music": "Enjoyable"
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Y esta moneda?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Hola Kiara, se me acaba de caer mientras contaba lo que tenemos."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Tiene un grabado precioso..."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es una moneda real de Hislan, bastante rara."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y la vas a usar para pagarnos... Bueno, no me voy a quejar."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eso sería raro, he oído de otra gente que te encanta el dinero."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Y tienen razon, espera, ¿vas a subirme el pago?"
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Eh... de momento no."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "De momento, ¿eh? Entonces voy a esforzarme el doble para que lo reconsideres."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Es bueno saber que te motivas tan fácilmente."
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Así soy yo."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero, ¿para que quieres tanto dinero?"
+    },
+    {
+      "character": "Kiara",
+      "portrait": "KiaraNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Lo siento, pero eso es un secreto de mujer."
+    },
+    {
+      "character": "Demain",
+      "portrait": "DemainNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Un secreto de mujer... Vale..."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "NightArmyCamp2",
+      "character": "Onirie",
+      "portrait": "OnirieTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Quería pedirte perdón por lo que te dije la última vez, otra vez...",
+      "music": "GentleTheme2Piano"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ja, no hace falta que te preocupes de nuevo, sobre todo cuando tienes razón."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Aún así..."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Quería pedirte algo, ¿puedo estudiar contigo?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Qué? ¿Por qué?"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tenías razón en que estaba rebajándome, ni siquiera quería intentar empezar a formarme académicamente, ya lo daba como algo perdido."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Pero no puedo rendirme, no si quiero restaurar la gloria de mi familia, tengo que dar todo lo que tengo por el futuro de la gente que depende de mí."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Phesen..."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "¿Me ayudarás?"
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hmm... si tantas ganas tienes, no veo por que negarme, aunque nos tomaremos las cosas con moderación, es algo que he aprendido recientemente..."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Ah, que alivio, pensaba que dirías que no."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieNeutral",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "¿Por qué?"
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenNeutral",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Bueno, no creo que nuestro niveles estén a la par ni mucho menos, pensaba que no te apetecería empezar desde cero."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieFeliz",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Hace mucho tiempo que no repaso desde el principio, y siempre se pueden aprender cosas nuevas de libros ya leídos, no veo nada malo en ello."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenAlivio",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Entonces... Gracias, Onirie."
+    },
+    {
+      "character": "Onirie",
+      "portrait": "OnirieTriste",
+      "position": "left",
+      "facingDirection": "right",
+      "text": "Gracias a ti Phesen, por no enfadarte con todas las cosas que te he dicho."
+    },
+    {
+      "character": "Phesen",
+      "portrait": "PhesenFeliz",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Todo eso está en el pasado."
+    }
+  ],
+  "reward": {
+        "nombre": "Apuntes nuevos",
+        "tipo": "Artefacto",
+        "uso": 1,
+        "cantidad": 0,
+        "descripcion": "Aumenta en 5 el poder a ti y a los aliados a un máximo de 3 casillas.",
+        "valor": 5,
+        "statAfectada": "Poder",
+        "rango": 3,
+        "afectaAliados": true,
+        "spritePath": "Objects/PlaceholderArtefacto"
+  }
+}

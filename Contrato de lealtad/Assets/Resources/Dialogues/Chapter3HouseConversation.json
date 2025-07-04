@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "backgroundChange": "InsideHouse6",
+      "character": "Aldeano13V2",
+      "portrait": "Aldeano13V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Sois viajeros, ¿verdad? Os agradecería su pudieras acabar con esos bandidos de ahí fuera."
+    },
+    {
+      "character": "Aldeano13V2",
+      "portrait": "Aldeano13V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "He podido conservar mi vida gracias a darles la mayoría de mis posesiones, pero ya no puedo aguantarlo más."
+    },
+    {
+      "character": "Aldeano13V2",
+      "portrait": "Aldeano13V2",
+      "position": "right",
+      "facingDirection": "left",
+      "text": "Tomad este tónico para ayudaros, si os lo tomáis os hará más poderosos, aunque solo por un tiempo."
+    }
+  ]
+}
