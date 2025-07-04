@@ -408,13 +408,13 @@ public class UnitLoader : MonoBehaviour
     public void SubirNivel(Unidad unidad)
     {
         unidad.nivel++;
-        unidad.MaxPV += CheckStatIncrease(unidad.probabilidadesCrecimiento[0]);
-        unidad.poder += CheckStatIncrease(unidad.probabilidadesCrecimiento[1]);
-        unidad.habilidad += CheckStatIncrease(unidad.probabilidadesCrecimiento[2]);
-        unidad.velocidad += CheckStatIncrease(unidad.probabilidadesCrecimiento[3]);
-        unidad.suerte += CheckStatIncrease(unidad.probabilidadesCrecimiento[4]);
-        unidad.defensa += CheckStatIncrease(unidad.probabilidadesCrecimiento[5]);
-        unidad.resistencia += CheckStatIncrease(unidad.probabilidadesCrecimiento[6]);
+        unidad.MaxPV += SubidaDeEstadistica(unidad.probabilidadesCrecimiento[0]);
+        unidad.poder += SubidaDeEstadistica(unidad.probabilidadesCrecimiento[1]);
+        unidad.habilidad += SubidaDeEstadistica(unidad.probabilidadesCrecimiento[2]);
+        unidad.velocidad += SubidaDeEstadistica(unidad.probabilidadesCrecimiento[3]);
+        unidad.suerte += SubidaDeEstadistica(unidad.probabilidadesCrecimiento[4]);
+        unidad.defensa += SubidaDeEstadistica(unidad.probabilidadesCrecimiento[5]);
+        unidad.resistencia += SubidaDeEstadistica(unidad.probabilidadesCrecimiento[6]);
         if (barraVida != null)
         {
             barraVida.ActualizarPV();
@@ -422,7 +422,7 @@ public class UnitLoader : MonoBehaviour
         Debug.Log($"{unidad.nombre} subió de nivel.");
     }
 
-    public int CheckStatIncrease(int crecimiento)
+    public int SubidaDeEstadistica(int crecimiento)
     {
         int incremento = 0;
         // Si la probabilidad es más de 100, se otorga un punto de forma automática y se calcula el siguiente

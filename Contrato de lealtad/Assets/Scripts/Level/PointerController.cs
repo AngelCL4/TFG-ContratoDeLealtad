@@ -49,7 +49,7 @@ public class PointerController : MonoBehaviour
     private void Update()
     {
         if (!TurnManager.Instance.conversationFinished) return;
-         // Mientras algún menú esté activo, no se puede mover el puntero
+        // Mientras algún menú esté activo, no se puede mover el puntero
         if ((tutorialMenu != null && tutorialMenu.Activo) || (settingsMenu != null && settingsMenu.gameObject.activeSelf) || (objectiveMenu != null && objectiveMenu.gameObject.activeSelf))
         {
             if (combatMenu.MenuActivo)
@@ -67,7 +67,7 @@ public class PointerController : MonoBehaviour
         if (combatMenu != null && combatMenu.MenuActivo)
             return;
 
-        HandleMovement();
+        HandleMovement(); //Función encargada del movimiento del puntero
         VerificarUnidadBajoCursor(); // Verificación de la unidad bajo el puntero para mostrar UnidadInfoUI
 
         if (Input.GetKeyDown(KeyCode.A))
