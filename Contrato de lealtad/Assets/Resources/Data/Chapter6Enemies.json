@@ -1,7 +1,7 @@
 {
   "enemigos": [
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 17,
@@ -47,7 +47,7 @@
       "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 14,
@@ -93,7 +93,7 @@
       "ia": "Defensiva"
     },
     {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -139,7 +139,7 @@
         "ia": "Ofensiva"
     },
     {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 13,
@@ -185,7 +185,7 @@
         "ia": "Ofensiva"
     },
     {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -231,7 +231,7 @@
         "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 12,
@@ -277,7 +277,7 @@
       "ia": "Defensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 14,
@@ -323,7 +323,7 @@
       "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 21,
@@ -369,7 +369,7 @@
       "ia": "Defensiva"
     },
     {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -415,7 +415,7 @@
         "ia": "Defensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 14,
@@ -461,7 +461,7 @@
       "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 15,
@@ -507,7 +507,7 @@
       "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 14,
@@ -553,7 +553,7 @@
       "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 15,
@@ -599,7 +599,7 @@
       "ia": "Ofensiva"
     },
     {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -645,7 +645,7 @@
         "ia": "Defensiva"
     },
     {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -691,7 +691,7 @@
         "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 21,
@@ -737,7 +737,7 @@
       "ia": "Defensiva"
     },
     {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 13,
@@ -783,7 +783,7 @@
         "ia": "Ofensiva"
     },
     {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -829,7 +829,7 @@
         "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 12,
@@ -875,7 +875,7 @@
       "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 14,
@@ -921,7 +921,7 @@
       "ia": "Defensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 17,
@@ -967,7 +967,7 @@
       "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 14,
@@ -1013,7 +1013,7 @@
       "ia": "Ofensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 13,
@@ -1105,7 +1105,7 @@
       "ia": "Defensiva"
     },
     {
-      "nombre": "Bandido",
+      "nombre": "Mercenario",
       "nivel": 1,
       "experiencia": 0,
       "PV": 15,

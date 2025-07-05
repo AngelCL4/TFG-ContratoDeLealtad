@@ -87,15 +87,15 @@ public class GameManager : MonoBehaviour
 
     private DatosJuego CargarDatosJuegoNuevo()
     {
-        TextAsset jsonData = Resources.Load<TextAsset>("unitsData");
-        if (jsonData == null)
+        string path = Path.Combine(Application.persistentDataPath, "unitsData.json");
+        if (!File.Exists(path))
         {
-            Debug.LogError("No se pudo encontrar el archivo unitsData.json");
+            Debug.LogError("No se encontró el archivo unitsData.json");
             return null;
         }
 
-        DatosJuego datosJuego = JsonConvert.DeserializeObject<DatosJuego>(jsonData.text);
-        return datosJuego;
+        string json = File.ReadAllText(path);
+        return JsonConvert.DeserializeObject<DatosJuego>(json);
     }
 
     private ChapterData CargarDatosCapitulosJuegoNuevo()

@@ -2,7 +2,7 @@
   "refuerzos": [
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -53,7 +53,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -104,7 +104,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -155,7 +155,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -206,7 +206,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -257,7 +257,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -308,7 +308,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -359,7 +359,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -410,7 +410,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -461,7 +461,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -512,7 +512,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -563,7 +563,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -614,7 +614,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -665,7 +665,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -716,7 +716,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -767,7 +767,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -818,7 +818,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -869,7 +869,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -920,7 +920,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -971,7 +971,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1022,7 +1022,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1073,7 +1073,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1124,7 +1124,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -1175,7 +1175,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -1226,7 +1226,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -1277,7 +1277,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1328,7 +1328,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1379,7 +1379,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -1430,7 +1430,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -1481,7 +1481,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -1532,7 +1532,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1583,7 +1583,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1634,7 +1634,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1685,7 +1685,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1736,7 +1736,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -1787,7 +1787,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -1838,7 +1838,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -1889,7 +1889,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1940,7 +1940,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -1991,7 +1991,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -2042,7 +2042,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -2093,7 +2093,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -2144,7 +2144,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2195,7 +2195,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2246,7 +2246,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2297,7 +2297,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2348,7 +2348,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -2399,7 +2399,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -2450,7 +2450,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -2501,7 +2501,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2552,7 +2552,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2603,7 +2603,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 16,
@@ -2654,7 +2654,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -2705,7 +2705,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -2756,7 +2756,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2807,7 +2807,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2858,7 +2858,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2909,7 +2909,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -2960,7 +2960,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -3011,7 +3011,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 17,
@@ -3062,7 +3062,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3113,7 +3113,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -3164,7 +3164,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 13,
@@ -3215,7 +3215,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3266,7 +3266,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3317,7 +3317,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -3368,7 +3368,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 13,
@@ -3419,7 +3419,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3470,7 +3470,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3521,7 +3521,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -3572,7 +3572,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 13,
@@ -3623,7 +3623,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3674,7 +3674,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3725,7 +3725,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -3776,7 +3776,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 13,
@@ -3827,7 +3827,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3878,7 +3878,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -3929,7 +3929,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -3980,7 +3980,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 13,
@@ -4031,7 +4031,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -4082,7 +4082,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
@@ -4133,7 +4133,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 15,
@@ -4184,7 +4184,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 13,
@@ -4235,7 +4235,7 @@
     },
     {
       "unidad": {
-        "nombre": "Bandido",
+        "nombre": "Mercenario",
         "nivel": 1,
         "experiencia": 0,
         "PV": 14,
