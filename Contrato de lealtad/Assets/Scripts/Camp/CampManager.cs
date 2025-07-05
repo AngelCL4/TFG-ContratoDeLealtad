@@ -19,9 +19,9 @@ public class CampManager : MonoBehaviour
     private GameManager gameManager;
 
     // Rutas de guardado de archivos de unidades, capítulos y desbloqueos
-    private string unidadSavePath = "Assets/Resources/unitsData_partida.json";
-    private string chapterSavePath = "Assets/Resources/chapterData_partida.json";
-    private string unlockedSavePath = "Assets/Resources/unlockedChapters_partida.json";
+    private string unidadSavePath;
+    private string chapterSavePath;
+    private string unlockedSavePath;
 
     public static CampManager Instance { get; private set; }
 
@@ -35,6 +35,10 @@ public class CampManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        unidadSavePath = Path.Combine(Application.persistentDataPath, "unitsData_partida.json");
+        chapterSavePath = Path.Combine(Application.persistentDataPath, "chapterData_partida.json");
+        unlockedSavePath = Path.Combine(Application.persistentDataPath, "unlockedChapters_partida.json");
     }
 
     private void Start()

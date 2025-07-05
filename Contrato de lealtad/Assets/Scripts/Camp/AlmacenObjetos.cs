@@ -9,12 +9,14 @@ public class AlmacenObjetos : MonoBehaviour
     public static AlmacenObjetos Instance { get; private set; }
     public List<Objeto> objetosAlmacenados = new();
 
-    private string almacenSavePath = "Assets/Resources/objetosAlmacenados.json"; //Archivo json donde se guardan los objetos
+    private string almacenSavePath; //Archivo json donde se guardan los objetos
 
     private void Awake()
     {
         if (Instance != null && Instance != this) Destroy(gameObject);
         else Instance = this;
+        
+        almacenSavePath = Path.Combine(Application.persistentDataPath, "objetosAlmacenados.json");
     }
     
     // Incluir objeto en el almacen

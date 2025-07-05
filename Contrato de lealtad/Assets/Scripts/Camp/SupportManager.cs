@@ -286,13 +286,13 @@ public class SupportManager : MonoBehaviour
     public static SupportManager Instance { get; private set; }
     private Dictionary<(string, string), int> afectos = new();
 
-    private string basePath = "Assets/Resources/apoyos.json"; // Archivo base (nunca se sobrescribe)
-    private string savePath = "Assets/Resources/apoyos_partida.json"; // Archivo de guardado
-    private string afectoPath = "Assets/Resources/afectos_partida.json";
+    private string basePath = "apoyos"; // Archivo base (nunca se sobrescribe)
+    private string savePath => Path.Combine(Application.persistentDataPath, "apoyos_partida.json"); // Archivo de guardado
+    private string afectoPath => Path.Combine(Application.persistentDataPath, "afectos_partida.json");
     private List<ApoyoPendiente> apoyosPendientes = new(); // Apoyos esperando desbloqueo
-    private string pendientesPath = "Assets/Resources/apoyos_pendientes.json";
+    private string pendientesPath => Path.Combine(Application.persistentDataPath, "apoyos_pendientes.json");
     private List<DesvioPendiente> desviosPendientes = new(); // Desvíos esperando desbloqueo
-    private string desviosPendientesPath = "Assets/Resources/desvios_pendientes.json";
+    private string desviosPendientesPath => Path.Combine(Application.persistentDataPath, "desvios_pendientes.json");
     private DatosApoyo datosApoyo;
 
     private void Awake()
@@ -319,16 +319,19 @@ public class SupportManager : MonoBehaviour
             datosApoyo = JsonConvert.DeserializeObject<DatosApoyo>(json);
             Debug.Log("Datos de apoyo cargados desde partida: " + datosApoyo.conversaciones.Count);
         }
-        else if (File.Exists(basePath))
-        {
-            string json = File.ReadAllText(basePath);
-            datosApoyo = JsonConvert.DeserializeObject<DatosApoyo>(json);
-            Debug.Log("Datos de apoyo cargados desde base: " + datosApoyo.conversaciones.Count);
-        }
         else
         {
-            Debug.LogWarning("No se encontraron archivos de apoyo.");
-            datosApoyo = new DatosApoyo();
+            TextAsset baseJson = Resources.Load<TextAsset>(basePath);
+            if (baseJson != null)
+            {
+                datosApoyo = JsonConvert.DeserializeObject<DatosApoyo>(baseJson.text);
+                Debug.Log("Datos de apoyo cargados desde base: " + datosApoyo.conversaciones.Count);
+            }
+            else
+            {
+                Debug.LogWarning("No se encontró el archivo base de apoyos en Resources.");
+                datosApoyo = new DatosApoyo();
+            }
         }
 
         // Cargado de puntos de afecto
@@ -385,11 +388,11 @@ public class SupportManager : MonoBehaviour
         }
 
         // Reseteo de los datos en memoria cargando desde el archivo base
-        if (File.Exists(basePath))
+        TextAsset baseJson = Resources.Load<TextAsset>(basePath);
+        if (baseJson != null)
         {
-            string json = File.ReadAllText(basePath);
-            datosApoyo = JsonConvert.DeserializeObject<DatosApoyo>(json);
-            Debug.Log("Datos de apoyo restaurados desde base.");
+            datosApoyo = JsonConvert.DeserializeObject<DatosApoyo>(baseJson.text);
+            Debug.Log("Datos de apoyo restaurados desde base");
         }
         else
         {

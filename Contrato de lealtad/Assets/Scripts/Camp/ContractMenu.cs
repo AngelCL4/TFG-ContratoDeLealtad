@@ -33,8 +33,6 @@ public class ContractMenu : MonoBehaviour
 
     private MenuState currentState;
 
-    private string unitsDataPath = "Assets/Resources/unitsData.json";
-
     public void Start()
     {
         currentState = MenuState.Initialization;
@@ -56,7 +54,25 @@ public class ContractMenu : MonoBehaviour
 
     private void LoadUnitsData()
     {
-        string json = File.ReadAllText(unitsDataPath);
+        string savePath = Path.Combine(Application.persistentDataPath, "unitsData.json");
+
+        string json;
+
+        if (File.Exists(savePath))
+        {
+            json = File.ReadAllText(savePath);
+        }
+        else
+        {
+            TextAsset jsonFile = Resources.Load<TextAsset>("unitsData");
+            if (jsonFile == null)
+            {
+                Debug.LogError("unitsData.json no existe");
+                return;
+            }
+            json = jsonFile.text;
+        }
+
         DatosJuego unitData = JsonConvert.DeserializeObject<DatosJuego>(json);
         availableUnits = new List<Unidad>();
 
@@ -233,8 +249,23 @@ public class ContractMenu : MonoBehaviour
         // Cambiar el estado del mercenario a "Reclutado"
         selectedUnit.estado = "Reclutado";
 
+        string savePath = Path.Combine(Application.persistentDataPath, "unitsData.json");
+        DatosJuego unitData;
+        if (File.Exists(savePath))
+        {
+            unitData = JsonConvert.DeserializeObject<DatosJuego>(File.ReadAllText(savePath));
+        }
+        else
+        {
+            TextAsset jsonFile = Resources.Load<TextAsset>("unitsData");
+            if (jsonFile == null)
+            {
+                Debug.LogError("No se encontró unitsData.json en Resources.");
+                return;
+            }
+            unitData = JsonConvert.DeserializeObject<DatosJuego>(jsonFile.text);
+        }
         // Buscar y actualizar solo la unidad reclutada en la lista de unidades disponibles
-        DatosJuego unitData = JsonConvert.DeserializeObject<DatosJuego>(File.ReadAllText(unitsDataPath));
         for (int i = 0; i < unitData.unidades.Length; i++)
         {
             if (unitData.unidades[i].nombre == selectedUnit.nombre)
@@ -246,7 +277,7 @@ public class ContractMenu : MonoBehaviour
 
         // Guardado de los datos actualizados en el archivo JSON
         string json = JsonConvert.SerializeObject(unitData, Formatting.Indented);
-        File.WriteAllText(unitsDataPath, json);
+        File.WriteAllText(savePath, json);
         GameManager.Instance.datosJuego = unitData;
 
         // Reducir los contratos

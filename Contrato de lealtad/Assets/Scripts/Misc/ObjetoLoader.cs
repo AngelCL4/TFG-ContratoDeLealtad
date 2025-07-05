@@ -13,7 +13,7 @@ public class ObjetoLoader : MonoBehaviour
         TextAsset jsonData = Resources.Load<TextAsset>("objetos");
         if (jsonData != null)
         {
-            DatosObjetos datos = JsonUtility.FromJson<DatosObjetos>(jsonData.text);
+            datos = JsonUtility.FromJson<DatosObjetos>(jsonData.text);
             objetosDisponibles = new List<Objeto>(datos.objetos);
             Debug.Log($"Objetos cargados: {objetosDisponibles.Count}");
         }

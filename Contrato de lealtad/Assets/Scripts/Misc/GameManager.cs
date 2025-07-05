@@ -68,7 +68,7 @@ public class GameManager : MonoBehaviour
         }
 
         // Eliminacion de archivos persistentes
-        string path = Application.persistentDataPath + "/persistentData.json";
+        string path = Path.Combine(Application.persistentDataPath, "persistentData.json");
         if (File.Exists(path))
             File.Delete(path);
             
@@ -87,16 +87,14 @@ public class GameManager : MonoBehaviour
 
     private DatosJuego CargarDatosJuegoNuevo()
     {
-        string path = Path.Combine(Application.dataPath, "Resources/unitsData.json");
-
-        if (!File.Exists(path))
+        TextAsset jsonData = Resources.Load<TextAsset>("unitsData");
+        if (jsonData == null)
         {
             Debug.LogError("No se pudo encontrar el archivo unitsData.json");
             return null;
         }
 
-        string json = File.ReadAllText(path);
-        DatosJuego datosJuego = JsonConvert.DeserializeObject<DatosJuego>(json);
+        DatosJuego datosJuego = JsonConvert.DeserializeObject<DatosJuego>(jsonData.text);
         return datosJuego;
     }
 
@@ -128,9 +126,9 @@ public class GameManager : MonoBehaviour
 
     public void CargarDatosPartida()
     {
-        string unidadSavePath = "Assets/Resources/unitsData_partida.json";
-        string chapterSavePath = "Assets/Resources/chapterData_partida.json";
-        string unlockedSavePath = "Assets/Resources/unlockedChapters_partida.json";
+        string unidadSavePath = Path.Combine(Application.persistentDataPath, "unitsData_partida.json");
+        string chapterSavePath = Path.Combine(Application.persistentDataPath, "chapterData_partida.json");
+        string unlockedSavePath = Path.Combine(Application.persistentDataPath, "unlockedChapters_partida.json");
 
         if (File.Exists(unidadSavePath))
         {
@@ -201,7 +199,7 @@ public class GameManager : MonoBehaviour
             }
         }
 
-        string path = Application.dataPath + "/Resources/unitsData.json";
+        string path = Path.Combine(Application.persistentDataPath, "unitsData.json");
         string json = JsonConvert.SerializeObject(datosJuego, Formatting.Indented);
         File.WriteAllText(path, json);
 
@@ -211,12 +209,11 @@ public class GameManager : MonoBehaviour
     // Restauración de los datos de las unidades a sus versiones base
     private void RestaurarUnitsDataBase()
     {
-        string basePath = Path.Combine(Application.dataPath, "Resources/unitsData_base.json");
-        string destinoPath = Path.Combine(Application.dataPath, "Resources/unitsData.json");
-
-        if (File.Exists(basePath))
+        TextAsset baseData = Resources.Load<TextAsset>("unitsData_base");
+        if (baseData != null)
         {
-            File.Copy(basePath, destinoPath, true);
+            string destinoPath = Path.Combine(Application.persistentDataPath, "unitsData.json");
+            File.WriteAllText(destinoPath, baseData.text);
             Debug.Log("unitsData.json restaurado desde unitsData_base.json");
         }
         else
@@ -228,7 +225,7 @@ public class GameManager : MonoBehaviour
     // Guardado de unidades en el json de la partida en curso
     public void GuardarUnidadesEnJson()
     {
-        string path = Path.Combine(Application.dataPath, "Resources/unitsData.json");
+        string path = Path.Combine(Application.persistentDataPath, "unitsData.json");
         string json = JsonConvert.SerializeObject(datosJuego, Formatting.Indented);
         File.WriteAllText(path, json);
         Debug.Log("Unidades guardadas con clase y objeto actualizado.");
@@ -351,7 +348,7 @@ public class GameManager : MonoBehaviour
         GameObject.Destroy(tempGO);
     }
 
-    private string persistentDataPath => Application.persistentDataPath + "/persistentData.json";
+    private string persistentDataPath => Path.Combine(Application.persistentDataPath, "persistentData.json");
 
     public void GuardarDatosPersistentes()
     {
