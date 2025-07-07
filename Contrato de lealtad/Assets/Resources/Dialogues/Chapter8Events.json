@@ -25,15 +25,15 @@
         {
           "character": "Droji",
           "portrait": "Droji",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Así que el príncipe y su séquito ya han llegado hasta aquí..."
         },
         {
           "character": "Droji",
           "portrait": "Droji",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "No les dejaré avanzar, este lugar será su tumba."
         }
       ]
@@ -51,8 +51,8 @@
         {
           "character": "Demain",
           "portrait": "DemainEnfado",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "No lo sé. Vamos a expulsar a estos mercenarios primero, luego podemos obtener respuestas."
         }
       ]

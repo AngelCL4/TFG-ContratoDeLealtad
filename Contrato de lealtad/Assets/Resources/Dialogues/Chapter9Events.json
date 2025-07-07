@@ -60,15 +60,15 @@
         {
           "character": "Finuin",
           "portrait": "Finuin",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "¿Este grupo tan pequeño ha podido con...? No, no debería subestimarlos."
         },
         {
           "character": "Finuin",
           "portrait": "Finuin",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "¡No pasarán de aquí! Atacad sin piedad."
         }
       ]

@@ -1590,8 +1590,8 @@
             "x": 18,
             "y": 11,
             "terrain": "Wall46",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -2070,8 +2070,8 @@
             "x": 18,
             "y": 8,
             "terrain": "Wall44",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -2870,8 +2870,8 @@
             "x": 18,
             "y": 3,
             "terrain": "Wall46",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {

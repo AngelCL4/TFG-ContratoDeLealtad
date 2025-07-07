@@ -1462,8 +1462,8 @@
             "x": 27,
             "y": 18,
             "terrain": "Wall6",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -4527,8 +4527,8 @@
             "y": 5,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 8,
@@ -4686,8 +4686,8 @@
             "x": 27,
             "y": 5,
             "terrain": "Wall4",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -4775,8 +4775,8 @@
             "y": 4,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 8,

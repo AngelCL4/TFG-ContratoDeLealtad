@@ -487,8 +487,8 @@
             "y": 21,
             "terrain": "River3",
             "rotation": 0.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 15,
@@ -1031,8 +1031,8 @@
             "y": 18,
             "terrain": "River3",
             "rotation": 0.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 14,
@@ -1063,8 +1063,8 @@
             "y": 18,
             "terrain": "River3",
             "rotation": 0.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 18,
@@ -2447,8 +2447,8 @@
             "y": 10,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 7,
@@ -2631,8 +2631,8 @@
             "y": 9,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 7,
@@ -2719,8 +2719,8 @@
             "y": 9,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 18,
@@ -4422,15 +4422,7 @@
     "playerSpawnPositions": [
         {
             "x": 0.0,
-            "y": 17.0
-        },
-        {
-            "x": 0.0,
             "y": 16.0
-        },
-        {
-            "x": 0.0,
-            "y": 18.0
         },
         {
             "x": 0.0,
@@ -4438,13 +4430,25 @@
         },
         {
             "x": 0.0,
-            "y": 14.0
+            "y": 17.0
+        },
+        {
+            "x": 0.0,
+            "y": 16.0
         },
         {
             "x": 0.0,
             "y": 13.0
         },
         {
+            "x": 0.0,
+            "y": 12.0
+        },
+        {
+            "x": 1.0,
+            "y": 12.0
+        },
+        {
             "x": 1.0,
             "y": 13.0
         },
@@ -4465,8 +4469,8 @@
             "y": 17.0
         },
         {
-            "x": 1.0,
-            "y": 18.0
+            "x": 2.0,
+            "y": 13.0
         },
         {
             "x": 2.0,
@@ -4481,8 +4485,8 @@
             "y": 16.0
         },
         {
-            "x": 2.0,
-            "y": 17.0
+            "x": 3.0,
+            "y": 14.0
         },
         {
             "x": 3.0,
@@ -4495,14 +4499,10 @@
         {
             "x": 3.0,
             "y": 17.0
-        },
-        {
-            "x": 3.0,
-            "y": 18.0
         },
         {
             "x": 4.0,
-            "y": 16.0
+            "y": 15.0
         }
     ],
     "enemySpawnPositions": [

@@ -227,6 +227,21 @@ public class InventoryMenu : MonoBehaviour
         if (antiguo != null && !string.IsNullOrEmpty(antiguo.nombre))
             AlmacenObjetos.Instance.AñadirObjeto(antiguo);
 
+        // Guardar el cambio de objeto en los datos del juego
+        int index = -1;
+        for (int i = 0; i < GameManager.Instance.datosJuego.unidades.Length; i++)
+        {
+            if (GameManager.Instance.datosJuego.unidades[i].nombre == unidad.nombre)
+            {
+                index = i;
+                break;
+            }
+        }
+        if (index != -1)
+        {
+            GameManager.Instance.datosJuego.unidades[index] = unidad;
+        }
+
         almacenMenu.SetActive(false);
         MostrarListaPersonajes();
         UpdateSelectionVisual();
@@ -240,6 +255,21 @@ public class InventoryMenu : MonoBehaviour
             AlmacenObjetos.Instance.AñadirObjeto(unidad.objeto);
             unidad.objeto = null;
             Debug.Log($"{unidad.nombre} ha sido desequipado.");
+        }
+
+        // Guardar el cambio de objeto en los datos del juego
+        int index = -1;
+        for (int i = 0; i < GameManager.Instance.datosJuego.unidades.Length; i++)
+        {
+            if (GameManager.Instance.datosJuego.unidades[i].nombre == unidad.nombre)
+            {
+                index = i;
+                break;
+            }
+        }
+        if (index != -1)
+        {
+            GameManager.Instance.datosJuego.unidades[index] = unidad;
         }
 
         almacenMenu.SetActive(false);

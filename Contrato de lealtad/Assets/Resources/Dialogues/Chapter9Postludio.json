@@ -19,43 +19,43 @@
     {
       "character": "Lisella",
       "portrait": "LisellaNeutral",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "La verdad es que me sorprendió que usases el dinero de la familia para proteger las aldeas, pero... tiene sentido."
     },
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "right",
-      "facingDirection": "left",
+      "position": "left",
+      "facingDirection": "right",
       "text": "Es mi deber si quiero ser el siguiente rey, mi dinero es el dinero de la gente, no un alijo secreto en otro territorio."
     },
     {
       "character": "Lisella",
       "portrait": "LisellaTriste",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "..."
     },
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "right",
-      "facingDirection": "left",
+      "position": "left",
+      "facingDirection": "right",
       "text": "No creo que sea lo más aconsejable acampar aquí arriba, vamos a descender un poco antes de que anochezca."
     },
     {
       "character": "Lisella",
       "portrait": "LisellaNeutral",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Claro, vamos."
     },
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "right",
-      "facingDirection": "left",
+      "position": "left",
+      "facingDirection": "right",
       "text": "¡Todo el mundo, seguidme!"
     }
   ]

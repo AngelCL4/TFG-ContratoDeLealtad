@@ -6,8 +6,8 @@
         {
           "character": "Uridara",
           "portrait": "Uridara",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Mmm, necesito el barco... no puedo fallarle..."
         }
       ]
@@ -44,8 +44,8 @@
         {
           "character": "Uridara",
           "portrait": "Uridara",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Vamos, solo un poco más."
         }
       ]

@@ -32,15 +32,15 @@
         {
           "character": "Cenarn",
           "portrait": "Cenarn",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "El enemigo avanza... Así que Sorion de verdad ha caído, ¿eh?"
         },
         {
           "character": "Cenarn",
           "portrait": "Cenarn",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Muy bien, les haré pagar por eso, con intereses."
         }
       ]

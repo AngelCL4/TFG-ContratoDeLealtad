@@ -1399,8 +1399,8 @@
             "y": 16,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 14,
@@ -1583,8 +1583,8 @@
             "y": 15,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 14,
@@ -1711,8 +1711,8 @@
             "y": 14,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 7,
@@ -1831,8 +1831,8 @@
             "y": 14,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 22,
@@ -1943,8 +1943,8 @@
             "y": 13,
             "terrain": "Cliff9",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 13,
@@ -2167,8 +2167,8 @@
             "y": 12,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 18,
@@ -2351,8 +2351,8 @@
             "y": 11,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 18,
@@ -2431,8 +2431,8 @@
             "y": 10,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 5,
@@ -2535,8 +2535,8 @@
             "y": 10,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 18,

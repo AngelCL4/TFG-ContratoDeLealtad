@@ -32,15 +32,15 @@
         {
           "character": "Ettoh",
           "portrait": "Ettoh",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Adeon tenía razón, el enemigo nos persigue..."
         },
         {
           "character": "Ettoh",
           "portrait": "Ettoh",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Muy bien, solo tengo que conseguir el mayor tiempo posible..."
         }
       ]

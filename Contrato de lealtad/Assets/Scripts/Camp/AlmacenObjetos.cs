@@ -23,14 +23,20 @@ public class AlmacenObjetos : MonoBehaviour
     public void AñadirObjeto(Objeto obj)
     {
         if (!objetosAlmacenados.Contains(obj))
+        {   
             objetosAlmacenados.Add(obj);
+            GuardarObjetos(); //Guardado por objetos que pueden entrar fuera de la escena de campamento (visitas, apoyos)
+        }         
     }
 
     // Sacar objeto del almacen
     public void EliminarObjeto(Objeto obj)
     {
         if (objetosAlmacenados.Contains(obj))
+        {
             objetosAlmacenados.Remove(obj);
+            GuardarObjetos();
+        }
     }
 
     public List<Objeto> ObtenerObjetos()

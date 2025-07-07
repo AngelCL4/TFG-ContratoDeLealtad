@@ -267,9 +267,12 @@ public class ChapterManager : MonoBehaviour
 
     public void CalcularEntrenamientos(int chapter)
     {
-        if (chapter >= 8) GameManager.Instance.chapterDataJuego.entrenar = 3;
-        if (chapter >= 4) GameManager.Instance.chapterDataJuego.entrenar = 2;
-        if (chapter >= 1) GameManager.Instance.chapterDataJuego.entrenar = 1;
+        if (chapter >= 8)
+            GameManager.Instance.chapterDataJuego.entrenar = 3;
+        else if (chapter >= 4)
+            GameManager.Instance.chapterDataJuego.entrenar = 2;
+        else if (chapter >= 1)
+            GameManager.Instance.chapterDataJuego.entrenar = 1;
     }
 
     private int ExtraerNumeroDeCapitulo(string chapterName)

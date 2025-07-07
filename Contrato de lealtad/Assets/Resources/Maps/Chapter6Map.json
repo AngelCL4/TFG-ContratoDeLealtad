@@ -398,7 +398,7 @@
             "x": 9,
             "y": 16,
             "terrain": "Bridge12",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -558,7 +558,7 @@
             "x": 9,
             "y": 15,
             "terrain": "Bridge12",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -718,7 +718,7 @@
             "x": 9,
             "y": 14,
             "terrain": "Bridge12",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -878,7 +878,7 @@
             "x": 9,
             "y": 13,
             "terrain": "Bridge12",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -1342,7 +1342,7 @@
             "x": 7,
             "y": 10,
             "terrain": "Cliff66",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -1398,7 +1398,7 @@
             "x": 14,
             "y": 10,
             "terrain": "Cliff66",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -1502,7 +1502,7 @@
             "x": 7,
             "y": 9,
             "terrain": "Cliff65",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -1558,7 +1558,7 @@
             "x": 14,
             "y": 9,
             "terrain": "Cliff65",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -1718,7 +1718,7 @@
             "x": 14,
             "y": 8,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -1806,7 +1806,7 @@
             "x": 5,
             "y": 7,
             "terrain": "Cliff66",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -1878,7 +1878,7 @@
             "x": 14,
             "y": 7,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -1966,7 +1966,7 @@
             "x": 5,
             "y": 6,
             "terrain": "Cliff65",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2022,7 +2022,7 @@
             "x": 12,
             "y": 6,
             "terrain": "Cliff66",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2038,7 +2038,7 @@
             "x": 14,
             "y": 6,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2182,7 +2182,7 @@
             "x": 12,
             "y": 5,
             "terrain": "Cliff65",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2198,7 +2198,7 @@
             "x": 14,
             "y": 5,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2358,7 +2358,7 @@
             "x": 14,
             "y": 4,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2518,7 +2518,7 @@
             "x": 14,
             "y": 3,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2678,7 +2678,7 @@
             "x": 14,
             "y": 2,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2814,7 +2814,7 @@
             "x": 11,
             "y": 1,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -2974,7 +2974,7 @@
             "x": 11,
             "y": 0,
             "terrain": "Cliff64",
-            "rotation": 180.0,
+            "rotation": 0.0,
             "flipX": true,
             "flipY": false
         },
@@ -3061,7 +3061,7 @@
             "y": 2.0
         },
         {
-            "x": 6.0,
+            "x": 13.0,
             "y": 2.0
         },
         {

@@ -32,16 +32,16 @@
         {
           "character": "Sorion",
           "portrait": "Sorion",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Carroñeros... Ja, tampoco va tan mal encaminado..."
         },
         {
           "character": "Sorion",
           "portrait": "Sorion",
-          "position": "left",
-          "facingDirection": "right",
-          "text": "Pero tengo órdenes y las cumpliré, no pasarán a la ciudad mientras aún respire."
+          "position": "right",
+          "facingDirection": "left",
+          "text": "Pero tengo órdenes... y las cumpliré, no pasarán a la ciudad mientras aún respire."
         }
       ]
     },

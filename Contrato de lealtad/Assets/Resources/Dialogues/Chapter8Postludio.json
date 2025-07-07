@@ -97,58 +97,58 @@
       "backgroundChange": "NightTimeTavern",
       "character": "Demain",
       "portrait": "DemainTriste",
-      "position": "right",
-      "facingDirection": "left",
+      "position": "left",
+      "facingDirection": "right",
       "text": "Demandan un pago por sus servicios... ¿y si no destruyen la aldea? ¿Qué clase de gente son?",
       "music": "Tavern"
     },
     {
       "character": "Lisella",
       "portrait": "LisellaEnfado",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "La misma que dejó a esta gente sin protección para empezar destruyendo el reino."
     },
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "right",
-      "facingDirection": "left",
+      "position": "left",
+      "facingDirection": "right",
       "text": "Ahora estoy seguro del todo, tenemos que expulsarlos de aquí, no puedo dejar que sigan causando daño a mi gente."
     },
     {
       "character": "Lisella",
       "portrait": "LisellaFeliz",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Que determinación..."
     },
     {
       "character": "Demain",
       "portrait": "DemainFeliz",
-      "position": "right",
-      "facingDirection": "left",
+      "position": "left",
+      "facingDirection": "right",
       "text": "He tardado lo mío en conseguirla, pero no pienso desfallecer otra vez."
     },
     {
       "character": "Lisella",
       "portrait": "LisellaFeliz",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Así me gusta, aunque ahora toca descansar un poco, estoy molida."
     },
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "right",
-      "facingDirection": "left",
+      "position": "left",
+      "facingDirection": "right",
       "text": "La verdad es que yo también... Tocará ir a las habitaciones."
     },
     {
       "character": "Lisella",
       "portrait": "LisellaNeutral",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Vamos."
     }
   ]

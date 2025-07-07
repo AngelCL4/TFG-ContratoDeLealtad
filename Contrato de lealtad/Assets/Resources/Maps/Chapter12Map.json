@@ -567,8 +567,8 @@
             "y": 20,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 2,
@@ -751,8 +751,8 @@
             "y": 19,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 2,
@@ -935,8 +935,8 @@
             "y": 18,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 2,
@@ -1119,8 +1119,8 @@
             "y": 17,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 2,
@@ -1383,8 +1383,8 @@
             "y": 16,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 12,
@@ -1567,8 +1567,8 @@
             "y": 15,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 12,
@@ -1751,8 +1751,8 @@
             "y": 14,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 12,
@@ -1935,8 +1935,8 @@
             "y": 13,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 12,
@@ -2119,8 +2119,8 @@
             "y": 12,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 12,
@@ -2303,8 +2303,8 @@
             "y": 11,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 12,
@@ -2367,8 +2367,8 @@
             "y": 11,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 20,
@@ -2551,8 +2551,8 @@
             "y": 10,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 20,
@@ -2735,8 +2735,8 @@
             "y": 9,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 20,
@@ -2919,8 +2919,8 @@
             "y": 8,
             "terrain": "Bridge2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 20,
@@ -3399,8 +3399,8 @@
             "y": 5,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 11,
@@ -3439,8 +3439,8 @@
             "y": 5,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 16,

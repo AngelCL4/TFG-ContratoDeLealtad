@@ -591,8 +591,8 @@
             "y": 15,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 5,
@@ -703,8 +703,8 @@
             "y": 15,
             "terrain": "Cliff9",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 19,
@@ -735,8 +735,8 @@
             "y": 15,
             "terrain": "Cliff3",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 0,
@@ -775,8 +775,8 @@
             "y": 14,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 5,
@@ -919,8 +919,8 @@
             "y": 14,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 0,
@@ -1414,8 +1414,8 @@
             "x": 15,
             "y": 11,
             "terrain": "Wall5",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -1598,8 +1598,8 @@
             "x": 15,
             "y": 10,
             "terrain": "Wall5",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -1782,8 +1782,8 @@
             "x": 15,
             "y": 9,
             "terrain": "Wall6",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -2014,8 +2014,8 @@
             "x": 21,
             "y": 8,
             "terrain": "Wall5",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -2198,8 +2198,8 @@
             "x": 21,
             "y": 7,
             "terrain": "Wall5",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -2382,8 +2382,8 @@
             "x": 21,
             "y": 6,
             "terrain": "Wall6",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -2926,8 +2926,8 @@
             "x": 20,
             "y": 3,
             "terrain": "Wall4",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {
@@ -3110,8 +3110,8 @@
             "x": 20,
             "y": 2,
             "terrain": "Wall6",
-            "rotation": 180.0,
-            "flipX": true,
+            "rotation": 0.0,
+            "flipX": false,
             "flipY": false
         },
         {

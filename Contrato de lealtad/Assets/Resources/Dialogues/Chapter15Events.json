@@ -6,8 +6,8 @@
         {
           "character": "Adeon",
           "portrait": "Adeon",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Hmm, así que somos los últimos que quedan... Muy bien, no les daré la satisfacción de la victoria."
         }
       ]
@@ -44,8 +44,8 @@
         {
           "character": "Adeon",
           "portrait": "Adeon",
-          "position": "left",
-          "facingDirection": "right",
+          "position": "right",
+          "facingDirection": "left",
           "text": "Este no puede ser el final de Los Liberadores... Biedro nos necesita..."
         }
       ]

@@ -2439,8 +2439,8 @@
             "y": 19,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 26,
@@ -2591,8 +2591,8 @@
             "y": 18,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 14,
@@ -2687,8 +2687,8 @@
             "y": 18,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 26,
@@ -2839,8 +2839,8 @@
             "y": 17,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 14,
@@ -2935,8 +2935,8 @@
             "y": 17,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 26,
@@ -3039,8 +3039,8 @@
             "y": 16,
             "terrain": "Cliff2",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 8,
@@ -3087,8 +3087,8 @@
             "y": 16,
             "terrain": "Cliff1",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 14,
@@ -3567,8 +3567,8 @@
             "y": 14,
             "terrain": "Mountain4",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 12,
@@ -3911,8 +3911,8 @@
             "y": 13,
             "terrain": "Mountain4",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 24,
@@ -6303,8 +6303,8 @@
             "y": 3,
             "terrain": "SeaCliff17",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 13,
@@ -6559,8 +6559,8 @@
             "y": 2,
             "terrain": "SeaCliff17",
             "rotation": 180.0,
-            "flipX": true,
-            "flipY": false
+            "flipX": false,
+            "flipY": true
         },
         {
             "x": 14,
