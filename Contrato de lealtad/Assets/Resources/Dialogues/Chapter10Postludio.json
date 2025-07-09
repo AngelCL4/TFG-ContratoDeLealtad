@@ -4,8 +4,8 @@
       "backgroundChange": "Forest10",
       "character": "Demain",
       "portrait": "DemainEnfado",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "¡Capturad a su comandante!",
       "music": "Minstrel"
     },
@@ -26,8 +26,8 @@
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Quiero hablar con él, lo que pase después dependerá de él."
     },
     {
@@ -40,8 +40,8 @@
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Montemos un campamento, así el enemigo no podrá recuperar el terreno, por la mañana atacamos."
     },
     {
@@ -54,8 +54,8 @@
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Sí, cuando acabe tengo que hablar con Sorion."
     },
     {

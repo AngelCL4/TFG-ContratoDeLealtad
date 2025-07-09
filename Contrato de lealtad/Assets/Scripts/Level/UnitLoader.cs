@@ -68,8 +68,8 @@ public class UnitLoader : MonoBehaviour
                 {
                     Debug.LogWarning("No se encontró 'SimboloComandante'");
                 }
-                // El jefe está dos niveles por encima de la media del ejército
-                objetivoNivel += 1;
+                // El jefe está cinco niveles por encima de la media del ejército
+                objetivoNivel += 4;
             }
             // Subir de nivel al resto de enemigos
             if (unidad.nivel < objetivoNivel)

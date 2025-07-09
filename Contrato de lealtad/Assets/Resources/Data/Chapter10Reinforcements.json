@@ -198,7 +198,7 @@
         "descripcion": "",
         "bonos": false,
         "bonosPromocion": false,
-        "ia": "Defensiva"
+        "ia": "Ofensiva"
       },
       "turno": 4,
       "x": 8.0,
@@ -504,7 +504,7 @@
         "descripcion": "",
         "bonos": false,
         "bonosPromocion": false,
-        "ia": "Defensiva"
+        "ia": "Ofensiva"
       },
       "turno": 4,
       "x": 14.0,
@@ -861,7 +861,7 @@
         "descripcion": "",
         "bonos": false,
         "bonosPromocion": false,
-        "ia": "Defensiva"
+        "ia": "Ofensiva"
       },
       "turno": 6,
       "x": 8.0,
@@ -1167,7 +1167,7 @@
         "descripcion": "",
         "bonos": false,
         "bonosPromocion": false,
-        "ia": "Defensiva"
+        "ia": "Ofensiva"
       },
       "turno": 6,
       "x": 14.0,

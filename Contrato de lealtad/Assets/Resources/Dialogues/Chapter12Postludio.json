@@ -4,8 +4,8 @@
       "backgroundChange": "Forest6",
       "character": "Demain",
       "portrait": "DemainEnfado",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Ah...",
       "music": "Grief2"
     },
@@ -19,8 +19,8 @@
     {
       "character": "Demain",
       "portrait": "DemainTriste",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Tanta muerte que podría haberse evitado."
     },
     {

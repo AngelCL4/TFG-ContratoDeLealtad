@@ -4,8 +4,8 @@
       "backgroundChange": "EveningFortView",
       "character": "Demain",
       "portrait": "DemainEnfado",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Ah... por fin la ciudad está limpia de mercenarios...",
       "music": "Valiant"
     },
@@ -19,8 +19,8 @@
     {
       "character": "Demain",
       "portrait": "DemainNeutral",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Sí, y no podemos parar, ¡vamos!"
     },
     {

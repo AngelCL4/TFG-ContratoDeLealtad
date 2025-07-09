@@ -4,8 +4,8 @@
       "backgroundChange": "DayLakeside",
       "character": "Demain",
       "portrait": "DemainEnfado",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "Al menos los aldeanos se rinden tras derrotar a los mercenarios...",
       "music": "Grief2"
     },
@@ -19,8 +19,8 @@
     {
       "character": "Demain",
       "portrait": "DemainTriste",
-      "position": "left",
-      "facingDirection": "right",
+      "position": "right",
+      "facingDirection": "left",
       "text": "La vida no siempre es como queremos."
     },
     {
