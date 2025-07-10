@@ -13,6 +13,12 @@ MonoBehaviour:
   m_Name: TutorialDatabase
   m_EditorClassIdentifier: 
   tutoriales:
+  - titulo: Controles generales
+    descripcion: "A: Seleccionar/Confirmar\nS: Cancelar\nFlechas: Navegaci\xF3n/Movimiento\nBarra
+      espaciadora: Avanzar di\xE1logo\n\n-- En nivel --\nA sobre enemigo: Ver rango
+      de ataque de enemigo concreto\r\nD: Ver rangos de ataque de todos los enemigos"
+    desbloqueadoDesdeInicio: 1
+    id: 
   - titulo: Movimiento
     descripcion: "Para mover a tus unidades debes pulsar A con el puntero sobre ellas.\nTras
       eso se destacar\xE1n en azul las casillas a las que la unidad se puede mover.\nSi
@@ -30,20 +36,91 @@ MonoBehaviour:
       tras pulsar A de nuevo."
     desbloqueadoDesdeInicio: 1
     id: 
-  - titulo: Conversaciones
-    descripcion: "Al completar niveles o al combatir en casillas adyacentes las unidades
-      ganar\xE1n puntos de afecto entre ellas.\nCuando consigan los puntos suficientes
-      se desbloquear\xE1n conversaciones entre los personajes, que se pueden ver
-      en el campamento.\nAl ver ciertas conversaciones se obtendr\xE1n objetos o
-      desbloquear\xE1n mapas adicionales, asi que consigue todas las que puedas."
-    desbloqueadoDesdeInicio: 0
-    id: Chapter1
-  - titulo: Potenciadores
-    descripcion: "Estos objetos, como por ejemplo la Fruta Jugosa, aumentan las estad\xEDsticas
-      de un personaje de forma permanente al ser consumidos.\nSin embargo, no son
-      objetos muy abundantes, por lo que piensa bien en que unidad los usar\xE1s."
-    desbloqueadoDesdeInicio: 0
-    id: Chapter2
+  - titulo: Curar
+    descripcion: "Las unidades de clase Curandero, Cl\xE9rigo, Trovador y Caballero
+      Mago pueden curar a aliados adyacentes heridos, ganando experiencia en el proceso.\nPara
+      hacerlo elige la opci\xF3n en el men\xFA de acci\xF3n y pulsa A sobre el aliado
+      al que quieres curar."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Objetos
+    descripcion: "Cada unidad tiene la posibilidad de llevar un objeto. Si reciben
+      otro (mediante visitar), este ir\xE1 al almac\xE9n.\nLos objetos pueden ser
+      de uso activo (curativos, t\xF3nicos o potenciadores) o pasivo (artefactos).\nPara
+      usar un objeto debes usar la opci\xF3n Objeto del men\xFA de acci\xF3n y pulsar
+      la tecla A posteriormente."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Intercambio
+    descripcion: "Una unidad puede intercambiar su objeto con una unidad adyacente,
+      sin necesidad de que ambas posean un objeto.\nPara hacerlo elige Intercambiar
+      en el men\xFA de acci\xF3n y pulsa A con el puntero encima de la unidad con
+      la que quieras intercambiar."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: "Men\xFA de combate"
+    descripcion: "Si pulsas A durante un nivel en una casilla vac\xEDa se abrir\xE1
+      el men\xFA de combate.\nEn el puedes consultar los objetivos del nivel, los
+      tutoriales del juego o acceder al men\xFA de ajustes.\nTambi\xE9n tienes la
+      opci\xF3n de acabar tu fase sin mover a todas tus unidades manualmente usando
+      la opci\xF3n 'Fin'.\nSi tu modo de Final de turno es 'Manual', siempre deber\xE1s
+      pulsar esta opci\xF3n para acabar la fase del jugador."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Objetivos
+    descripcion: "Cada mapa puede tener uno de cuatro objetivos diferentes.\nDerrotar
+      al comandante enemigo, la unidad con un s\xEDmbolo de escudo dorado.\nDerrotar
+      a todas las unidades enemigas.\nSobrevivir por un n\xFAmero determinado de
+      turnos.\nEscapar con todas tus unidades, usando 'Esperar' en la casilla marcada
+      por un tono amarillo."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Experiencia
+    descripcion: "Cuando tus unidades curan a aliados o atacan a enemigos estan ganan
+      puntos de experiencia.\nCuando los puntos de experiencia de una unidad superan
+      los 100, esta sube de nivel, teniendo una probabilidad de mejorar sus estad\xEDsticas
+      (excepto el movimiento)."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: "Estad\xEDsticas"
+    descripcion: "PV: Indica el da\xF1o que la unidad puede recibir antes de ser
+      derrotada.\nPoder: Indica el da\xF1o que la unidad inflige al atacar, que se
+      enfrenta a la defensa o resistencia del enemigo seg\xFAn su tipo de da\xF1o.\nHabilidad:
+      Incrementa la probalidad de realizar un golpe cr\xEDtico (ataque que hace el
+      doble de da\xF1o). Cada punto es un 1%.\nVelocidad: Indica si la unidad realizar\xE1
+      un ataque doble o no, dependiendo de si su velocidad es mayor que la de su
+      adversario.\nSuerte: Reduce la probalidad de recibir un golpe cr\xEDtico (ataque
+      que hace el doble de da\xF1o). Cada punto reduce un 1% la probabilidad enemiga.\nDefensa:
+      Reduce el da\xF1o recibido por enemigos que usan armas.\nResistencia: Reduce
+      el da\xF1o recibido por enemigos que usan magia.\nMovimiento: Indica las casillas
+      que la unidad se puede mover en un turno."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: "Tipo de da\xF1o"
+    descripcion: "F\xEDsico: Este tipo de da\xF1o se enfrenta a la defensa del enemigo
+      a atacar.\nM\xE1gico: Este tipo de da\xF1o se enfrenta a la resistencia del
+      enemigo a atacar.\nPuedes comprobar f\xE1cilmente si una unidad tiene da\xF1o
+      f\xEDsico o m\xE1gico en funci\xF3n de si presentan un arma en su sprite. Si
+      lo hacen su da\xF1o es f\xEDsico, si no, m\xE1gico."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Tipo de movimiento
+    descripcion: "Cada clase tiene un tipo de movimiento asociado, el cual se puede
+      ver a simple vista y afecta a las casillas en las que la unidad se puede mover.\nA
+      pie: No se puede mover a casillas 'Impasables'.\nMontado: No se puede mover
+      a casillas 'Impasables'. M\xE1s movimiento que unidades a pie, pero si una
+      casilla tiene coste de movimiento mayor a uno, se le a\xF1ade otro adicional
+      a unidades montadas. \nVolador: Se puede mover por todo tipo de casillas sin
+      restricciones. M\xE1s movimiento que unidades a pie."
+    desbloqueadoDesdeInicio: 1
+    id: 
+  - titulo: Terreno
+    descripcion: "Cada casilla que compone un escenario tiene un tipo de terreno.\nEstos
+      influencian en las estad\xEDsticas de las unidades que se sit\xFAan sobre ellos.\nCon
+      el men\xFA de combate abierto se puede ver una leyenda que te indica a que
+      estad\xEDsticas afecta el terreno en el que se encuentra el puntero."
+    desbloqueadoDesdeInicio: 1
+    id: 
   - titulo: Visitar
     descripcion: "En algunos mapas te encontrar\xE1s con casas con la puerta abierta
       o posadas.\nSi usas la acci\xF3n 'Esperar' sobre la casilla correcta tu unidad
@@ -57,24 +134,6 @@ MonoBehaviour:
       solo no puede ser usada hasta el siguiente cap\xEDtulo."
     desbloqueadoDesdeInicio: 1
     id: 
-  - titulo: Experiencia
-    descripcion: "Cuando tus unidades curan a aliados o atacan a enemigos estan ganan
-      puntos de experiencia.\nCuando los puntos de experiencia de una unidad superan
-      los 100, esta sube de nivel, teniendo una probabilidad de mejorar sus estad\xEDsticas
-      (excepto el movimiento)."
-    desbloqueadoDesdeInicio: 1
-    id: 
-  - titulo: Objetos
-    descripcion: "Cada unidad tiene la posibilidad de llevar un objeto. Si reciben
-      otro (mediante visitar), este ir\xE1 al almac\xE9n.\nLos objetos pueden ser
-      de uso activo (curativos, t\xF3nicos o potenciadores) o pasivo (artefactos)."
-    desbloqueadoDesdeInicio: 1
-    id: 
-  - titulo: Intercambio
-    descripcion: Una unidad puede intercambiar su objeto con una unidad adyacente,
-      sin necesidad de que ambas posean un objeto.
-    desbloqueadoDesdeInicio: 1
-    id: 
   - titulo: Objetos curativos
     descripcion: Los objetos curativos, como las pociones, tienen usos limitados
       y restauran la vida perdida de la unidad que los posea al usarlos.
@@ -85,12 +144,26 @@ MonoBehaviour:
       a la unidad que los consuma.\nEsta mejora va disminuyendo en 1 cada turno."
     desbloqueadoDesdeInicio: 0
     id: Chapter3
+  - titulo: Potenciadores
+    descripcion: "Estos objetos, como por ejemplo la Fruta Jugosa, aumentan las estad\xEDsticas
+      de un personaje de forma permanente al ser consumidos.\nSin embargo, no son
+      objetos muy abundantes, por lo que piensa bien en que unidad los usar\xE1s."
+    desbloqueadoDesdeInicio: 0
+    id: Chapter2
   - titulo: Artefactos
     descripcion: "Los artefactos son objetos de uso pasivo que afectan a las estad\xEDsticas
       de las unidades (aliadas o enemigas) en un rango.\nLa gran mayor\xEDa de artefactos
       se obtienen al ver conversaciones entre personajes."
     desbloqueadoDesdeInicio: 0
     id: Chapter8
+  - titulo: Conversaciones
+    descripcion: "Al completar niveles o al combatir en casillas adyacentes las unidades
+      ganar\xE1n puntos de afecto entre ellas.\nCuando consigan los puntos suficientes
+      se desbloquear\xE1n conversaciones entre los personajes, que se pueden ver
+      en el campamento.\nAl ver ciertas conversaciones se obtendr\xE1n objetos o
+      desbloquear\xE1n cap\xEDtulos adicionales, asi que consigue todas las que puedas."
+    desbloqueadoDesdeInicio: 0
+    id: Chapter1
   - titulo: Campamento
     descripcion: "El campamento es el men\xFA de planificaci\xF3n que visitas entre
       niveles, en el tienes varias funciones.\nContratar te deja gastar tus contratos
@@ -109,3 +182,9 @@ MonoBehaviour:
       conseguirlos todos?"
     desbloqueadoDesdeInicio: 1
     id: 
+  - titulo: "Promoci\xF3n"
+    descripcion: "Tras completar ciertos cap\xEDtulos, las unidades de tu ej\xE9rcito
+      pueden promocionar.\nEsto les hace cambiar de clase a su versi\xF3n 'Avanzada'
+      lo que les otorga bonos en sus estad\xEDsticas."
+    desbloqueadoDesdeInicio: 0
+    id: Chapter8

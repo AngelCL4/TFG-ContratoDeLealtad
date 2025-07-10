@@ -4386,7 +4386,7 @@ GameObject:
   - component: {fileID: 889875978}
   - component: {fileID: 889875977}
   m_Layer: 5
-  m_Name: SettingsMenuPanel
+  m_Name: MenuDeAjustes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4441,7 +4441,7 @@ MonoBehaviour:
   sliderMusica: {fileID: 1998572025}
   sliderEfectos: {fileID: 1711182336}
   mainMenuControllerObject: {fileID: 0}
-  panelBandaSonora: {fileID: 0}
+  panelBandaSonora: {fileID: 1298809367}
 --- !u!114 &889875978
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7137,7 +7137,7 @@ GameObject:
   - component: {fileID: 1298809370}
   - component: {fileID: 1298809369}
   m_Layer: 5
-  m_Name: OpcionBandaSonora (1)
+  m_Name: PanelBandaSonora
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7653,7 +7653,7 @@ GameObject:
   - component: {fileID: 1384630071}
   - component: {fileID: 1384630070}
   m_Layer: 5
-  m_Name: TutorialMenuPanel
+  m_Name: MenuDeTutorial
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9798,8 +9798,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -717.5, y: 0}
-  m_SizeDelta: {x: -1835, y: -300}
+  m_AnchoredPosition: {x: -717.5, y: 5}
+  m_SizeDelta: {x: -1835, y: -270}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1654784221
 MonoBehaviour:
@@ -10854,9 +10854,9 @@ MonoBehaviour:
   m_fontSize: 70
   m_fontSizeBase: 70
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 70
   m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256

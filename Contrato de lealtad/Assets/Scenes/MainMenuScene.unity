@@ -2000,7 +2000,7 @@ GameObject:
   - component: {fileID: 935799369}
   - component: {fileID: 935799368}
   m_Layer: 5
-  m_Name: OpcionBandaSonora
+  m_Name: PanelBandaSonora
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

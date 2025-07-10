@@ -124,32 +124,30 @@ public class GameManager : MonoBehaviour
         return datosDesbloqueos;
     }
 
-    public void CargarDatosPartida()
+    public bool CargarDatosPartida()
     {
         string unidadSavePath = Path.Combine(Application.persistentDataPath, "unitsData_partida.json");
         string chapterSavePath = Path.Combine(Application.persistentDataPath, "chapterData_partida.json");
         string unlockedSavePath = Path.Combine(Application.persistentDataPath, "unlockedChapters_partida.json");
 
-        if (File.Exists(unidadSavePath))
+         // Verificar que los archivos necesarios existen antes de cargar
+        if (!File.Exists(unidadSavePath) || !File.Exists(chapterSavePath) || !File.Exists(unlockedSavePath))
         {
-            string unidadesJson = File.ReadAllText(unidadSavePath);
-            datosUnidades = JsonConvert.DeserializeObject<DatosJuego>(unidadesJson);
-            Debug.Log("Unidades cargadas.");
+            Debug.LogWarning("Partida guardada corrupta/No hay partida guardada.");
+            return false;
         }
 
-        if (File.Exists(chapterSavePath))
-        {
-            string chapterJson = File.ReadAllText(chapterSavePath);
-            chapterDataActual = JsonConvert.DeserializeObject<ChapterData>(chapterJson);
-            Debug.Log("Capítulos cargados.");
-        }
+        string unidadesJson = File.ReadAllText(unidadSavePath);
+        datosUnidades = JsonConvert.DeserializeObject<DatosJuego>(unidadesJson);
+        Debug.Log("Unidades cargadas.");
 
-        if (File.Exists(unlockedSavePath))
-        {
-            string unlockedJson = File.ReadAllText(unlockedSavePath);
-            unlockedChapterDataActual = JsonConvert.DeserializeObject<UnlockedChaptersData>(unlockedJson);
-            Debug.Log("Capítulos desbloqueados cargados.");
-        }
+        string chapterJson = File.ReadAllText(chapterSavePath);
+        chapterDataActual = JsonConvert.DeserializeObject<ChapterData>(chapterJson);
+        Debug.Log("Capítulos cargados.");
+
+        string unlockedJson = File.ReadAllText(unlockedSavePath);
+        unlockedChapterDataActual = JsonConvert.DeserializeObject<UnlockedChaptersData>(unlockedJson);
+        Debug.Log("Capítulos desbloqueados cargados.");
 
         // Cargar objetos almacenados, apoyos y desvíos pendientes, y datos persistentes
         AlmacenObjetos.Instance.CargarObjetos();
@@ -164,6 +162,8 @@ public class GameManager : MonoBehaviour
         chapterDataJuego = chapterDataActual;
 
         unlockedChapterDataJuego = unlockedChapterDataActual;
+
+        return true;
     }
 
     // Función para desbloquear capítulos

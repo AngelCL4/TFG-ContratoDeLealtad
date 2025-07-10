@@ -2258,9 +2258,9 @@ MonoBehaviour:
   m_fontSize: 75
   m_fontSizeBase: 75
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 75
   m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
@@ -5216,7 +5216,7 @@ GameObject:
   - component: {fileID: 440236930}
   - component: {fileID: 440236929}
   m_Layer: 5
-  m_Name: OpcionBandaSonora (1)
+  m_Name: PanelBandaSonora
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6320,8 +6320,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -637.5, y: 0}
-  m_SizeDelta: {x: -1625, y: -300}
+  m_AnchoredPosition: {x: -637.5, y: 5}
+  m_SizeDelta: {x: -1625, y: -270}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &539423349
 MonoBehaviour:
@@ -12228,7 +12228,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -1600, y: -400}
+  m_SizeDelta: {x: -1600, y: -200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1302061622
 MonoBehaviour:
@@ -19632,7 +19632,7 @@ MonoBehaviour:
   sliderMusica: {fileID: 1301878922}
   sliderEfectos: {fileID: 1188382364}
   mainMenuControllerObject: {fileID: 0}
-  panelBandaSonora: {fileID: 0}
+  panelBandaSonora: {fileID: 440236927}
 --- !u!1 &1985547934
 GameObject:
   m_ObjectHideFlags: 0

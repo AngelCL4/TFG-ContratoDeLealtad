@@ -93,8 +93,12 @@ public class MainMenuController : MonoBehaviour
     //Cargar partida empezada
     private void OnContinueClicked()
     {
-        GameManager.Instance.CargarDatosPartida();
-        SceneLoader.Instance.LoadScene("CampScene");
+        bool cargaExitosa = GameManager.Instance.CargarDatosPartida();
+
+        if (cargaExitosa)
+        {
+            SceneLoader.Instance.LoadScene("CampScene");
+        }
     }
 
     //Abrir menú de ajustes
